@@ -7,6 +7,8 @@ sidebar:
   nav: "members"
 ---
 
+
+## Principal Investigator
 [Prof. Dr. Omar Valsson]({{site.url}}/members/omar-valsson)    
 ![Omar Valsson]({{site.url}}/assets/images/OmarValsson.jpg){: width="200px"}
 
@@ -16,7 +18,7 @@ sidebar:
 ![Benjamin Pampel]({{site.url}}/assets/images/BenjaminPampel.jpg){: width="200px"}  
 Postdoctoral Researcher at the MPI for Polymer Research in Mainz
 
-## PhD Students
+## Graduate Students
 
 [Shikshya Bhusal]({{site.url}}/members/shikshya-bhusal)   
 ![Shikshya Bhusal]({{site.url}}/assets/images/ShikshyaBhusal.jpg){: width="200px"}
