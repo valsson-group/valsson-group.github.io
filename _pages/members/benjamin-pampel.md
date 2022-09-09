@@ -21,11 +21,13 @@ Mainz, Germany
 
 ### Professional Experience
 * Postdoctoral Researcher with Dr. Omar Valsson  
-  MPI for Polymer Research, Jun 2022 to Present
+  MPI for Polymer Research  
+  Jun 2022 to Present
 
 ### Education
 
-* PhD in Physics, MPI for Polymer Research, Mar 2018 to May 2022  
+* PhD in Physics, MPI for Polymer Research  
+  Mar 2018 to May 2022  
   Supervisor: Dr. Omar Valsson
 * MSc in Physics, Technische Universität Darmstadt, Mar 2018  
   Supervisor: Dr. Burkhard Dünweg  

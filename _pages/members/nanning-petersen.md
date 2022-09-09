@@ -23,8 +23,9 @@ Mainz, Germany
 
 ### Education
 
-* PhD in Physics, MPI for Polymer Research, Oct 2019 to Present  
-  Supervisors: Dr. Omar Valsson and [Dr. Andreas Riedinger](https://sites.google.com/view/riedinger-group-mpip)  
+* PhD in Physics, MPI for Polymer Research  
+  Oct 2019 to Present  
+  Supervisors: Dr. Omar Valsson and Dr. Andreas Riedinger  
 * MSc in Physics, Christian-Albrechts-Universität zu Kiel, May 2018  
   Supervisor: Prof. Dr. Stefan Heinze  
 * BSc in Physics, Christian-Albrechts-Universität zu Kiel, Apr 2014  

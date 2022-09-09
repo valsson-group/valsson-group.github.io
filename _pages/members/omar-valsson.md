@@ -24,9 +24,7 @@ ORCID: [0000-0001-7971-4767](http://orcid.org/0000-0001-7971-4767)
 ### Professional Experience
 
 * Assistant professor (Theoretical/Computational Chemistry)
-  Department of Chemistry  
-  University of North Texas  
-  Denton, TX, USA  
+  Department of Chemistry, University of North Texas, Denton, TX  
   Jan 2022 to Present
 * Group Leader, Theory Group (AK Kremer)  
   Max Planck Institute for Polymer Research, Mainz, Germany  
@@ -54,9 +52,11 @@ ORCID: [0000-0001-7971-4767](http://orcid.org/0000-0001-7971-4767)
 * Physical Address:  
   Dr. Omar Valsson   
   1508 W. Mulberry Street  
-  Denton, Texas 76201, USA   
+  Denton, Texas 76201
+  USA   
 
 * Mailing Address (USPS only):  
   Dr. Omar valsson    
   1155 Union Circle #305070  
-  Denton, Texas 76203-5017, USA  
+  Denton, Texas 76203-5017
+  USA  
