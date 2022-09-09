@@ -1,6 +1,6 @@
 ---
-permalink: /about/
-title: "About"
+permalink: /resources/
+title: "Resources | Codes"
 author_profile: false
 ---
 
