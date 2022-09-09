@@ -26,16 +26,16 @@ Postdoctoral Researcher at the MPI for Polymer Research in Mainz
 [Daniel Lene]({{site.url}}/members/daniel-lene)   
 ![Daniel Lene]({{site.url}}/assets/images/DanielLene.jpg){: width="200px"}
 
-[Pradip Si]({{site.url}}/members/pradip-si)   
-![Pradip Si]({{site.url}}/assets/images/PradipSi.jpg){: width="200px"}
-
 [Nanning Petersen]({{site.url}}/members/nanning-petersen)   
 ![Nanning Petersen]({{site.url}}/assets/images/NanningPetersen.jpg){: width="200px"}  
 PhD Student at the MPI for Polymer Research in Mainz
 
+[Pradip Si]({{site.url}}/members/pradip-si)   
+![Pradip Si]({{site.url}}/assets/images/PradipSi.jpg){: width="200px"}
+
 ## Alumni
-- Dr. Nehzat Safaei, Postdoctoral Researcher at the MPI for Polymer Research, February 2018 to June 2021.
 - Dr. Bin Song, PhD Student the MPI for Polymer Research, October 2017 to May 2022
+- Dr. Nehzat Safaei, Postdoctoral Researcher at the MPI for Polymer Research, February 2018 to June 2021.
 
 
 ## Visitors
