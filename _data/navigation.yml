@@ -1,5 +1,7 @@
 main:
+#  - title: "Members"
+#    url: /members/
   - title: "Publications"
     url: /publications/
-  - title: "About"
-    url: /about/
+  - title: "Resources | Codes"
+    url: /resources/
