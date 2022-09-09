@@ -4,16 +4,57 @@ author_profile: false
 permalink: /publications/
 ---
 
-For citation statistics see [ResearcherID](http://www.researcherid.com/rid/D-2438-2010) or [Google Scholar](https://scholar.google.nl/citations?user=hd8q6KgAAAAJhl=en)  
+See also [Google Scholar](https://scholar.google.com/citations?user=hd8q6KgAAAAJhl=en)  
 
 
 ## Publication List
+
+* B. Pampel, S. Holbach, L. Hartung, and **O. Valsson**
+*Sampling Rare Event Energy Landscapes via Birth-Death Augmented Dynamics*
+Preprint -- arXiv:2209.00607 (2022)
+DOI: [10.48550/arXiv.2209.00607](https://doi.org/10.48550/arXiv.2209.00607)
+arXiv: [2209.00607](https://arxiv.org/abs/2209.00607)  
+Dataset: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7019132.svg)](https://doi.org/10.5281/zenodo.7019132)  
+Simulation Code (v0.3.1): ![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5874773.svg)](https://doi.org/10.5281/zenodo.5874773)
+Simulation Code on Github: [bpampel/bdld](https://github.com/bpampel/bdld)
+
+* J. Rydzewski, M. Chen, T. K. Ghosh, and **O. Valsson**
+*Reweighted Manifold Learning of Collective Variables from Enhanced Sampling Simulations*
+Preprint -- arXiv:2207.14554 (2022)
+DOI: [10.48550/arXiv.2207.14554](https://doi.org/10.48550/arXiv.2207.14554)
+arXiv: [2207.14554](https://arxiv.org/abs/2207.14554)  
+
+* J. Hénin, T. Lelièvre, M. R. Shirts, **O. Valsson**, and L. Delemotte
+*Enhanced Sampling Methods for Molecular Dynamics Simulations*
+Preprint -- arXiv:2202.04164 (2022)
+DOI: [10.48550/arXiv.2202.04164](https://doi.org/10.48550/arXiv.2202.04164)
+arXiv: [2205.14774](https://arxiv.org/abs/2202.04164)  
+Article Code Repository on Github: [jhenin/Methods-for-enhanced-sampling-and-free-energy-calculations](https://github.com/jhenin/Methods-for-enhanced-sampling-and-free-energy-calculations)
+
+* L. M. Ghiringhelli, C. Baldauf, ..., **O. Valsson**, C. Wöll, and M. Scheffler (see full author list in paper)
+*Shared Metadata for Data-Centric Materials Science*
+Preprint -- arXiv:2205.14774 (2022)
+DOI: [10.48550/arXiv.2205.14774](https://doi.org/10.48550/arXiv.2205.14774)
+arXiv: [2205.14774](https://arxiv.org/abs/2205.14774)  
+
+* N. Petersen, M. Girard, A. Riedinger, and **O. Valsson**
+*The Crucial Role of Solvation Forces in the Steric Stabilization of Nanoplatelets*
+Preprint -- ChemRxiv (2022)
+DOI: [10.26434/chemrxiv-2022-mw1cs-v2](https://doi.org/10.26434/chemrxiv-2022-mw1cs-v2)  
+Dataset: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6832532.svg)](https://doi.org/10.5281/zenodo.6832532)  
+
+* B. Pampel and **O. Valsson**  
+*Improving the Efficiency of Variationally Enhanced Sampling with Wavelet-Based Bias Potentials*   
+J. Chem. Theory Comput. 18, 4127-4141 (2022)  
+DOI: [10.1021/acs.jctc.2c00197](https://doi.org/10.1021/acs.jctc.2c00197)  
+arXiv: [2202.13459](https://arxiv.org/abs/2202.13459)  
+Dataset: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5851772.svg)](https://doi.org/10.5281/zenodo.5851772)  
+PLUMED-NEST: [![plumID:22.001](https://www.plumed-nest.org/eggs/22/001/badge.svg)](https://www.plumed-nest.org/eggs/22/001/)  
 
 * A. Iscen, N. Forero-Martinez, **O. Valsson**, and K. Kremer  
 *Acrylic Paints: An Atomistic View of Polymer Structure and Effects of Environmental Pollutants*  
 J. Phys. Chem. B, 125, 10854 (2021)  
 DOI: [10.1021/acs.jpcb.1c05188](https://doi.org/10.1021/acs.jpcb.1c05188)  
-
 
 * J. Rydzewski and **O. Valsson**  
 *Multiscale Reweighted Stochastic Embedding (MRSE): Deep Learning of Collective Variables for Enhanced Sampling*  
