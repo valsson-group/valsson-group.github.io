@@ -15,7 +15,8 @@ Department of Chemistry
 University of North Texas  
 Denton, Texas, USA  
 
-[Twitter](https://twitter.com/OmarValsson)  
+[UNT Faculty Profile](https://facultyinfo.unt.edu/faculty-profile?query=Omar+Valsson&type=name&profile=ov0060#fndtn-general-information)  
+Twitter[@OmarValsson](https://twitter.com/OmarValsson)  
 [Google Scholar](https://scholar.google.nl/citations?user=hd8q6KgAAAAJhl=en)  
 [ResearchGate](https://www.researchgate.net/profile/Omar_Valsson2)  
 ResearcherID/Publons: [D-2438-2010](http://www.researcherid.com/rid/D-2438-2010)  
