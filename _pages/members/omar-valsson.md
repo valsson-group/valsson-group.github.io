@@ -15,17 +15,19 @@ Department of Chemistry
 University of North Texas  
 Denton, Texas, USA  
 
-[UNT Faculty Profile](https://facultyinfo.unt.edu/faculty-profile?query=Omar+Valsson&type=name&profile=ov0060#fndtn-general-information)  
-Twitter[@OmarValsson](https://twitter.com/OmarValsson)  
+Twitter: [@OmarValsson](https://twitter.com/OmarValsson)  
+GitHub: [valsson](https://github.com/valsson)  
 [Google Scholar](https://scholar.google.nl/citations?user=hd8q6KgAAAAJhl=en)  
 [ResearchGate](https://www.researchgate.net/profile/Omar_Valsson2)  
 ResearcherID/Publons: [D-2438-2010](http://www.researcherid.com/rid/D-2438-2010)  
 ORCID: [0000-0001-7971-4767](http://orcid.org/0000-0001-7971-4767)  
+[UNT Faculty Profile](https://facultyinfo.unt.edu/faculty-profile?query=Omar+Valsson&type=name&profile=ov0060#fndtn-general-information)  
+
 
 ### Professional Experience
 
 * Assistant professor  
-  Department of Chemistry, University of North Texas, Denton, TX  
+  Department of Chemistry, University of North Texas  
   Jan 2022 to Present
 * Group Leader, Theory Group (AK Kremer)  
   Max Planck Institute for Polymer Research, Mainz, Germany  
