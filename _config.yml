@@ -24,6 +24,9 @@ github_username: valsson-group
 minimal_mistakes_skin: default
 search: false
 
+atom_feed:
+  hide: true
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
