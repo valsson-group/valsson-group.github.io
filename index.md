@@ -3,7 +3,7 @@ layout: splash
 author_profile: false
 ---
 
-# Valsson Research Group @ University of North Texas
+## Valsson Research Group @ University of North Texas
 
 ![Research-Valsson]({{site.url}}/assets/images/research-valsson.png){: width="1200px"}
 
