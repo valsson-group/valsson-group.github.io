@@ -7,10 +7,10 @@ author_profile: false
 
 ![UNT-Chemistry]({{site.url}}/assets/images/chemistry 1-clear.png){: width="800px" .align-center}
 
+The Valsson Research Group is in the [Department of Chemistry](https://chemistry.unt.edu/) at the University of North Texas in Denton, Texas. The group is lead by [Prof. Dr. Omar Valsson]({{site.url}}/members/omar-valsson), an assistant professor in theoretical and computational chemistry. The group is also part of the [Center for Advanced Scientific Computing and Modeling](https://cascam.unt.edu/) (CASCaM).
+
 ## Biomolecular Simulations | Enhanced Sampling Methods
 
-![Research-Valsson]({{site.url}}/assets/images/research-valsson.png){: width="1200px"}
+![Research-Valsson]({{site.url}}/assets/images/research-valsson.png){: width="1200px" .align-center}
 
 The Valsson Research Group develops and applies classical and quantum simulation methods to study chemical, biological, and material systems. In particular, the group focuses on developing advanced methods for studying the long timescale phenomena common in nature but normally inaccessible in conventional molecular simulations due to their limitations. The group applies the methods it develops to various chemical, biological, and material systems, including protein-protein interactions, polymorphic transformations in molecular crystals, and photoactive biosystems.
-
-The group is lead by [Dr. Omar Valsson]({{site.url}}/members/omar-valsson), an assistant professor in the [Department of Chemistry](https://chemistry.unt.edu/) at the University of North Texas.

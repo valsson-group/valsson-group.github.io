@@ -10,7 +10,7 @@ sidebar:
 
 ## Prof. Dr. Omar Valsson
 Assistant professor  
-Theoretical/Computational Chemistry  
+Theoretical and Computational Chemistry  
 Department of Chemistry  
 University of North Texas  
 Denton, Texas, USA  
@@ -24,7 +24,7 @@ ORCID: [0000-0001-7971-4767](http://orcid.org/0000-0001-7971-4767)
 
 ### Professional Experience
 
-* Assistant professor (Theoretical/Computational Chemistry)
+* Assistant professor  
   Department of Chemistry, University of North Texas, Denton, TX  
   Jan 2022 to Present
 * Group Leader, Theory Group (AK Kremer)  
