@@ -1,7 +1,27 @@
 main:
-#  - title: "Members"
-#    url: /members/
+  - title: "Members"
+    url: /members/
   - title: "Publications"
     url: /publications/
   - title: "Resources | Codes"
     url: /resources/
+
+members:
+  - title: "Prof. Dr. Omar Valsson"
+    url: /members/omar-valsson
+  - title: "Postdocs"
+    children:
+      - title: "Dr. Benjamin Pampel"
+        url: /members/benjamin-pampel
+  - title: "PhD Students"
+    children:
+      - title: "Shikshya Bhusal"
+        url: /members/shikshya-bhusal
+      - title: "Daniel Lene"
+        url: /members/daniel-lene
+      - title: "Pradip Si"
+        url: /members/pradip-si
+      - title: "Nanning Petersen"
+        url: /members/nanning-petersen
+  - title: "Openings"
+    url: /members/openings/
