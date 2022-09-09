@@ -27,7 +27,7 @@ Mainz, Germany
 ### Education
 
 * PhD in Physics, MPI for Polymer Research  
-  Mar 2018 to May 2022  
+  Mar 2018 to Jun 2022  
   Supervisor: Dr. Omar Valsson
 * MSc in Physics, Technische Universität Darmstadt, Mar 2018  
   Supervisor: Dr. Burkhard Dünweg  

@@ -33,6 +33,11 @@ PhD Student at the MPI for Polymer Research in Mainz
 [Pradip Si]({{site.url}}/members/pradip-si)   
 ![Pradip Si]({{site.url}}/assets/images/PradipSi.jpg){: width="200px"}
 
+
+## Graduated PhD Students
+- Dr. Benjamin Pampel, PhD Student the MPI for Polymer Research, Graduated in June 2022
+- Dr. Bin Song, PhD Student the MPI for Polymer Research, Graduated in May 2022
+
 ## Alumni
 - Dr. Bin Song, PhD Student the MPI for Polymer Research, October 2017 to May 2022
 - Dr. Nehzat Safaei, Postdoctoral Researcher at the MPI for Polymer Research, February 2018 to June 2021.
