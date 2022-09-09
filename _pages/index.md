@@ -3,7 +3,7 @@ layout: splash
 author_profile: false
 ---
 
-![Research-Valsson]({{site.url}}/images/research-valsson.png){: width="1200px"}
+![Research-Valsson]({{site.url}}/assets/images/research-valsson.png){: width="1200px"}
 
 ## Enhanced Sampling Methods for Soft Matter Simulations
 
