@@ -9,6 +9,6 @@ author_profile: false
 
 ## Enhanced Sampling Methods for Soft Matter Simulations
 
-This group focuses on the development and application of classical and quantum molecular simulation techniques for studying soft matter and chemical systems. Considerable focus is on the development of novel enhanced sampling algorithms for studying the long timescale phenomena which are common in nature, but are normally inaccessible in conventional molecular simulations due to their intrinsic limitations and the limits of computational power.
+The Valsson research group develops and applies classical and quantum simulation methods to study chemical, biological, and material systems. In particular, the group focuses on developing advanced methods for studying the long timescale phenomena common in nature but normally inaccessible in conventional molecular simulations due to their limitations. The group applies the methods it develops to various chemical, biological, and material systems, including protein-protein interactions, polymorphic transformations in molecular crystals, and photoactive biosystems.
 
 The group is lead by [Dr. Omar Valsson]({{site.url}}/members/omar-valsson), an assistant professor in the [Department of Chemistry](https://chemistry.unt.edu/) at the University of North Texas.
