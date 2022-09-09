@@ -33,5 +33,5 @@ Denton, Texas, USA
 {% endcomment %}
 
 ### Contact Information
-* Email: [pradipsi@my.unt.edu](mailto:pradipsi@my.unt.edu)  
+* Email: [DanielLene1@my.unt.edu](mailto:DanielLene1@my.unt.edu)  
   Office: Chem 262 (UNT Chemistry)
