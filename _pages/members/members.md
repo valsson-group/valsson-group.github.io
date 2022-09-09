@@ -6,6 +6,7 @@ sidebar:
   nav: "members"
 ---
 
+# Members of Valsson Research Group  
 
 [Prof. Dr. Omar Valsson]({{site.url}}/members/omar-valsson)    
 ![Omar Valsson]({{site.url}}/assets/images/OmarValsson.jpg){: width="200px"}
