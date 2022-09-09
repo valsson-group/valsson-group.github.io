@@ -21,7 +21,7 @@ Denton, Texas, USA
 
 ### Education
 
-* PhD in Chemistry, Department of Chemistry, University of North Texas  
+* PhD in Chemistry, University of North Texas  
   Aug 2021 to Present  
   Supervisor: Dr. Omar Valsson  
 * BSc in Biochemistry, University of Nebraska-Lincoln, Lincoln, May 2021  
