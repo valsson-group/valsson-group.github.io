@@ -14,8 +14,8 @@ Theory Group (AK Kremer)
 Max Planck Institute for Polymer Research  
 Mainz, Germany
 
-Webpage: [https://bpampel.de/](https://bpampel.de/)  
-GitHub: [bpampel/](https://github.com/bpampel/)  
+Webpage: [bpampel.de](https://bpampel.de)  
+GitHub: [bpampel](https://github.com/bpampel)  
 {% comment %} [Google Scholar](https://scholar.google.nl/citations?user=XXXXXX)  {% endcomment %}
 {% comment %} [ResearchGate](https://www.researchgate.net/profile/XXXXX)  {% endcomment %}
 {% comment %} ResearcherID: [D-XXXX-XXXX](http://www.researcherid.com/rid/XXXXX)  {% endcomment %}
