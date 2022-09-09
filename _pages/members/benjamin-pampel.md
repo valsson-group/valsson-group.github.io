@@ -9,7 +9,7 @@ sidebar:
 ![Benjamin Pampel]({{site.url}}/assets/images/BenjaminPampel.jpg){: width="200px"}
 
 ## Dr. Benjamin Pampel
-Postdoctoral Researcher
+Postdoctoral Researcher  
 Theory Group (AK Kremer)  
 Max Planck Institute for Polymer Research  
 Mainz, Germany
@@ -20,7 +20,7 @@ Mainz, Germany
 {% comment %} ORCID: [0000-000X-XXXX-XXXX](http://orcid.org/0000-000X-XXXX-XXXX)  {% endcomment %}
 
 ### Professional Experience
-* Postdoctoral Researcher with Dr. Omar Valsson
+* Postdoctoral Researcher with Dr. Omar Valsson  
   MPI for Polymer Research, Jun 2022 to Present
 
 ### Education
@@ -36,12 +36,13 @@ Mainz, Germany
 {% endcomment %}
 
 ### Contact Information
-Benjamin Pampel  
-Max Planck Institute for Polymer Research  
-Ackermannweg 10  
-D-55128 Mainz  
-Germany
+* Email: [pampel@mpip-mainz.mpg.de](mailto:pampel@mpip-mainz.mpg.de)  
+  Phone: +49 (0)6131 379 267  
+  Office: 2.107B
 
-Email: [pampel@mpip-mainz.mpg.de](mailto:pampel@mpip-mainz.mpg.de)  
-Phone: +49 (0)6131 379 267  
-Office: 2.107B
+* Physical/Mailing address:  
+  Dr. Benjamin Pampel  
+  Max Planck Institute for Polymer Research  
+  Ackermannweg 10  
+  D-55128 Mainz  
+  Germany

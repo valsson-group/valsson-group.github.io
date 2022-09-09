@@ -34,12 +34,13 @@ Mainz, Germany
 {% endcomment %}
 
 ### Contact Information
-Nanning Petersen  
-Max Planck Institute for Polymer Research  
-Ackermannweg 10  
-D-55128 Mainz  
-Germany
+* Email: [petersenk@mpip-mainz.mpg.de](mailto:petersenk@mpip-mainz.mpg.de)  
+  Phone: +49 (0)6131 379 481  
+  Office: 1.404
 
-Email: [petersenk@mpip-mainz.mpg.de](mailto:petersenk@mpip-mainz.mpg.de)  
-Phone: +49 (0)6131 379 481  
-Office: 1.404
+* Physical/Mailing address:  
+  Nanning Petersen  
+  Max Planck Institute for Polymer Research  
+  Ackermannweg 10  
+  D-55128 Mainz  
+  Germany

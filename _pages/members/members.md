@@ -15,7 +15,7 @@ sidebar:
 ## Postdoctoral Researchers
 
 [Dr. Benjamin Pampel]({{site.url}}/members/benjamin-pampel)   
-![Benjamin Pampel]({{site.url}}/assets/images/BenjaminPampel.jpg){: width="200px"}
+![Benjamin Pampel]({{site.url}}/assets/images/BenjaminPampel.jpg){: width="200px"}  
 Postdoctoral Researcher at the MPI for Polymer Research in Mainz
 
 ## PhD Students
@@ -30,7 +30,7 @@ Postdoctoral Researcher at the MPI for Polymer Research in Mainz
 ![Pradip Si]({{site.url}}/assets/images/PradipSi.jpg){: width="200px"}
 
 [Nanning Petersen]({{site.url}}/members/nanning-petersen)   
-![Nanning Petersen]({{site.url}}/assets/images/NanningPetersen.jpg){: width="200px"}
+![Nanning Petersen]({{site.url}}/assets/images/NanningPetersen.jpg){: width="200px"}  
 PhD Student at the MPI for Polymer Research in Mainz
 
 ## Alumni
