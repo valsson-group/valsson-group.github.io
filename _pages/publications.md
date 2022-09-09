@@ -38,7 +38,7 @@ DOI: [10.48550/arXiv.2205.14774](https://doi.org/10.48550/arXiv.2205.14774)
 arXiv: [2205.14774](https://arxiv.org/abs/2205.14774)  
 
 * N. Petersen, M. Girard, A. Riedinger, and **O. Valsson**  
-*The Crucial Role of Solvation Forces in the Steric Stabilization of Nanoplatelets*
+*The Crucial Role of Solvation Forces in the Steric Stabilization of Nanoplatelets*  
 Preprint -- ChemRxiv (2022)  
 DOI: [10.26434/chemrxiv-2022-mw1cs-v2](https://doi.org/10.26434/chemrxiv-2022-mw1cs-v2)  
 Dataset: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6832532.svg)](https://doi.org/10.5281/zenodo.6832532)  
