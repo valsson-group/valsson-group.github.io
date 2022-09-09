@@ -5,7 +5,7 @@ author_profile: false
 
 ## Valsson Research Group @ University of North Texas
 
-![UNT-Chemistry]({{site.url}}/assets/images/chemistry 1-clear.png){: width="800px"}
+![UNT-Chemistry]({{site.url}}/assets/images/chemistry 1-clear.png){: width="800px" .center-image }
 
 ## Biomolecular Simulations | Enhanced Sampling Methods
 
