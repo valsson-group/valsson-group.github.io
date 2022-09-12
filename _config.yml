@@ -92,7 +92,7 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/valsson-group"
     - label: "Google Scholar"
-      icon: "fab fa-fw fa-books"
+      #icon: "fab fa-fw fa-books"
       url: "https://scholar.google.com/citations?user=hd8q6KgAAAAJhl=en&user=hd8q6KgAAAAJ"
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
