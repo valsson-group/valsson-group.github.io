@@ -14,10 +14,8 @@ Department of Chemistry
 University of North Texas  
 Denton, Texas, USA  
 
-{% comment %} [Google Scholar](https://scholar.google.nl/citations?user=XXXXXX)  {% endcomment %}
-{% comment %} [ResearchGate](https://www.researchgate.net/profile/XXXXX)  {% endcomment %}
-{% comment %} ResearcherID: [D-XXXX-XXXX](http://www.researcherid.com/rid/XXXXX)  {% endcomment %}
-{% comment %} ORCID: [0000-000X-XXXX-XXXX](http://orcid.org/0000-000X-XXXX-XXXX)  {% endcomment %}
+* [UNT Chemistry Profile](https://chemistry.unt.edu/people/daniel-lene)  
+
 
 ### Education
 
