@@ -94,6 +94,10 @@ footer:
     - label: "Google Scholar"
       #icon: "fab fa-fw fa-books"
       url: "https://scholar.google.com/citations?user=hd8q6KgAAAAJhl=en&user=hd8q6KgAAAAJ"
+    - label: "UNT Chemistry"
+      # icon: "fab fa-fw fa-github"
+      url: "https://chemistry.unt.edu/"
+
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
