@@ -96,7 +96,7 @@ footer:
       url: "https://scholar.google.com/citations?user=hd8q6KgAAAAJhl=en&user=hd8q6KgAAAAJ"
     - label: "UNT Chemistry"
       # icon: "fab fa-fw fa-github"
-      url: "https://chemistry.unt.edu/"
+      url: "https://chemistry.unt.edu"
 
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
