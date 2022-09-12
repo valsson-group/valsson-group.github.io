@@ -17,13 +17,17 @@ title: Valsson Research Group @ UNT
 subtitle: Biomolecular Simulations | Enhanced Sampling Methods
 email: omar.valsson@unt.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Valsson Research Group at the University of North Texas. 
+  Valsson Research Group at the University of North Texas.
 twitter_username: OmarValsson
 github_username: valsson-group
 minimal_mistakes_skin: default
 search: false
 
-google_analytics: G-9MTNVVLF1B
+# Analytics
+analytics:
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "G-9MTNVVLF1B" # Replace this with your ID, or delete
 
 atom_feed:
   hide: true
