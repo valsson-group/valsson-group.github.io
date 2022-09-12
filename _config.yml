@@ -23,6 +23,8 @@ github_username: valsson-group
 minimal_mistakes_skin: default
 search: false
 
+google_analytics: G-9MTNVVLF1B
+
 atom_feed:
   hide: true
 
