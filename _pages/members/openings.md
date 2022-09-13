@@ -7,13 +7,16 @@ sidebar:
   nav: "members"
 ---
 
-## Undergraduate Students
+## Undergraduate Students at UNT
 UNT undergraduate students interested in doing research within the Valsson Research Group are encouraged to contact [Dr. Omar Valsson]({{site.url}}/members/omar-valsson) ([omar.valsson@unt.edu]([mailto:omar.valsson@unt.edu)) to discuss possible research projects.
 
-## Graduate Students
-All graduate student applications need to go through the UNT Department of Chemistry. Please find information about the application process on the [UNT Department of Chemistry website](https://chemistry.unt.edu/graduate-program/prospective-students).
+## Graduate Students at UNT
+UNT graduate students interested in the research done within the Valsson Research Group should contact [Dr. Omar Valsson]({{site.url}}/members/omar-valsson) ([omar.valsson@unt.edu]([mailto:omar.valsson@unt.edu)) to discuss opportunities to join the group and possible research projects.
 
-Students interested in joining the Valsson Research Group are encouraged to contact to [Dr. Omar Valsson]({{site.url}}/members/omar-valsson) ([omar.valsson@unt.edu]([mailto:omar.valsson@unt.edu)) to discuss research opportunities and the application process.
+## Graduate Students Applications from Outside UNT
+All graduate students not already at UNT will first need to apply and get accepted as a graduate student at UNT Department of Chemistry. Once they have joined the Department, they can select a group to join. Please find information about the application process on the [UNT Department of Chemistry website](https://chemistry.unt.edu/graduate-program/prospective-students).
+
+Students interested in joining the Valsson Research Group are welcome and encouraged to contact to [Dr. Omar Valsson]({{site.url}}/members/omar-valsson) ([omar.valsson@unt.edu]([mailto:omar.valsson@unt.edu)) to discuss research opportunities and the application process.
 
 ## Postdoctoral Researchers
 **We have an opening for a postdoctoral researcher position, please find further information along with application form [here](https://jobs.untsystem.edu/postings/63766).**
