@@ -15,7 +15,7 @@ Department of Chemistry
 University of North Texas  
 Denton, Texas, USA  
 
-* Twitter: [@OmarValsson](https://twitter.com/OmarValsson)  
+* Twitter: [@OmarValsson](https://twitter.com/OmarValsson){: .btn .btn--info}  
 * GitHub (Personal): [valsson](https://github.com/valsson)  
 * GitHub (Group): [valsson-group](https://github.com/valsson-group)  
 * [Google Scholar](https://scholar.google.nl/citations?user=hd8q6KgAAAAJhl=en)  
