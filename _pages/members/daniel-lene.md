@@ -14,15 +14,15 @@ Department of Chemistry
 University of North Texas  
 Denton, Texas, USA  
 
+* ORCID: [0000-0002-7280-8290](http://orcid.org/0000-0002-7280-8290)  
 * [UNT Chemistry Profile](https://chemistry.unt.edu/people/daniel-lene)  
-
 
 ### Education
 
 * PhD in Chemistry, University of North Texas  
   Jan 2022 to Present  
   Supervisor: Dr. Omar Valsson  
-* MSc in Analytical Science and Instrumentation, University of Warwick, UK, 2021  
+* MSc in Analytical Science and Instrumentation, University of Warwick, UK, 2022  
 * BSc in Industrial Chemistry, Federal University of Technology, Akure, Nigeria, Nov 2018  
 
 

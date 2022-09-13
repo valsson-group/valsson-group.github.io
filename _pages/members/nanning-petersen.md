@@ -14,12 +14,7 @@ Theory Group (AK Kremer)
 Max Planck Institute for Polymer Research  
 Mainz, Germany
 
-{% comment %} [Google Scholar](https://scholar.google.nl/citations?user=XXXXXX)  {% endcomment %}
-{% comment %} [ResearchGate](https://www.researchgate.net/profile/XXXXX)  {% endcomment %}
-{% comment %} ResearcherID: [D-XXXX-XXXX](http://www.researcherid.com/rid/XXXXX)  {% endcomment %}
-{% comment %} ORCID: [0000-000X-XXXX-XXXX](http://orcid.org/0000-000X-XXXX-XXXX)  {% endcomment %}
-
-
+* ORCID: [0000-0002-5726-5259](http://orcid.org/0000-0002-5726-5259)  
 
 ### Education
 

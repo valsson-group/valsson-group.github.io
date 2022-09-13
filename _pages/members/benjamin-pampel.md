@@ -16,10 +16,7 @@ Mainz, Germany
 
 * Webpage: [bpampel.de](https://bpampel.de)  
 * GitHub: [bpampel](https://github.com/bpampel)  
-{% comment %} [Google Scholar](https://scholar.google.nl/citations?user=XXXXXX)  {% endcomment %}
-{% comment %} [ResearchGate](https://www.researchgate.net/profile/XXXXX)  {% endcomment %}
-{% comment %} ResearcherID: [D-XXXX-XXXX](http://www.researcherid.com/rid/XXXXX)  {% endcomment %}
-{% comment %} ORCID: [0000-000X-XXXX-XXXX](http://orcid.org/0000-000X-XXXX-XXXX)  {% endcomment %}
+* ORCID: [0000-0002-1652-6918](http://orcid.org/0000-0002-1652-6918)  
 
 ### Professional Experience
 * Postdoctoral Researcher with Dr. Omar Valsson  
