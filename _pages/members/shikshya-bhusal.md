@@ -14,6 +14,7 @@ Department of Chemistry
 University of North Texas  
 Denton, Texas, USA  
 
+* GitHub: [Shikshya77](https://github.com/Shikshya77)  
 * [UNT Chemistry Profile](https://chemistry.unt.edu/people/shikshya-bhusal)  
 
 ### Education

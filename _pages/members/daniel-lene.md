@@ -14,6 +14,7 @@ Department of Chemistry
 University of North Texas  
 Denton, Texas, USA  
 
+* GitHub: [daniellene1](https://github.com/daniellene1)  
 * ORCID: [0000-0002-7280-8290](http://orcid.org/0000-0002-7280-8290)  
 * [UNT Chemistry Profile](https://chemistry.unt.edu/people/daniel-lene)  
 

@@ -14,6 +14,8 @@ Department of Chemistry
 University of North Texas  
 Denton, Texas, USA  
 
+* Twitter: [@pradipchm](https://twitter.com/pradipchm)  
+* GitHub: [pradipchm](https://github.com/pradipchm)  
 * [UNT Chemistry Profile](https://chemistry.unt.edu/people/pradip-si)  
 
 ### Education
