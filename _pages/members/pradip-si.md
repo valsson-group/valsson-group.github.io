@@ -16,6 +16,7 @@ Denton, Texas, USA
 
 * Twitter: [@pradipchm](https://twitter.com/pradipchm)  
 * GitHub: [pradipchm](https://github.com/pradipchm)  
+* ORCID: [0000-0001-5337-4354](http://orcid.org/0000-0001-5337-4354)  
 * [UNT Chemistry Profile](https://chemistry.unt.edu/people/pradip-si)  
 
 ### Education
