@@ -16,18 +16,18 @@ Preprint -- arXiv:2207.14554 (2022)
 DOI: [10.48550/arXiv.2207.14554](https://doi.org/10.48550/arXiv.2207.14554)  
 arXiv: [2207.14554](https://arxiv.org/abs/2207.14554)  
 
+* L. M. Ghiringhelli, C. Baldauf, ..., **O. Valsson**, C. Wöll, and M. Scheffler (see full author list in paper)  
+*Shared Metadata for Data-Centric Materials Science*  
+Preprint -- arXiv:2205.14774 (2022)  
+DOI: [10.48550/arXiv.2205.14774](https://doi.org/10.48550/arXiv.2205.14774)  
+arXiv: [2205.14774](https://arxiv.org/abs/2205.14774)  
+
 * J. Hénin, T. Lelièvre, M. R. Shirts, **O. Valsson**, and L. Delemotte  
 *Enhanced Sampling Methods for Molecular Dynamics Simulations*  
 Preprint -- arXiv:2202.04164 (2022)  
 DOI: [10.48550/arXiv.2202.04164](https://doi.org/10.48550/arXiv.2202.04164)  
 arXiv: [2205.14774](https://arxiv.org/abs/2202.04164)  
 Article Code Repository on Github: [jhenin/Methods-for-enhanced-sampling-and-free-energy-calculations](https://github.com/jhenin/Methods-for-enhanced-sampling-and-free-energy-calculations)
-
-* L. M. Ghiringhelli, C. Baldauf, ..., **O. Valsson**, C. Wöll, and M. Scheffler (see full author list in paper)  
-*Shared Metadata for Data-Centric Materials Science*  
-Preprint -- arXiv:2205.14774 (2022)  
-DOI: [10.48550/arXiv.2205.14774](https://doi.org/10.48550/arXiv.2205.14774)  
-arXiv: [2205.14774](https://arxiv.org/abs/2205.14774)  
 
 ## Prior to joining University of North Texas
 
