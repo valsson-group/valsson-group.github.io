@@ -10,16 +10,6 @@ See also [Google Scholar](https://scholar.google.com/citations?user=hd8q6KgAAAAJ
 
 ## Since joining University of North Texas
 
-* B. Pampel, S. Holbach, L. Hartung, and **O. Valsson**  
-*Sampling Rare Event Energy Landscapes via Birth-Death Augmented Dynamics*  
-Preprint -- arXiv:2209.00607 (2022)  
-DOI: [10.48550/arXiv.2209.00607](https://doi.org/10.48550/arXiv.2209.00607)  
-arXiv: [2209.00607](https://arxiv.org/abs/2209.00607)  
-Dataset: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7019132.svg)](https://doi.org/10.5281/zenodo.7019132)  
-Simulation Code (v0.3.1): [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5874773.svg)](https://doi.org/10.5281/zenodo.5874773)  
-Simulation Code on Github: [bpampel/bdld](https://github.com/bpampel/bdld)  
-Simulation Code - [Documentations](https://bpampel.de/bdld/)  
-
 * J. Rydzewski, M. Chen, T. K. Ghosh, and **O. Valsson**  
 *Reweighted Manifold Learning of Collective Variables from Enhanced Sampling Simulations*  
 Preprint -- arXiv:2207.14554 (2022)  
@@ -39,13 +29,25 @@ Preprint -- arXiv:2205.14774 (2022)
 DOI: [10.48550/arXiv.2205.14774](https://doi.org/10.48550/arXiv.2205.14774)  
 arXiv: [2205.14774](https://arxiv.org/abs/2205.14774)  
 
+## Prior to joining University of North Texas
+
+* B. Pampel, S. Holbach, L. Hartung, and **O. Valsson**  
+*Sampling Rare Event Energy Landscapes via Birth-Death Augmented Dynamics*  
+Preprint -- arXiv:2209.00607 (2022)  
+DOI: [10.48550/arXiv.2209.00607](https://doi.org/10.48550/arXiv.2209.00607)  
+arXiv: [2209.00607](https://arxiv.org/abs/2209.00607)  
+Dataset: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7019132.svg)](https://doi.org/10.5281/zenodo.7019132)  
+Simulation Code (v0.3.1): [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5874773.svg)](https://doi.org/10.5281/zenodo.5874773)  
+Simulation Code on Github: [bpampel/bdld](https://github.com/bpampel/bdld)  
+Simulation Code - [Documentations](https://bpampel.de/bdld/)  
+
 * N. Petersen, M. Girard, A. Riedinger, and **O. Valsson**  
 *The Crucial Role of Solvation Forces in the Steric Stabilization of Nanoplatelets*  
 Preprint -- ChemRxiv (2022)  
 DOI: [10.26434/chemrxiv-2022-mw1cs-v2](https://doi.org/10.26434/chemrxiv-2022-mw1cs-v2)  
 Dataset: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6832532.svg)](https://doi.org/10.5281/zenodo.6832532)  
 
-## Prior to joining University of North Texas
+
 
 * B. Pampel and **O. Valsson**  
 *Improving the Efficiency of Variationally Enhanced Sampling with Wavelet-Based Bias Potentials*   
