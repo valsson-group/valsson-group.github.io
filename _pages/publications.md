@@ -4,10 +4,12 @@ author_profile: false
 permalink: /publications/
 ---
 
+# Publications
+
 See also [Google Scholar](https://scholar.google.com/citations?user=hd8q6KgAAAAJhl=en)  
 
 
-## Publications from University of North Texas
+## Since joining University of North Texas
 
 * B. Pampel, S. Holbach, L. Hartung, and **O. Valsson**  
 *Sampling Rare Event Energy Landscapes via Birth-Death Augmented Dynamics*  
@@ -44,7 +46,7 @@ Preprint -- ChemRxiv (2022)
 DOI: [10.26434/chemrxiv-2022-mw1cs-v2](https://doi.org/10.26434/chemrxiv-2022-mw1cs-v2)  
 Dataset: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6832532.svg)](https://doi.org/10.5281/zenodo.6832532)  
 
-## Publications prior to joining University of North Texas
+## Prior to joining University of North Texas
 
 * B. Pampel and **O. Valsson**  
 *Improving the Efficiency of Variationally Enhanced Sampling with Wavelet-Based Bias Potentials*   
