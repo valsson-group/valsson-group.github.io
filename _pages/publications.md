@@ -2,9 +2,8 @@
 layout: single
 author_profile: false
 permalink: /publications/
+title: "Publications"
 ---
-
-# Publications
 
 See also [Google Scholar](https://scholar.google.com/citations?user=hd8q6KgAAAAJhl=en)  
 
