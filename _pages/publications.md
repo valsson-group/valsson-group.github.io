@@ -38,6 +38,7 @@ Preprint -- arXiv:2202.04164 (2022)
 DOI: [10.48550/arXiv.2202.04164](https://doi.org/10.48550/arXiv.2202.04164)  
 arXiv: [2205.14774](https://arxiv.org/abs/2202.04164)  
 Article Code Repository on Github: [jhenin/Methods-for-enhanced-sampling-and-free-energy-calculations](https://github.com/jhenin/Methods-for-enhanced-sampling-and-free-energy-calculations)
+{: reversed="reversed"}
 
 ## Prior to joining University of North Texas
 
@@ -228,3 +229,4 @@ DOI: [10.1021/ct900692y](https://doi.org/10.1021/ct900692y)
 *Coherent Switching by Detuning a Side-Coupled Quantum-Dot System*  
 Phys. Rev. B 78, 165318 (2008)  
 DOI: [10.1103/PhysRevB.78.165318](https://doi.org/10.1103/PhysRevB.78.165318)
+{: reversed="reversed"}
