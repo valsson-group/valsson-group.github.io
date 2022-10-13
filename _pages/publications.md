@@ -18,7 +18,7 @@ arXiv: [2209.00607](https://arxiv.org/abs/2209.00607)
 Dataset: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7019132.svg)](https://doi.org/10.5281/zenodo.7019132)  
 Simulation Code (v0.3.1): [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5874773.svg)](https://doi.org/10.5281/zenodo.5874773)  
 Simulation Code on Github: [bpampel/bdld](https://github.com/bpampel/bdld)  
-Simulation Code - [Documentations](https://bpampel.de/bdld/)
+Simulation Code - [Documentation](https://bpampel.de/bdld/)
 
 0. J. Rydzewski, M. Chen, T. K. Ghosh, and **O. Valsson**  
 *Reweighted Manifold Learning of Collective Variables from Enhanced Sampling Simulations*  
