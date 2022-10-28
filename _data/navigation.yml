@@ -9,10 +9,10 @@ main:
 members:
   - title: "Prof. Dr. Omar Valsson"
     url: /members/omar-valsson
-  - title: "Postdocs"
-    children:
-      - title: "Dr. Benjamin Pampel"
-        url: /members/benjamin-pampel
+#  - title: "Postdocs"
+#    children:
+#      - title: "Dr. Benjamin Pampel"
+#        url: /members/benjamin-pampel
   - title: "Graduate Students"
     children:
       - title: "Shikshya Bhusal"
@@ -20,7 +20,7 @@ members:
       - title: "Daniel Lene"
         url: /members/daniel-lene
       - title: "Nanning Petersen"
-        url: /members/nanning-petersen        
+        url: /members/nanning-petersen
       - title: "Pradip Si"
         url: /members/pradip-si
   - title: "Openings"
