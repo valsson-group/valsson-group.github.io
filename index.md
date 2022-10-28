@@ -14,6 +14,10 @@ The Valsson Research Group is in the [Department of Chemistry](https://chemistry
 
 ## Biomolecular Simulations | Enhanced Sampling Methods
 
-![Research-Valsson]({{site.url}}/assets/images/research-valsson.png){: width="1200px" .align-center}
+![Research-Valsson-Applications]({{site.url}}/assets/images/OV-UNT-ResearchFigure-Applications.png){: width="1200px" .align-center}
 
 The Valsson Research Group develops and applies classical and quantum simulation methods to study chemical, biological, and material systems. In particular, the group focuses on developing advanced methods for studying the long timescale phenomena common in nature but normally inaccessible in conventional molecular simulations due to their limitations. The group applies the methods it develops to various chemical, biological, and material systems, including protein-protein interactions, polymorphic transformations in molecular crystals, and photoactive biosystems.
+
+![Research-Valsson-Timescales]({{site.url}}/assets/images/OV-UNT-ResearchFigure-Timescales.png){: width="1200px" .align-center}
+
+![Research-Valsson]({{site.url}}/assets/images/OV-UNT-ResearchFigure-Methods.png){: width="1200px" .align-center}
