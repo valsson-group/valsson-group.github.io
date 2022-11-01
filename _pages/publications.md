@@ -26,6 +26,12 @@ Preprint -- arXiv:2207.14554 (2022)
 DOI: [10.48550/arXiv.2207.14554](https://doi.org/10.48550/arXiv.2207.14554)  
 arXiv: [2207.14554](https://arxiv.org/abs/2207.14554)  
 
+0. N. Petersen, M. Girard, A. Riedinger, and **O. Valsson**  
+*The Crucial Role of Solvation Forces in the Steric Stabilization of Nanoplatelets*  
+Preprint -- ChemRxiv (2022)  
+DOI: [10.26434/chemrxiv-2022-mw1cs-v2](https://doi.org/10.26434/chemrxiv-2022-mw1cs-v2)  
+Dataset: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6832532.svg)](https://doi.org/10.5281/zenodo.6832532)  
+
 0. L. M. Ghiringhelli, C. Baldauf, ..., **O. Valsson**, C. Wöll, and M. Scheffler (see full author list in paper)  
 *Shared Metadata for Data-Centric Materials Science*  
 Preprint -- arXiv:2205.14774 (2022)  
@@ -41,12 +47,6 @@ Article Code Repository on Github: [jhenin/Methods-for-enhanced-sampling-and-fre
 {: reversed="reversed"}
 
 ## Prior to joining University of North Texas
-
-0. N. Petersen, M. Girard, A. Riedinger, and **O. Valsson**  
-*The Crucial Role of Solvation Forces in the Steric Stabilization of Nanoplatelets*  
-Preprint -- ChemRxiv (2022)  
-DOI: [10.26434/chemrxiv-2022-mw1cs-v2](https://doi.org/10.26434/chemrxiv-2022-mw1cs-v2)  
-Dataset: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6832532.svg)](https://doi.org/10.5281/zenodo.6832532)  
 
 0. B. Pampel and **O. Valsson**  
 *Improving the Efficiency of Variationally Enhanced Sampling with Wavelet-Based Bias Potentials*   
