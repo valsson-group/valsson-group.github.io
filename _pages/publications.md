@@ -44,7 +44,6 @@ Article Code Repository on Github: [jhenin/Methods-for-enhanced-sampling-and-fre
 J. Chem. Theory Comput. (2022)  
 DOI: [10.1021/acs.jctc.2c00873](10.1021/acs.jctc.2c00873)  
 arXiv: [2207.14554](https://arxiv.org/abs/2207.14554)  
-
 {: reversed="reversed"}
 
 ## Prior to joining University of North Texas
@@ -228,5 +227,4 @@ DOI: [10.1021/ct900692y](https://doi.org/10.1021/ct900692y)
 *Coherent Switching by Detuning a Side-Coupled Quantum-Dot System*  
 Phys. Rev. B 78, 165318 (2008)  
 DOI: [10.1103/PhysRevB.78.165318](https://doi.org/10.1103/PhysRevB.78.165318)
-
 {: reversed="reversed"}
