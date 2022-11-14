@@ -42,7 +42,7 @@ Article Code Repository on Github: [jhenin/Methods-for-enhanced-sampling-and-fre
 0. J. Rydzewski, M. Chen, T. K. Ghosh, and **O. Valsson**  
 *Reweighted Manifold Learning of Collective Variables from Enhanced Sampling Simulations*  
 J. Chem. Theory Comput. (2022)  
-DOI: [10.1021/acs.jctc.2c00873](10.1021/acs.jctc.2c00873)  
+DOI: [10.1021/acs.jctc.2c00873](https://doi.org/10.1021/acs.jctc.2c00873)  
 arXiv: [2207.14554](https://arxiv.org/abs/2207.14554)  
 {: reversed="reversed"}
 
