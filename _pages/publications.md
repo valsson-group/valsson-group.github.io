@@ -20,12 +20,6 @@ Simulation Code (v0.3.1): [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.58
 Simulation Code on Github: [bpampel/bdld](https://github.com/bpampel/bdld)  
 Simulation Code - [Documentation](https://bpampel.de/bdld/)
 
-0. N. Petersen, M. Girard, A. Riedinger, and **O. Valsson**  
-*The Crucial Role of Solvation Forces in the Steric Stabilization of Nanoplatelets*  
-Preprint -- ChemRxiv (2022)  
-DOI: [10.26434/chemrxiv-2022-mw1cs-v3](https://doi.org/10.26434/chemrxiv-2022-mw1cs-v3)  
-Dataset: [![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.5940139.svg)](https://doi.org/https://doi.org/10.5281/zenodo.5940139)  
-
 0. L. M. Ghiringhelli, C. Baldauf, ..., **O. Valsson**, C. Wöll, and M. Scheffler (see full author list in paper)  
 *Shared Metadata for Data-Centric Materials Science*  
 Preprint -- arXiv:2205.14774 (2022)  
@@ -38,6 +32,13 @@ Preprint -- arXiv:2202.04164 (2022)
 DOI: [10.48550/arXiv.2202.04164](https://doi.org/10.48550/arXiv.2202.04164)  
 arXiv: [2205.14774](https://arxiv.org/abs/2202.04164)  
 Article Code Repository on Github: [jhenin/Methods-for-enhanced-sampling-and-free-energy-calculations](https://github.com/jhenin/Methods-for-enhanced-sampling-and-free-energy-calculations)
+
+0. N. Petersen, M. Girard, A. Riedinger, and **O. Valsson**  
+*The Crucial Role of Solvation Forces in the Steric Stabilization of Nanoplatelets*  
+Nano. Lett. (2022)  
+DOI: [10.1021/acs.nanolett.2c02848](https://doi.org/10.1021/acs.nanolett.2c02848)  
+ChemRxiv: [10.26434/chemrxiv-2022-mw1cs-v3](https://doi.org/10.26434/chemrxiv-2022-mw1cs-v3)  
+Dataset: [![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.5940139.svg)](https://doi.org/https://doi.org/10.5281/zenodo.5940139)  
 
 0. J. Rydzewski, M. Chen, T. K. Ghosh, and **O. Valsson**  
 *Reweighted Manifold Learning of Collective Variables from Enhanced Sampling Simulations*  
