@@ -63,7 +63,7 @@ J. Phys. Chem. B, 125, 10854 (2021)
 DOI: [10.1021/acs.jpcb.1c05188](https://doi.org/10.1021/acs.jpcb.1c05188)  
 
 0. J. Rydzewski and **O. Valsson**  
-*Multiscale Reweighted Stochastic Embedding (MRSE): Deep Learning of Collective Variables for Enhanced Sampling*  
+*Multiscale Reweighted Stochastic Embedding: Deep Learning of Collective Variables for Enhanced Sampling*  
 J. Phys. Chem. A, 125, 6286 (2021)  
 DOI: [10.1021/acs.jpca.1c02869](https://doi.org/10.1021/acs.jpca.1c02869)  
 arXiv: [2007.06377](https://arxiv.org/abs/2007.06377)  
