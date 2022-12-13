@@ -35,7 +35,7 @@ Article Code Repository on Github: [jhenin/Methods-for-enhanced-sampling-and-fre
 
 0. N. Petersen, M. Girard, A. Riedinger, and **O. Valsson**  
 *The Crucial Role of Solvation Forces in the Steric Stabilization of Nanoplatelets*  
-Nano. Lett. (2022)  
+Nano Lett. (2022)  
 DOI: [10.1021/acs.nanolett.2c02848](https://doi.org/10.1021/acs.nanolett.2c02848)  
 ChemRxiv: [10.26434/chemrxiv-2022-mw1cs-v3](https://doi.org/10.26434/chemrxiv-2022-mw1cs-v3)  
 Dataset: [![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.5940139.svg)](https://doi.org/https://doi.org/10.5281/zenodo.5940139)  
