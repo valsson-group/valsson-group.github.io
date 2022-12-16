@@ -28,8 +28,8 @@ arXiv: [2205.14774](https://arxiv.org/abs/2205.14774)
 
 0. J. Hénin, T. Lelièvre, M. R. Shirts, **O. Valsson**, and L. Delemotte  
 *Enhanced Sampling Methods for Molecular Dynamics Simulations*  
-Preprint -- arXiv:2202.04164 (2022)  
-DOI: [10.48550/arXiv.2202.04164](https://doi.org/10.48550/arXiv.2202.04164)  
+LiveCoMS. 4, 1583 (2022)  
+DOI: [10.33011/livecoms.4.1.1583](https://doi.org/0.33011/livecoms.4.1.1583)  
 arXiv: [2205.14774](https://arxiv.org/abs/2202.04164)  
 Article Code Repository on Github: [jhenin/Methods-for-enhanced-sampling-and-free-energy-calculations](https://github.com/jhenin/Methods-for-enhanced-sampling-and-free-energy-calculations)
 
@@ -42,7 +42,7 @@ Dataset: [![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.594
 
 0. J. Rydzewski, M. Chen, T. K. Ghosh, and **O. Valsson**  
 *Reweighted Manifold Learning of Collective Variables from Enhanced Sampling Simulations*  
-J. Chem. Theory Comput. (2022)  
+J. Chem. Theory Comput. 18, 7179–7192 (2022)  
 DOI: [10.1021/acs.jctc.2c00873](https://doi.org/10.1021/acs.jctc.2c00873)  
 arXiv: [2207.14554](https://arxiv.org/abs/2207.14554)  
 {: reversed="reversed"}
