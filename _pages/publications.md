@@ -29,7 +29,7 @@ arXiv: [2205.14774](https://arxiv.org/abs/2205.14774)
 0. J. Hénin, T. Lelièvre, M. R. Shirts, **O. Valsson**, and L. Delemotte  
 *Enhanced Sampling Methods for Molecular Dynamics Simulations*  
 LiveCoMS. 4, 1583 (2022)  
-DOI: [10.33011/livecoms.4.1.1583](https://doi.org/0.33011/livecoms.4.1.1583)  
+DOI: [10.33011/livecoms.4.1.1583](https://doi.org/10.33011/livecoms.4.1.1583)  
 arXiv: [2205.14774](https://arxiv.org/abs/2202.04164)  
 Article Code Repository on Github: [jhenin/Methods-for-enhanced-sampling-and-free-energy-calculations](https://github.com/jhenin/Methods-for-enhanced-sampling-and-free-energy-calculations)
 
