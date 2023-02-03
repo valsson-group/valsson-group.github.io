@@ -45,9 +45,6 @@ Dataset: [![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.594
 J. Chem. Theory Comput. 18, 7179–7192 (2022)  
 DOI: [10.1021/acs.jctc.2c00873](https://doi.org/10.1021/acs.jctc.2c00873)  
 arXiv: [2207.14554](https://arxiv.org/abs/2207.14554)  
-{: reversed="reversed"}
-
-## Prior to joining University of North Texas
 
 0. B. Pampel and **O. Valsson**  
 *Improving the Efficiency of Variationally Enhanced Sampling with Wavelet-Based Bias Potentials*   
@@ -56,6 +53,9 @@ DOI: [10.1021/acs.jctc.2c00197](https://doi.org/10.1021/acs.jctc.2c00197)
 arXiv: [2202.13459](https://arxiv.org/abs/2202.13459)  
 Dataset: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5851772.svg)](https://doi.org/10.5281/zenodo.5851772)  
 PLUMED-NEST: [![plumID:22.001](https://www.plumed-nest.org/eggs/22/001/badge.svg)](https://www.plumed-nest.org/eggs/22/001/)  
+{: reversed="reversed"}
+
+## Prior to joining University of North Texas
 
 0. A. Iscen, N. Forero-Martinez, **O. Valsson**, and K. Kremer  
 *Acrylic Paints: An Atomistic View of Polymer Structure and Effects of Environmental Pollutants*  
