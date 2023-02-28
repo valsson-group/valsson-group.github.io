@@ -12,9 +12,9 @@ See also [Google Scholar](https://scholar.google.com/citations?user=hd8q6KgAAAAJ
 
 0. B. Pampel, S. Holbach, L. Hartung, and **O. Valsson**  
 *Sampling Rare Event Energy Landscapes via Birth-Death Augmented Dynamics*  
-Phys. Rev. E 107, 024141 
+Phys. Rev. E 107, 024141   
 DOI: [10.1103/PhysRevE.107.024141](https://doi.org/10.1103/PhysRevE.107.024141)  
-** Phys. Rev. E. Editor's Suggestion**  
+**Phys. Rev. E. Editor's Suggestion**  
 arXiv: [2209.00607](https://arxiv.org/abs/2209.00607)  
 Dataset: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7019132.svg)](https://doi.org/10.5281/zenodo.7019132)  
 Simulation Code (v0.3.1): [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5874773.svg)](https://doi.org/10.5281/zenodo.5874773)  
