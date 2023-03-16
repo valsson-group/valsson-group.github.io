@@ -10,6 +10,12 @@ See also [Google Scholar](https://scholar.google.com/citations?user=hd8q6KgAAAAJ
 
 ## With University of North Texas Affiliation
 
+0. J. Rydzewski, M. Chen, T. K. Ghosh, and **O. Valsson**  
+*Manifold Learning in Atomistic Simulations: A Conceptual Review*  
+Preprint -- arXiv:2303.08486 (2023)
+DOI: [10.48550/arXiv.2303.08486](https://doi.org/10.48550/arXiv.2303.08486)
+arXiv: [2205.14774](https://arxiv.org/abs/2303.08486)
+
 0. B. Pampel, S. Holbach, L. Hartung, and **O. Valsson**  
 *Sampling Rare Event Energy Landscapes via Birth-Death Augmented Dynamics*  
 Phys. Rev. E 107, 024141 (2023) --  **Editor's Suggestion**    
