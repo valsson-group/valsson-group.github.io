@@ -7,7 +7,6 @@ main:
     url: /resources/
 
 members:
-  - title: "Members"
   - title: "Prof. Dr. Omar Valsson"
     url: /members/omar-valsson
 #  - title: "Postdocs"
