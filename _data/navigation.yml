@@ -26,6 +26,15 @@ members:
   - title: "Openings"
     url: /members/openings/
 
+publications:
+  - title: "Publications"
+    url: /resources/
+    children:
+    - title: "With UNT Affiliation"
+      url: /publications/#with-university-of-north-texas-affiliation
+    - title: "Prior to UNT"
+      url: /publications/#prior-to-joining-university-of-north-texas
+
 resources:
   - title: "Software and Resources"
     url: /resources/

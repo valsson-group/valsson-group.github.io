@@ -4,6 +4,9 @@ author_profile: false
 permalink: /publications/
 classes: wide
 title: "Publications"
+sidebar:
+  nav: "publications"
+
 ---
 
 See also [Google Scholar](https://scholar.google.com/citations?user=hd8q6KgAAAAJhl=en)  
