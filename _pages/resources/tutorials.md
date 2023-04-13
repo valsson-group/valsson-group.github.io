@@ -19,3 +19,17 @@ sidebar:
     - [Masterclass 21.7: Optimizing PLUMED performances](https://www.plumed.org/doc-v2.9/user-doc/html/masterclass-21-7.html)
     - [Masterclass 22.3: OPES method](https://www.plumed.org/doc-v2.9/user-doc/html/masterclass-22-03.html)
     - [Masterclass 22.11: Variationally enhanced sampling with PLUMED](https://www.plumed.org/doc-v2.9/user-doc/html/masterclass-22-11.html)
+
+### Python Tutorials
+
+- [Scientific Computing From Scratch](https://scotch.wangyq.net/)
+- [MolSSI -- Python Scripting for Computational Molecular Science](https://education.molssi.org/python_scripting_cms/)
+- [MolSSI -- Best Practices in Python Package Development](https://education.molssi.org/python-package-best-practices/)
+- [Software Carpentry -- Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
+- [Software Carpentry -- Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/)
+
+### Linux and Bash Tutorials
+- [Software Carpentry -- The Unix Shell](https://swcarpentry.github.io/shell-novice/)
+
+### Various Tutorials
+- [Software Carpentry -- Version Control with Git](https://swcarpentry.github.io/git-novice/) 
