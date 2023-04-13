@@ -3,7 +3,7 @@ main:
     url: /members/
   - title: "Publications"
     url: /publications/
-  - title: "Resources | Codes"
+  - title: "Codes | Resources"
     url: /resources/
 
 members:
@@ -25,3 +25,11 @@ members:
         url: /members/pradip-si
   - title: "Openings"
     url: /members/openings/
+
+resources:
+  - title: "Software/Codes"
+    url: /members/software
+  - title: "Review Papers"
+    url: /members/reviews/
+  - title: "Tutorials"
+    url: /members/tutorials/
