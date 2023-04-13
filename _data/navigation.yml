@@ -30,6 +30,6 @@ resources:
   - title: "Software and Codes"
     url: /resources/software
   - title: "Review Papers"
-    url: /resources/reviews/
+    url: /resources/reviews
   - title: "Tutorials"
-    url: /resources/tutorials/
+    url: /resources/tutorials
