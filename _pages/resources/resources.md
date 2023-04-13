@@ -2,6 +2,7 @@
 permalink: /resources/
 author_profile: false
 title: "Software and Resources"
+classes: wide
 sidebar:
   nav: "resources"
 ---

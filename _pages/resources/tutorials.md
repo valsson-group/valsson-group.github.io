@@ -2,6 +2,7 @@
 permalink: /resources/tutorials
 author_profile: false
 title: "Tutorials"
+classes: wide
 sidebar:
   nav: "resources"
 ---
