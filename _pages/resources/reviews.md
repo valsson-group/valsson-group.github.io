@@ -2,6 +2,7 @@
 permalink: /resources/reviews
 author_profile: false
 title: "Review Papers"
+classes: wide
 sidebar:
   nav: "resources"
 ---
