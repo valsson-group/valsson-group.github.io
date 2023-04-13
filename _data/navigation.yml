@@ -7,6 +7,7 @@ main:
     url: /resources/
 
 members:
+  - title: "Members"
   - title: "Prof. Dr. Omar Valsson"
     url: /members/omar-valsson
 #  - title: "Postdocs"
@@ -27,9 +28,12 @@ members:
     url: /members/openings/
 
 resources:
-  - title: "Software and Codes"
-    url: /resources/software
-  - title: "Review Papers"
-    url: /resources/reviews
-  - title: "Tutorials"
-    url: /resources/tutorials
+  - title: "Software and Resources"
+    url: /resources/
+    children:
+    - title: "Software and Codes"
+      url: /resources/software
+    - title: "Review Papers"
+      url: /resources/reviews
+    - title: "Tutorials"
+      url: /resources/tutorials
