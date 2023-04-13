@@ -28,7 +28,6 @@ members:
 
 publications:
   - title: "Publications"
-    url: /resources/
     children:
     - title: "With UNT Affiliation"
       url: /publications/#with-university-of-north-texas-affiliation
