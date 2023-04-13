@@ -3,10 +3,10 @@ permalink: /resources/tutorials
 author_profile: false
 title: "Tutorials"
 sidebar:
-  nav: "members"
+  nav: "resources"
 ---
 
-# PLUMED Tutorials
+### PLUMED Tutorials
 
 - [PLUMED Masterclass](https://www.plumed.org/masterclass): Corresponding YouTube videos with lectures and solutions found [here](https://www.youtube.com/watch?v=2eGhMSdIJEs&list=PLmdKEn2znJEld8l6Hp9PXf4EursC4-8nC)
     - [Masterclass 21.1: PLUMED syntax and analysis](https://www.plumed.org/doc-v2.9/user-doc/html/masterclass-21-1.html)

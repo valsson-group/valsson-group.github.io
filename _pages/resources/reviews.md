@@ -3,10 +3,10 @@ permalink: /resources/reviews
 author_profile: false
 title: "Review Papers"
 sidebar:
-  nav: "members"
+  nav: "resources"
 ---
 
-## Review and Readings on Enhanced Sampling Methods
+### Review and Readings on Enhanced Sampling Methods
 
  - [Enhanced Sampling Methods for Molecular Dynamics Simulations [Article v1.0]](https://livecomsjournal.org/index.php/livecoms/article/view/v4i1e1583)
   - [Enhancing Important Fluctuations: Rare Events and Metadynamics from a Conceptual Viewpoint](https://doi.org/10.1146/annurev-physchem-040215-112229)
@@ -16,13 +16,13 @@ sidebar:
  - [Analyzing and Biasing Simulations with PLUMED](https://doi.org/10.1007/978-1-4939-9608-7_21) (also [arXiv:1812.08213](https://arxiv.org/abs/1812.08213))
  
 
-## Reviews and Reading about Collective Variables
+### Reviews and Reading about Collective Variables
 
 - [Reaction coordinates in complex systems-a perspective](https://doi.org/10.1140/epjb/s10051-021-00233-5)
 - [Collective Variables for Crystallization Simulations-from Early Developments to Recent Advances](https://doi.org/10.1021/acsomega.2c06310)
 - [Critical comparison of general-purpose collective variables for crystal nucleation](https://doi.org/10.1103/physreve.107.l012601)
 
-## Reviews and Readings about Machine Learning for Finding Collective Variables
+### Reviews and Readings about Machine Learning for Finding Collective Variables
 
 - [Manifold Learning in Atomistic Simulations: A Conceptual Review](https://doi.org/10.48550/arXiv.2303.08486)
 - [Machine Learning Force Fields and Coarse-Grained Variables in Molecular Dynamics: Application to Materials and Biological Systems
