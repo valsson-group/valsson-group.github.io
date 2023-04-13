@@ -2,6 +2,8 @@
 permalink: /resources/tutorials
 author_profile: false
 title: "Tutorials"
+sidebar:
+  nav: "members"
 ---
 
 # PLUMED Tutorials
