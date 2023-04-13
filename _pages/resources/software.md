@@ -1,5 +1,5 @@
 ---
-permalink: /resources/codes
+permalink: /resources/software
 author_profile: false
 title: "Software and Codes"
 ---

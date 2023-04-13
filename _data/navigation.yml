@@ -3,7 +3,7 @@ main:
     url: /members/
   - title: "Publications"
     url: /publications/
-  - title: "Codes | Resources"
+  - title: "Software | Resources"
     url: /resources/
 
 members:
@@ -27,9 +27,9 @@ members:
     url: /members/openings/
 
 resources:
-  - title: "Software/Codes"
-    url: /members/software
+  - title: "Software and Codes"
+    url: /resources/software
   - title: "Review Papers"
-    url: /members/reviews/
+    url: /resources/reviews/
   - title: "Tutorials"
-    url: /members/tutorials/
+    url: /resources/tutorials/
