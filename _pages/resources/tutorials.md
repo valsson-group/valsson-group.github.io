@@ -32,4 +32,6 @@ sidebar:
 - [Software Carpentry -- The Unix Shell](https://swcarpentry.github.io/shell-novice/)
 
 ### Various Tutorials
+- [VS Code - Getting Started](https://code.visualstudio.com/docs)
+- [Learn Vim For the Last Time: A Tutorial and Primer](https://danielmiessler.com/study/vim/)
 - [Software Carpentry -- Version Control with Git](https://swcarpentry.github.io/git-novice/) 
