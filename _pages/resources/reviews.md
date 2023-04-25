@@ -7,9 +7,15 @@ sidebar:
   nav: "resources"
 ---
 
-### Review and Readings on Enhanced Sampling Methods
+### Reviews and Readings on Atomistic Molecular Dynamics Simulations
+- [Best Practices for Foundations in Molecular Simulations [Article v1.0]](https://doi.org/10.33011/livecoms.1.1.5957)
+- [Best Practices for Quantification of Uncertainty and Sampling Quality in Molecular Simulations [Article v1.0]](https://doi.org/10.33011/livecoms.1.1.5067)
+- [From Proteins to Perturbed Hamiltonians: A Suite of Tutorials for the GROMACS-2018 Molecular Simulation Package [Article v1.0]](https://doi.org/10.33011/livecoms.1.1.5068)(also available as an online [tutorial](http://www.mdtutorials.com/gmx/))
+- [Best Practices for Computing Transport Properties 1. Self-Diffusivity and Viscosity from Equilibrium Molecular Dynamics [Article v1.0]](https://doi.org/10.33011/livecoms.1.1.6324)
 
- - [Enhanced Sampling Methods for Molecular Dynamics Simulations [Article v1.0]](https://livecomsjournal.org/index.php/livecoms/article/view/v4i1e1583)
+
+### Reviews and Readings on Enhanced Sampling Methods
+ - [Enhanced Sampling Methods for Molecular Dynamics Simulations [Article v1.0]](https://doi.org/10.33011/livecoms.4.1.1583)
   - [Enhancing Important Fluctuations: Rare Events and Metadynamics from a Conceptual Viewpoint](https://doi.org/10.1146/annurev-physchem-040215-112229)
  - [Enhanced sampling without borders: on global biasing functions and how to reweight them](https://doi.org/10.1039/d1cp04809k)
  - [Using metadynamics to explore complex free-energy landscapes](https://doi.org/10.1038/s42254-020-0153-0)
@@ -18,7 +24,6 @@ sidebar:
  
 
 ### Reviews and Reading about Collective Variables
-
 - [Reaction coordinates in complex systems-a perspective](https://doi.org/10.1140/epjb/s10051-021-00233-5)
 - [Collective Variables for Crystallization Simulations-from Early Developments to Recent Advances](https://doi.org/10.1021/acsomega.2c06310)
 - [Critical comparison of general-purpose collective variables for crystal nucleation](https://doi.org/10.1103/physreve.107.l012601)

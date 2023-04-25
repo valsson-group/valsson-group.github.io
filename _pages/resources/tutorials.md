@@ -7,8 +7,11 @@ sidebar:
   nav: "resources"
 ---
 
-### PLUMED Tutorials
+### GROMACS Tutorials
+- [GROMACS Tutorials - gromacs.org](https://tutorials.gromacs.org/)
+- [From Proteins to Perturbed Hamiltonians: A Suite of Tutorials for the GROMACS-2018 Molecular Simulation Package](http://www.mdtutorials.com/gmx/index.html)(also available as an LiveCOMS [Article](https://doi.org/10.33011/livecoms.1.1.5068))
 
+### PLUMED Tutorials
 - [PLUMED Masterclass](https://www.plumed.org/masterclass): Corresponding YouTube videos with lectures and solutions found [here](https://www.youtube.com/watch?v=2eGhMSdIJEs&list=PLmdKEn2znJEld8l6Hp9PXf4EursC4-8nC)
     - [Masterclass 21.1: PLUMED syntax and analysis](https://www.plumed.org/doc-v2.9/user-doc/html/masterclass-21-1.html)
     - [Masterclass 21.2: Statistical errors in MD](https://www.plumed.org/doc-v2.9/user-doc/html/masterclass-21-2.html)
@@ -21,7 +24,6 @@ sidebar:
     - [Masterclass 22.11: Variationally enhanced sampling with PLUMED](https://www.plumed.org/doc-v2.9/user-doc/html/masterclass-22-11.html)
 
 ### Python Tutorials
-
 - [Scientific Computing From Scratch](https://scotch.wangyq.net/)
 - [MolSSI -- Python Scripting for Computational Molecular Science](https://education.molssi.org/python_scripting_cms/)
 - [MolSSI -- Best Practices in Python Package Development](https://education.molssi.org/python-package-best-practices/)
