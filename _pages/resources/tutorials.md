@@ -9,7 +9,7 @@ sidebar:
 
 ### GROMACS Tutorials
 - [GROMACS Tutorials - gromacs.org](https://tutorials.gromacs.org/)
-- [From Proteins to Perturbed Hamiltonians: A Suite of Tutorials for the GROMACS-2018 Molecular Simulation Package](http://www.mdtutorials.com/gmx/index.html)(also available as an LiveCOMS [Article](https://doi.org/10.33011/livecoms.1.1.5068))
+- [From Proteins to Perturbed Hamiltonians: A Suite of Tutorials for the GROMACS-2018 Molecular Simulation Package](http://www.mdtutorials.com/gmx/index.html) (also available as an [LiveCOMS Article](https://doi.org/10.33011/livecoms.1.1.5068))
 
 ### PLUMED Tutorials
 - [PLUMED Masterclass](https://www.plumed.org/masterclass): Corresponding YouTube videos with lectures and solutions found [here](https://www.youtube.com/watch?v=2eGhMSdIJEs&list=PLmdKEn2znJEld8l6Hp9PXf4EursC4-8nC)
