@@ -1,20 +1,20 @@
 ---
 permalink: /resources/reviews
 author_profile: false
-title: "Review Papers"
+title: "Reviews and Other Readings"
 classes: wide
 sidebar:
   nav: "resources"
 ---
 
-### Reviews and Readings on Atomistic Molecular Dynamics Simulations
+
+### Atomistic Molecular Dynamics Simulations
 - [Best Practices for Foundations in Molecular Simulations [Article v1.0]](https://doi.org/10.33011/livecoms.1.1.5957)
 - [Best Practices for Quantification of Uncertainty and Sampling Quality in Molecular Simulations [Article v1.0]](https://doi.org/10.33011/livecoms.1.1.5067)
 - [From Proteins to Perturbed Hamiltonians: A Suite of Tutorials for the GROMACS-2018 Molecular Simulation Package [Article v1.0]](https://doi.org/10.33011/livecoms.1.1.5068)(also available as an online [tutorial](http://www.mdtutorials.com/gmx/))
 - [Best Practices for Computing Transport Properties 1. Self-Diffusivity and Viscosity from Equilibrium Molecular Dynamics [Article v1.0]](https://doi.org/10.33011/livecoms.1.1.6324)
 
-
-### Reviews and Readings on Enhanced Sampling Methods
+### Enhanced Sampling Methods
  - [Enhanced Sampling Methods for Molecular Dynamics Simulations [Article v1.0]](https://doi.org/10.33011/livecoms.4.1.1583)
   - [Enhancing Important Fluctuations: Rare Events and Metadynamics from a Conceptual Viewpoint](https://doi.org/10.1146/annurev-physchem-040215-112229)
  - [Enhanced sampling without borders: on global biasing functions and how to reweight them](https://doi.org/10.1039/d1cp04809k)
@@ -22,14 +22,12 @@ sidebar:
  - [Metadynamics: A Unified Framework for Accelerating Rare Events and Sampling Thermodynamics and Kinetics](https://doi.org/10.1007/978-3-319-44677-6_49)
  - [Analyzing and Biasing Simulations with PLUMED](https://doi.org/10.1007/978-1-4939-9608-7_21) (also [arXiv:1812.08213](https://arxiv.org/abs/1812.08213))
  
-
-### Reviews and Reading about Collective Variables
+### Collective Variables
 - [Reaction coordinates in complex systems-a perspective](https://doi.org/10.1140/epjb/s10051-021-00233-5)
 - [Collective Variables for Crystallization Simulations-from Early Developments to Recent Advances](https://doi.org/10.1021/acsomega.2c06310)
 - [Critical comparison of general-purpose collective variables for crystal nucleation](https://doi.org/10.1103/physreve.107.l012601)
 
-### Reviews and Readings about Machine Learning for Finding Collective Variables
-
+### Machine Learning for Finding Collective Variables
 - [Manifold Learning in Atomistic Simulations: A Conceptual Review](https://doi.org/10.48550/arXiv.2303.08486)
 - [Machine Learning Force Fields and Coarse-Grained Variables in Molecular Dynamics: Application to Materials and Biological Systems
 ](https://doi.org/10.1021/acs.jctc.0c00355)

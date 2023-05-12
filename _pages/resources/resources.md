@@ -10,4 +10,4 @@ sidebar:
 Here you can find various resources related to Enhanced Sampling methods:
 - [Software and Codes]({{site.url}}/resources/software)   
 - [Reviews and Other Readings]({{site.url}}/resources/reviews)   
-- [Tutorials]({{site.url}}/resources/tutorials)   
+- [Tutorials and Other Documents]({{site.url}}/resources/tutorials)   

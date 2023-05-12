@@ -42,7 +42,7 @@ resources:
     children:
     - title: "Software and Codes"
       url: /resources/software
-    - title: "Review Papers"
+    - title: "Reviews and Other Readings"
       url: /resources/reviews
-    - title: "Tutorials"
+    - title: "Tutorials and Other Documents"
       url: /resources/tutorials
