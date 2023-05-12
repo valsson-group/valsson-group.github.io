@@ -23,7 +23,7 @@ sidebar:
   - [PLUMED Manual (v2.8)](https://www.plumed.org/doc-v2.8/user-doc/html/index.html)
   - [PLUMED-NEST The public repository of the PLUMED consortium](https://www.plumed-nest.org/)
 - Tutorials   
-  - [PLUMED Masterclass Tutorials](https://www.plumed.org/masterclass):     
+  - [PLUMED Masterclass Tutorials](https://www.plumed.org/masterclass)     
     Corresponding YouTube videos with lectures and solutions found [here](https://www.youtube.com/watch?v=2eGhMSdIJEs&list=PLmdKEn2znJEld8l6Hp9PXf4EursC4-8nC)
     - [Masterclass 21.1: PLUMED syntax and analysis](https://www.plumed.org/doc-v2.9/user-doc/html/masterclass-21-1.html)
     - [Masterclass 21.2: Statistical errors in MD](https://www.plumed.org/doc-v2.9/user-doc/html/masterclass-21-2.html)
