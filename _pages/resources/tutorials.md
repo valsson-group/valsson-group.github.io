@@ -11,17 +11,19 @@ sidebar:
 ### GROMACS
 - Manuals and Documentations
   - [GROMACS User Guide](https://manual.gromacs.org/current/user-guide/index.html)
+  - [GROMACS Reference Manual](https://manual.gromacs.org/current/reference-manual/index.html)
   - [GROMACS Short How-To Guides](https://manual.gromacs.org/current/how-to/index.html)
   - [GROMACS Molecular Dynamics Parameters (.mdp Options)](https://manual.gromacs.org/current/user-guide/mdp-options.html)
-  - [GROMACS Reference Manual](https://manual.gromacs.org/current/reference-manual/index.html)
 - Tutorials 
   - [GROMACS Tutorials - gromacs.org](https://tutorials.gromacs.org/)
   - [From Proteins to Perturbed Hamiltonians: A Suite of Tutorials for the GROMACS-2018 Molecular Simulation Package](http://www.mdtutorials.com/gmx/index.html) (also available as an [LiveCOMS Article](https://doi.org/10.33011/livecoms.1.1.5068))
 
 ### PLUMED
-- [PLUMED Manual (v2.8)](https://www.plumed.org/doc-v2.8/user-doc/html/index.html)
-- [PLUMED-NEST The public repository of the PLUMED consortium](https://www.plumed-nest.org/)
-- [PLUMED Masterclass Tutorials](https://www.plumed.org/masterclass): Corresponding YouTube videos with lectures and solutions found [here](https://www.youtube.com/watch?v=2eGhMSdIJEs&list=PLmdKEn2znJEld8l6Hp9PXf4EursC4-8nC)
+- Manuals and Documentations
+  - [PLUMED Manual (v2.8)](https://www.plumed.org/doc-v2.8/user-doc/html/index.html)
+  - [PLUMED-NEST The public repository of the PLUMED consortium](https://www.plumed-nest.org/)
+- Tutorials   
+  - [PLUMED Masterclass Tutorials](https://www.plumed.org/masterclass): Corresponding YouTube videos with lectures and solutions found [here](https://www.youtube.com/watch?v=2eGhMSdIJEs&list=PLmdKEn2znJEld8l6Hp9PXf4EursC4-8nC)
     - [Masterclass 21.1: PLUMED syntax and analysis](https://www.plumed.org/doc-v2.9/user-doc/html/masterclass-21-1.html)
     - [Masterclass 21.2: Statistical errors in MD](https://www.plumed.org/doc-v2.9/user-doc/html/masterclass-21-2.html)
     - [Masterclass 21.3: Umbrella sampling](https://www.plumed.org/doc-v2.9/user-doc/html/masterclass-21-3.html)
@@ -33,30 +35,37 @@ sidebar:
     - [Masterclass 22.11: Variationally enhanced sampling with PLUMED](https://www.plumed.org/doc-v2.9/user-doc/html/masterclass-22-11.html)
 
 ### Python
-- [Scientific Computing From Scratch](https://scotch.wangyq.net/)
-- [MolSSI -- Python Scripting for Computational Molecular Science](https://education.molssi.org/python_scripting_cms/)
-- [MolSSI -- Best Practices in Python Package Development](https://education.molssi.org/python-package-best-practices/)
-- [Software Carpentry -- Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
-- [Software Carpentry -- Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/)
-
-### NumPy
-- [NumPy User Guide](https://numpy.org/doc/stable/user/index.html)
-- [NumPy API Reference](https://numpy.org/doc/stable/reference/index.html)
-
+- Manuals and Documentations
+  - [Python 3 Documentation](https://docs.python.org/3/)
+  - [NumPy User Guide](https://numpy.org/doc/stable/user/index.html)
+  - [NumPy API Reference](https://numpy.org/doc/stable/reference/index.html)
+- Tutorials
+  - [Scientific Computing From Scratch](https://scotch.wangyq.net/)
+  - [MolSSI -- Python Scripting for Computational Molecular Science](https://education.molssi.org/python_scripting_cms/)
+  - [MolSSI -- Best Practices in Python Package Development](https://education.molssi.org/python-package-best-practices/)
+  - [Software Carpentry -- Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
+  - [Software Carpentry -- Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/)
+  
 ### Scientific Visualization 
-- [Scientific Visualization: Python + Matplotlib](https://inria.hal.science/hal-03427242/document)
-- [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
-- [Matplotlib Tutorials](https://matplotlib.org/stable/tutorials/index.html)
-- [Matplotlib Cheat Sheets](https://matplotlib.org/cheatsheets/)
+- Manuals and Documentations
+  - [Scientific Visualization: Python + Matplotlib](https://inria.hal.science/hal-03427242/document)
+  - [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
+  - [Matplotlib Cheat Sheets](https://matplotlib.org/cheatsheets/)
+- Tutorials
+  - [Matplotlib Tutorials](https://matplotlib.org/stable/tutorials/index.html)
 
 ### Linux and Bash
-- [Software Carpentry -- The Unix Shell](https://swcarpentry.github.io/shell-novice/)
+- Tutorials
+  - [Software Carpentry -- The Unix Shell](https://swcarpentry.github.io/shell-novice/)
 
 ### Editors 
-- [Learn Vim For the Last Time: A Tutorial and Primer](https://danielmiessler.com/study/vim/)
-- [VS Code - Getting Started](https://code.visualstudio.com/docs)
+- Tutorials
+  - [Learn Vim For the Last Time: A Tutorial and Primer](https://danielmiessler.com/study/vim/)
+  - [VS Code - Getting Started](https://code.visualstudio.com/docs)
 
 ### Version Control
-- [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
-- [Software Carpentry -- Version Control with Git](https://swcarpentry.github.io/git-novice/) 
+- Manuals and Documentations
+  - [GitHub Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- Tutorials
+  - [Software Carpentry -- Version Control with Git](https://swcarpentry.github.io/git-novice/) 
 
