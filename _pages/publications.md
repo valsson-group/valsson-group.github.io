@@ -22,7 +22,7 @@ arXiv: [2205.14774](https://arxiv.org/abs/2303.08486)
 
 0. A. Iscen, N. Forero-Martinez, **O. Valsson**, and K. Kremer  
 *Molecular Simulation Strategies for Understanding the Degradation Mechanisms of Acrylic Polymers*  
-Macromolecules (2023)     
+Macromolecules 56, 3272-3285 (2023)     
 DOI: [10.1021/acs.macromol.2c02442](https://doi.org/10.1021/acs.macromol.2c02442)   
 
 0. B. Pampel, S. Holbach, L. Hartung, and **O. Valsson**  
@@ -50,14 +50,14 @@ Article Code Repository on Github: [jhenin/Methods-for-enhanced-sampling-and-fre
 
 0. N. Petersen, M. Girard, A. Riedinger, and **O. Valsson**  
 *The Crucial Role of Solvation Forces in the Steric Stabilization of Nanoplatelets*  
-Nano Lett. 22, 9847–9853 (2022)  
+Nano Lett. 22, 9847-9853 (2022)  
 DOI: [10.1021/acs.nanolett.2c02848](https://doi.org/10.1021/acs.nanolett.2c02848)  
 ChemRxiv: [10.26434/chemrxiv-2022-mw1cs-v3](https://doi.org/10.26434/chemrxiv-2022-mw1cs-v3)  
 Dataset: [![DOI](https://zenodo.org/badge/DOI/https://doi.org/10.5281/zenodo.5940139.svg)](https://doi.org/https://doi.org/10.5281/zenodo.5940139)  
 
 0. J. Rydzewski, M. Chen, T. K. Ghosh, and **O. Valsson**  
 *Reweighted Manifold Learning of Collective Variables from Enhanced Sampling Simulations*  
-J. Chem. Theory Comput. 18, 7179–7192 (2022)  
+J. Chem. Theory Comput. 18, 7179-7192 (2022)  
 DOI: [10.1021/acs.jctc.2c00873](https://doi.org/10.1021/acs.jctc.2c00873)  
 arXiv: [2207.14554](https://arxiv.org/abs/2207.14554)  
 
