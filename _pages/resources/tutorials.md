@@ -62,7 +62,7 @@ sidebar:
 ### Editors 
 - Tutorials
   - [Learn Vim For the Last Time: A Tutorial and Primer](https://danielmiessler.com/study/vim/)
-  - [VS Code - Getting Started](https://code.visualstudio.com/docs)
+  - [Visual Studio Code - Getting Started](https://code.visualstudio.com/docs)
 
 ### Version Control
 - Manuals and Documentations
