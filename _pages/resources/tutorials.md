@@ -55,6 +55,12 @@ sidebar:
 - Tutorials
   - [Matplotlib Tutorials](https://matplotlib.org/stable/tutorials/index.html)
 
+### LaTeX
+- Manuals and Documentations
+  - [Overleaf LaTeX Documentation](https://www.overleaf.com/learn)
+- Tutorials
+  - [Overleaf Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
+
 ### Linux and Bash
 - Tutorials
   - [Software Carpentry -- The Unix Shell](https://swcarpentry.github.io/shell-novice/)
