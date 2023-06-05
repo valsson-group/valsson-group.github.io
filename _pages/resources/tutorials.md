@@ -49,7 +49,7 @@ sidebar:
   
 ### Scientific Visualization 
 - Manuals and Documentations
-  - [Scientific Visualization: Python + Matplotlib](https://inria.hal.science/hal-03427242/document)
+  - [Scientific Visualization: Python + Matplotlib](https://inria.hal.science/hal-03427242/document) ([Github Repository](https://github.com/rougier/scientific-visualization-book))
   - [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
   - [Matplotlib Cheat Sheets](https://matplotlib.org/cheatsheets/)
 - Tutorials
