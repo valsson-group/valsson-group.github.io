@@ -64,6 +64,7 @@ sidebar:
 ### Linux and Bash
 - Tutorials
   - [Software Carpentry -- The Unix Shell](https://swcarpentry.github.io/shell-novice/)
+  - [Ubuntu -- The Linux command line for beginners](https://ubuntu.com/tutorials/command-line-for-beginners)
 
 ### Editors 
 - Tutorials
