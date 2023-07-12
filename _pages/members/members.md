@@ -28,6 +28,11 @@ PhD Student at the MPI for Polymer Research in Mainz
 [Pradip Si]({{site.url}}/members/pradip-si)   
 ![Pradip Si]({{site.url}}/assets/images/PradipSi.jpg){: width="200px"}
 
+Aloka Patabendi Mudiyanselage 
+
+Jaya Pathak 
+
+Dipesh Shrestha 
 
 ## Graduated PhD Students
 - Dr. Benjamin Pampel, PhD Student the MPI for Polymer Research, Graduated in June 2022.
