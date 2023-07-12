@@ -21,21 +21,21 @@ The Valsson Research Group in July 2023: Grace, Shikshya, Jaya, Aloka, Omar, Pra
 
 ## Graduate Students
 
-[Shikshya Bhusal]({{site.url}}/members/shikshya-bhusal)   
+- [Shikshya Bhusal]({{site.url}}/members/shikshya-bhusal)   
 ![Shikshya Bhusal]({{site.url}}/assets/images/ShikshyaBhusal.jpg){: width="200px"}
 
-[Nanning Petersen]({{site.url}}/members/nanning-petersen)   
+- [Nanning Petersen]({{site.url}}/members/nanning-petersen)   
 ![Nanning Petersen]({{site.url}}/assets/images/NanningPetersen.jpg){: width="200px"}  
 PhD Student at the MPI for Polymer Research in Mainz
 
-[Pradip Si]({{site.url}}/members/pradip-si)   
+- [Pradip Si]({{site.url}}/members/pradip-si)   
 ![Pradip Si]({{site.url}}/assets/images/PradipSi.jpg){: width="200px"}
 
-Aloka Patabendi Mudiyanselage 
+- Aloka Patabendi Mudiyanselage 
 
-Jaya Pathak 
+- Jaya Pathak 
 
-Dipesh Shrestha 
+- Dipesh Shrestha 
 
 ## Graduated PhD Students
 - Dr. Benjamin Pampel, PhD Student the MPI for Polymer Research, Graduated in June 2022.
