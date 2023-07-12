@@ -21,9 +21,6 @@ sidebar:
 [Shikshya Bhusal]({{site.url}}/members/shikshya-bhusal)   
 ![Shikshya Bhusal]({{site.url}}/assets/images/ShikshyaBhusal.jpg){: width="200px"}
 
-[Daniel Lene]({{site.url}}/members/daniel-lene)   
-![Daniel Lene]({{site.url}}/assets/images/DanielLene.jpg){: width="200px"}
-
 [Nanning Petersen]({{site.url}}/members/nanning-petersen)   
 ![Nanning Petersen]({{site.url}}/assets/images/NanningPetersen.jpg){: width="200px"}  
 PhD Student at the MPI for Polymer Research in Mainz
