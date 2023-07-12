@@ -5,7 +5,7 @@ author_profile: false
 
 ![UNT-Chemistry]({{site.url}}/assets/images/chemistry 1-clear.png){: width="400px" .align-center}
 
-## Valsson Research Group @ University of North Texas
+## Valsson Research Group @ University of North Texas{: .align-center}
 
 ![Valsson Research Group - Group Photo July 2023]({{site.url}}/assets/images/ValssonResearchGroup-July2023_r50.jpg){: width="800px" .align-center}
 
