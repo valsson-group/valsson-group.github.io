@@ -8,7 +8,7 @@ sidebar:
 ---
 
 
-![Valsson Research Group - Group Photo July 2023]({{site.url}}/assets/images/ValssonResearchGroup-July2023_r50.jpg){: width="1200px" .align-center}
+![Valsson Research Group - Group Photo July 2023]({{site.url}}/assets/images/ValssonResearchGroup-July2023_r50.jpg)
 The Valsson Research Group in July 2023: Grace, Shikshya, Jaya, Aloka, Omar, Pradip, and Dipesh
 
 ## Principal Investigator
