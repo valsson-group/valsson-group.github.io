@@ -17,12 +17,16 @@ members:
     children:
       - title: "Shikshya Bhusal"
         url: /members/shikshya-bhusal
-      - title: "Daniel Lene"
-        url: /members/daniel-lene
       - title: "Nanning Petersen"
         url: /members/nanning-petersen
       - title: "Pradip Si"
         url: /members/pradip-si
+      - title: "Aloka Patabendi Mudiyanselage"  
+        #url: /members/aloka-patabendi-mudiyanselage
+      - title: "Jaya Pathak"  
+        #url: /members/jaya-pathak
+      - title: "Dipesh Shrestha"  
+        #url: /members/dipesh-shrestha
   - title: "Openings"
     url: /members/openings/
 
