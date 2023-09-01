@@ -9,7 +9,7 @@ sidebar:
 
 
 ### GROMACS
-- Manuals and Documentations
+- Manuals and Documentation
   - [GROMACS User Guide](https://manual.gromacs.org/current/user-guide/index.html)
   - [GROMACS Reference Manual](https://manual.gromacs.org/current/reference-manual/index.html)
   - [GROMACS Short How-To Guides](https://manual.gromacs.org/current/how-to/index.html)
@@ -19,8 +19,9 @@ sidebar:
   - [From Proteins to Perturbed Hamiltonians: A Suite of Tutorials for the GROMACS-2018 Molecular Simulation Package](http://www.mdtutorials.com/gmx/index.html) (also available as an [LiveCOMS Article](https://doi.org/10.33011/livecoms.1.1.5068))
 
 ### PLUMED
-- Manuals and Documentations
+- Manuals and Documentation
   - [PLUMED Manual (v2.8)](https://www.plumed.org/doc-v2.8/user-doc/html/index.html)
+  - [PLUMED Manual (v2.9)](https://www.plumed.org/doc-v2.9/user-doc/html/index.html)
   - [PLUMED-NEST The public repository of the PLUMED consortium](https://www.plumed-nest.org/)
 - Tutorials   
   - [PLUMED Masterclass Tutorials](https://www.plumed.org/masterclass)     
@@ -36,10 +37,11 @@ sidebar:
     - [Masterclass 22.11: Variationally enhanced sampling with PLUMED](https://www.plumed.org/doc-v2.9/user-doc/html/masterclass-22-11.html)
 
 ### Python
-- Manuals and Documentations
+- Manuals and Documentation
   - [Python 3 Documentation](https://docs.python.org/3/)
   - [NumPy User Guide](https://numpy.org/doc/stable/user/index.html)
   - [NumPy API Reference](https://numpy.org/doc/stable/reference/index.html)
+  - [MolSSI -- Best Practices](https://molssi.org/molssis-best-practices/)
 - Tutorials
   - [Scientific Computing From Scratch](https://scotch.wangyq.net/)
   - [MolSSI -- Python Scripting for Computational Molecular Science](https://education.molssi.org/python_scripting_cms/)
@@ -48,7 +50,7 @@ sidebar:
   - [Software Carpentry -- Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/)
   
 ### Scientific Visualization 
-- Manuals and Documentations
+- Manuals and Documentation
   - [Scientific Visualization: Python + Matplotlib](https://inria.hal.science/hal-03427242/document) ([Github Repository](https://github.com/rougier/scientific-visualization-book))
   - [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
   - [Matplotlib Cheat Sheets](https://matplotlib.org/cheatsheets/)
@@ -56,7 +58,7 @@ sidebar:
   - [Matplotlib Tutorials](https://matplotlib.org/stable/tutorials/index.html)
 
 ### LaTeX
-- Manuals and Documentations
+- Manuals and Documentation
   - [Overleaf LaTeX Documentation](https://www.overleaf.com/learn)
 - Tutorials
   - [Overleaf Learn LaTeX in 30 Minutes](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
