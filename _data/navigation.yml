@@ -26,7 +26,7 @@ members:
       - title: "Jaya Pathak"  
         #url: /members/jaya-pathak
       - title: "Dipesh Shrestha"  
-        #url: /members/dipesh-shrestha
+        url: /members/dipesh-shrestha   
   - title: "Openings"
     url: /members/openings/
 

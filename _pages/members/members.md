@@ -35,7 +35,8 @@ PhD Student at the MPI for Polymer Research in Mainz
 
 - Jaya Pathak 
 
-- Dipesh Shrestha 
+- [Dipesh Shrestha]({{site.url}}/members/dipesh-shrestha)   
+![Dipesh Shrestha]({{site.url}}/assets/images/DipeshShrestha.jpg){: width="200px"}
 
 ## Graduated PhD Students
 - Dr. Benjamin Pampel, PhD Student the MPI for Polymer Research, Graduated in June 2022.
