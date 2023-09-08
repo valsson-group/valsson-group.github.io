@@ -3,7 +3,7 @@ layout: splash
 author_profile: false
 ---
 
-![UNT-Chemistry]({{site.url}}/assets/images/chemistry 1-clear.png){: width="400px" .align-center}
+![UNT-Chemistry]({{site.url}}/assets/images/chemistry-1-clear.png){: width="400px" .align-center}
 
 ## Valsson Research Group @ University of North Texas
 
