@@ -16,7 +16,7 @@ See also [Google Scholar](https://scholar.google.com/citations?user=hd8q6KgAAAAJ
 
 0. J. Rydzewski, M. Chen, T. K. Ghosh, and **O. Valsson**  
 *Manifold Learning in Atomistic Simulations: A Conceptual Review*  
-Mach. Learn.: Sci. Technol. 4, 031001 (2023) 
+Mach. Learn.: Sci. Technol. 4, 031001 (2023)     
 DOI: [10.1088/2632-2153/ace81a](https://doi.org/10.1088/2632-2153/ace81a)     
 arXiv: [2205.14774](https://arxiv.org/abs/2303.08486)    
 
