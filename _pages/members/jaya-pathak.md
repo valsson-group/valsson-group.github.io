@@ -8,7 +8,7 @@ sidebar:
 
 ![Jaya Pathak]({{site.url}}/assets/images/JayaPathak.jpg){: width="200px"}
 
-## Aloka Senanayaka
+## Jaya Pathak 
 PhD Student  
 Department of Chemistry  
 University of North Texas  
