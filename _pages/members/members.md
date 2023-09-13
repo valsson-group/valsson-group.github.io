@@ -50,7 +50,7 @@ PhD Student at the MPI for Polymer Research in Mainz
 - Dr. Nehzat Safaei, Postdoctoral Researcher at the MPI for Polymer Research from February 2018 to June 2021.
 
 ## Visitors -- University of North Texas 
-- Grace Sheridan, Undergraduate Student from the Rose-Hulman Institute of Technology, Indiana. Visited the Valsson Research Group at UNT in the Summer of 2023 under the UNT Chemistry NSF Research Experiences for Undergraduates (REU) Program (NSF Grant CHE-1757946).   
+- Grace Sheridan, Undergraduate Student from the Rose-Hulman Institute of Technology, Indiana. Visited the Valsson Research Group in the Summer of 2023 under the UNT Chemistry NSF Research Experiences for Undergraduates (REU) Program (NSF Grant CHE-1757946).   
 
 ## Visitors -- MPI for Polymer Research in Mainz 
 - Giacomo Buccella, PhD Student from Politecnico di Milano, Italy. Visited the MPI for Polymer Research from June 2021 to August 2021.  
