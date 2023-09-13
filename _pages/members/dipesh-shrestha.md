@@ -19,13 +19,11 @@ Denton, Texas, USA
 * [UNT Chemistry Profile](https://chemistry.unt.edu/people/dipesh-shrestha)  
 
 ### Education
-
 * PhD in Chemistry, University of North Texas  
   Jan 2023 to Present  
   Supervisor: Dr. Omar Valsson  
 * MSc in Chemistry, Tri-Chandra Multiple Campus, Tribhuvan University, Nepal, 2020   
 * BSc in Chemistry, Tri-Chandra Multiple Campus, Tribhuvan University, Nepal, 2017 
-
 
 {% comment %}
 ### Publications

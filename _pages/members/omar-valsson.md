@@ -25,10 +25,7 @@ Denton, Texas, USA
 * [UNT Faculty Profile](https://facultyinfo.unt.edu/faculty-profile?query=Omar+Valsson&type=name&profile=ov0060#fndtn-general-information)  
 * [UNT Chemistry Profile](https://chemistry.unt.edu/people/omar-valsson)  
 
-
-
 ### Professional Experience
-
 * Assistant professor  
   Department of Chemistry, University of North Texas  
   Jan 2022 to Present
@@ -47,7 +44,6 @@ Denton, Texas, USA
   (DOI: [10.3990/1.9789036534116](http://doi.org/10.3990/1.9789036534116))
 * MSc in Physics, University of Iceland, Sept 2006 to June 2008
 * BSc in Physics, University of Iceland, Sept 2003 to June 2006
-
 
 ### Contact Information
 * Email: [omar.valsson@unt.edu](mailto:omar.valsson@unt.edu)  

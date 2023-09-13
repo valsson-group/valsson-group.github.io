@@ -18,7 +18,6 @@ Denton, Texas, USA
 * [UNT Chemistry Profile](https://chemistry.unt.edu/people/shikshya-bhusal)  
 
 ### Education
-
 * PhD in Chemistry, University of North Texas  
   Aug 2021 to Present  
   Supervisor: Dr. Omar Valsson  

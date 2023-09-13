@@ -20,18 +20,16 @@ Denton, Texas, USA
 * [UNT Chemistry Profile](https://chemistry.unt.edu/people/pradip-si)  
 
 ### Education
-
 * PhD in Chemistry, University of North Texas  
   Jan 2021 to Present  
   Supervisor: Dr. Omar Valsson  
 * MSc in Chemistry, IIT Kanpur, India, 2017
 * BSc in Chemistry, University of Calcutta, India, 2015
 
-
 {% comment %}
 ### Publications
 {% endcomment %}
 
 ### Contact Information
-* Email: [pradipsi@my.unt.edu](mailto:pradipsi@my.unt.edu)  
+* Email: [PradipSi@my.unt.edu](mailto:PradipSi@my.unt.edu)  
   Office: Chem 262 (UNT Chemistry)

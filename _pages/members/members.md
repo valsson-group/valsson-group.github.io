@@ -31,9 +31,11 @@ PhD Student at the MPI for Polymer Research in Mainz
 - [Pradip Si]({{site.url}}/members/pradip-si)   
 ![Pradip Si]({{site.url}}/assets/images/PradipSi.jpg){: width="200px"}
 
-- Aloka Patabendi Mudiyanselage 
+- [Aloka Senanayaka]({{site.url}}/members/aloka-senanayaka)   
+![Aloka Senanayaka]({{site.url}}/assets/images/AlokaSenanayaka.jpg){: width="200px"}
 
-- Jaya Pathak 
+- [Jaya Pathak]({{site.url}}/members/jaya-pathak)   
+![Jaya Pathak]({{site.url}}/assets/images/JayaPathak.jpg){: width="200px"}
 
 - [Dipesh Shrestha]({{site.url}}/members/dipesh-shrestha)   
 ![Dipesh Shrestha]({{site.url}}/assets/images/DipeshShrestha.jpg){: width="200px"}
@@ -49,7 +51,6 @@ PhD Student at the MPI for Polymer Research in Mainz
 
 
 ## Visitors
-
 - Giacomo Buccella, PhD Student from Politecnico di Milano, Italy. Visited the MPI for Polymer Research from June 2021 to August 2021.  
 - Dr. Olga Rogacheva, Postdoctoral Researcher from Saint Petersburg State University, Russia. Visited the MPI for Polymer Research from November 2020 to March 2021 on a DAAD Grant.
 - Dr. Olga Rogacheva, Postdoctoral Researcher from Saint Petersburg State University, Russia. Visited the MPI for Polymer Research from October 2019 to December 2019 on a DAAD Grant.

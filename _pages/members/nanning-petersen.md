@@ -17,7 +17,6 @@ Mainz, Germany
 * ORCID: [0000-0002-5726-5259](http://orcid.org/0000-0002-5726-5259)  
 
 ### Education
-
 * PhD in Physics, MPI for Polymer Research  
   Oct 2019 to Present  
   Supervisors: Dr. Omar Valsson and Dr. Andreas Riedinger  
