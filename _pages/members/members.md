@@ -49,10 +49,10 @@ PhD Student at the MPI for Polymer Research in Mainz
 - Dr. Bin Song, PhD Student the MPI for Polymer Research from October 2017 to May 2022.
 - Dr. Nehzat Safaei, Postdoctoral Researcher at the MPI for Polymer Research from February 2018 to June 2021.
 
-## Visitors at the University of North Texas 
+## Visitors -- University of North Texas 
 - Grace Sheridan, Undergraduate Student from the Rose-Hulman Institute of Technology, Indiana. Visited the Valsson Research Group at UNT in the Summer of 2023 under the UNT Chemistry NSF Research Experiences for Undergraduates (REU) Program (NSF Grant CHE-1757946).   
 
-## Visitors at the MPI for Polymer Research in Mainz 
+## Visitors -- MPI for Polymer Research in Mainz 
 - Giacomo Buccella, PhD Student from Politecnico di Milano, Italy. Visited the MPI for Polymer Research from June 2021 to August 2021.  
 - Dr. Olga Rogacheva, Postdoctoral Researcher from Saint Petersburg State University, Russia. Visited the MPI for Polymer Research from November 2020 to March 2021 on a DAAD Grant.
 - Dr. Olga Rogacheva, Postdoctoral Researcher from Saint Petersburg State University, Russia. Visited the MPI for Polymer Research from October 2019 to December 2019 on a DAAD Grant.
