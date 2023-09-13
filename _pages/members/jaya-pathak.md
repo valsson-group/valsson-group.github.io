@@ -22,6 +22,7 @@ Denton, Texas, USA
   Jan 2023 to Present  
   Supervisor: Dr. Omar Valsson  
 * MSc in Chemistry, Tri-Chandra Multiple Campus, Tribhuvan University, Nepal, 2019   
+  Supervisor: Dr. Meena Raj Bhandari    
 * BSc in Chemistry, Tri-Chandra Multiple Campus, Tribhuvan University, Nepal, 2016 
 
 {% comment %}
