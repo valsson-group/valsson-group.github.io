@@ -14,8 +14,8 @@ sidebar:
   - [GROMACS Reference Manual](https://manual.gromacs.org/current/reference-manual/index.html)
   - [GROMACS Short How-To Guides](https://manual.gromacs.org/current/how-to/index.html)
   - [GROMACS Molecular Dynamics Parameters (.mdp Options)](https://manual.gromacs.org/current/user-guide/mdp-options.html)
-- Tutorials 
   - [BioExcel - GROMACS Training and Support](https://bioexcel.eu/gromacs-training-and-support)
+- Tutorials 
   - [GROMACS Tutorials - gromacs.org](https://tutorials.gromacs.org/)
   - [From Proteins to Perturbed Hamiltonians: A Suite of Tutorials for the GROMACS-2018 Molecular Simulation Package](http://www.mdtutorials.com/gmx/index.html) (also available as an [LiveCOMS Article](https://doi.org/10.33011/livecoms.1.1.5068))
 
