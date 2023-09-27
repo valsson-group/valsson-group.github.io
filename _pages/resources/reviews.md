@@ -28,7 +28,7 @@ sidebar:
 - [Critical comparison of general-purpose collective variables for crystal nucleation](https://doi.org/10.1103/physreve.107.l012601)
 
 ### Machine Learning for Finding Collective Variables
-- [Manifold Learning in Atomistic Simulations: A Conceptual Review](https://doi.org/10.48550/arXiv.2303.08486)
+- [Manifold Learning in Atomistic Simulations: A Conceptual Review](https://doi.org/10.1088/2632-2153/ace81a)
 - [Machine Learning Force Fields and Coarse-Grained Variables in Molecular Dynamics: Application to Materials and Biological Systems
 ](https://doi.org/10.1021/acs.jctc.0c00355)
 - [Machine learning for collective variable discovery and enhanced sampling in biomolecular simulation](https://doi.org/10.1080/00268976.2020.1737742)
