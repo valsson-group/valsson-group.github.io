@@ -15,13 +15,14 @@ sidebar:
   - [GROMACS Short How-To Guides](https://manual.gromacs.org/current/how-to/index.html)
   - [GROMACS Molecular Dynamics Parameters (.mdp Options)](https://manual.gromacs.org/current/user-guide/mdp-options.html)
 - Tutorials 
+  - [BioExcel - GROMACS Training and Support](https://bioexcel.eu/gromacs-training-and-support)
   - [GROMACS Tutorials - gromacs.org](https://tutorials.gromacs.org/)
   - [From Proteins to Perturbed Hamiltonians: A Suite of Tutorials for the GROMACS-2018 Molecular Simulation Package](http://www.mdtutorials.com/gmx/index.html) (also available as an [LiveCOMS Article](https://doi.org/10.33011/livecoms.1.1.5068))
 
 ### PLUMED
 - Manuals and Documentation
-  - [PLUMED Manual (v2.8)](https://www.plumed.org/doc-v2.8/user-doc/html/index.html)
   - [PLUMED Manual (v2.9)](https://www.plumed.org/doc-v2.9/user-doc/html/index.html)
+  - [PLUMED Manual (v2.8)](https://www.plumed.org/doc-v2.8/user-doc/html/index.html)
   - [PLUMED-NEST The public repository of the PLUMED consortium](https://www.plumed-nest.org/)
 - Tutorials   
   - [PLUMED Masterclass Tutorials](https://www.plumed.org/masterclass)     
