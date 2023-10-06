@@ -40,6 +40,10 @@ PhD Student at the MPI for Polymer Research in Mainz
 - [Dipesh Shrestha]({{site.url}}/members/dipesh-shrestha)   
 ![Dipesh Shrestha]({{site.url}}/assets/images/DipeshShrestha.jpg){: width="200px"}
 
+- [Kriti Alam]({{site.url}}/members/kriti-alam)   
+![Kriti Alam]({{site.url}}/assets/images/KritiAlam.jpg){: width="200px"}
+
+
 ## Graduated PhD Students 
 - Dr. Benjamin Pampel, PhD Student the MPI for Polymer Research, Graduated in June 2022.
 - Dr. Bin Song, PhD Student the MPI for Polymer Research, Graduated in May 2022.
