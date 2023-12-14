@@ -15,6 +15,7 @@ University of North Texas
 Denton, Texas, USA  
 
 * GitHub: [jayapathak](https://github.com/jayapathak)  
+* ORCID: [0009-0004-5251-1117](http://orcid.org/0009-0004-5251-1117)  
 * [UNT Chemistry Profile](https://chemistry.unt.edu/people/jaya-pathak)  
 
 ### Education
