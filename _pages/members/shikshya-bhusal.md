@@ -15,6 +15,7 @@ University of North Texas
 Denton, Texas, USA  
 
 * GitHub: [Shikshya77](https://github.com/Shikshya77)  
+* ORCID: [0000-0001-5668-645X](http://orcid.org/0000-0001-5668-645X)  
 * [UNT Chemistry Profile](https://chemistry.unt.edu/people/shikshya-bhusal)  
 
 ### Education
