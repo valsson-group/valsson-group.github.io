@@ -6,7 +6,9 @@ sidebar:
   nav: "members"
 ---
 
-{# ![Logan Estridge]({{site.url}}/assets/images/LoganEstridge.jpg){: width="200px"} #}
+{% comment %}
+![Logan Estridge]({{site.url}}/assets/images/LoganEstridge.jpg){: width="200px"}
+{% endcomment %}
 
 ## Logan Estridge
 PhD Student  
