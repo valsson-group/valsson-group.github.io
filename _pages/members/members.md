@@ -44,7 +44,7 @@ PhD Student at the MPI for Polymer Research in Mainz
 ![Kriti Alam]({{site.url}}/assets/images/KritiAlam.jpg){: width="200px"}
 
 - [Logan Estridge]({{site.url}}/members/logan-estridge)   
-% ![Logan Estridge]({{site.url}}/assets/images/Logan Estridge.jpg){: width="200px"}       
+{# ![Logan Estridge]({{site.url}}/assets/images/Logan Estridge.jpg){: width="200px"}  #}     
 
 
 ## Graduated PhD Students 
