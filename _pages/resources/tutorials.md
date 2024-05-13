@@ -49,6 +49,7 @@ sidebar:
   - [MolSSI -- Best Practices in Python Package Development](https://education.molssi.org/python-package-best-practices/)
   - [Software Carpentry -- Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
   - [Software Carpentry -- Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/)
+  - [Think Python, 3rd edition](https://allendowney.github.io/ThinkPython/)
   
 ### Scientific Visualization 
 - Manuals and Documentation
