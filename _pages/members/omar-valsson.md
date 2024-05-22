@@ -36,6 +36,14 @@ Denton, Texas, USA
   ETH Zurich and USI Lugano, Switzerland  
   Oct 2012 to Mar 2017
 
+### Honours  
+
+* August 2023 -- Department of Energy (DOE) Early Career Award (Includes grant funded for 5 years, 7/2023-6/2028)
+
+### Funding 
+
+* Department of Energy (DOE) Early Career Award -- $850,000 -- 7/2023-6/2028
+
 ### Education
 * PhD in Physics, University of Twente, Netherlands   
   Sept 2008 to Sept 2012  
