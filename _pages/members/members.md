@@ -24,10 +24,6 @@ The Valsson Research Group in July 2023: Grace, Shikshya, Jaya, Aloka, Omar, Pra
 - [Shikshya Bhusal]({{site.url}}/members/shikshya-bhusal)   
 ![Shikshya Bhusal]({{site.url}}/assets/images/ShikshyaBhusal.jpg){: width="200px"}
 
-- [Nanning Petersen]({{site.url}}/members/nanning-petersen)   
-![Nanning Petersen]({{site.url}}/assets/images/NanningPetersen.jpg){: width="200px"}  
-PhD Student at the MPI for Polymer Research in Mainz
-
 - [Pradip Si]({{site.url}}/members/pradip-si)   
 ![Pradip Si]({{site.url}}/assets/images/PradipSi.jpg){: width="200px"}
 
@@ -50,11 +46,13 @@ PhD Student at the MPI for Polymer Research in Mainz
 ![Oriana Silva]({{site.url}}/assets/images/OrianaSilva.jpg){: width="200px"}
 
 ## Graduated PhD Students 
-- Dr. Benjamin Pampel, PhD Student the MPI for Polymer Research, Graduated in June 2022.
-- Dr. Bin Song, PhD Student the MPI for Polymer Research, Graduated in May 2022.
+- Dr. Nanning Petersen, PhD Student at the MPI for Polymer Research, Graduated in April 2024.
+- Dr. Benjamin Pampel, PhD Student at the MPI for Polymer Research, Graduated in June 2022.
+- Dr. Bin Song, PhD Student at the MPI for Polymer Research, Graduated in May 2022.
 
 ## Alumni
-- Dr. Benjamin Pampel, PhD Student the MPI for Polymer Research from March 2018 to June 2022 and Postdoctoral Researcher at MPI for Polymer Research from July 2022 to October 2022.
+- Dr. Nanning Petersen, PhD Student at the MPI for Polymer Research from October 2019 to April 2024. 
+- Dr. Benjamin Pampel, PhD Student at the MPI for Polymer Research from March 2018 to June 2022 and Postdoctoral Researcher at MPI for Polymer Research from July 2022 to October 2022.
 - Dr. Bin Song, PhD Student the MPI for Polymer Research from October 2017 to May 2022.
 - Dr. Nehzat Safaei, Postdoctoral Researcher at the MPI for Polymer Research from February 2018 to June 2021.
 
