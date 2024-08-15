@@ -42,7 +42,7 @@ Denton, Texas, USA
 
 ### Funding 
 
-* Department of Energy (DOE) Early Career Award -- $850,000 -- 7/2023-6/2028
+* Department of Energy (DOE) Early Career Award -- $875,000 -- 7/2023-6/2028
 
 ### Education
 * PhD in Physics, University of Twente, Netherlands   
