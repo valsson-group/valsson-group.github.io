@@ -58,7 +58,7 @@ Journal Club rotation: Kriti, Aloka, Pradip, Shikshya, Jaya, Dipesh, Oriana, Log
 
 - September 13, 2024  
   Seminar (in person)  
-  [Guru Khalsa](https://physics.unt.edu/people/guru-khalsa-phd), UNT Department of Physics (In person)   
+  [Guru Khalsa](https://physics.unt.edu/people/guru-khalsa-phd), UNT Department of Physics    
   *Ultrafast symmetry control in crystalline materials with light*  
 
 - September 6, 2024  
