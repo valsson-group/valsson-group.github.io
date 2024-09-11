@@ -7,7 +7,12 @@ sidebar:
   nav: "resources"
 ---
 
-Here you can find various resources related to Enhanced Sampling methods:
+### Group Resources
+- [Group Meetings]({{site.url}}/resources/group-meetings)   
+
+### Software Developed by the group
 - [Software and Codes]({{site.url}}/resources/software)   
+
+### Enhanced Sampling Reviews and Tutorials
 - [Reviews and Other Readings]({{site.url}}/resources/reviews)   
 - [Tutorials and Other Documents]({{site.url}}/resources/tutorials)   

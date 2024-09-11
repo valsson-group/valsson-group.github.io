@@ -45,9 +45,11 @@ publications:
       url: /publications/#prior-to-joining-university-of-north-texas
 
 resources:
-  - title: "Software and Resources"
+  - title: "Resources and Software"
     url: /resources/
     children:
+    - title: "Group Meetings"
+      url: /resources/group-meetings
     - title: "Software and Codes"
       url: /resources/software
     - title: "Reviews and Other Readings"
