@@ -21,14 +21,14 @@ Journal Club rotation: Kriti, Aloka, Pradip, Shikshya, Jaya, Dipesh, Oriana, Log
   No Group Meeting - Thanksgiving Week
 
 - November 22, 2024  
-  Journal Club - Oriana 
+  Journal Club - Oriana   
   Paper: TBD
 
 - November 15, 2024  
   No Group Meeting - OV away  
 
 - November 8, 2024  
-  Journal Club - Dipesh  
+  Journal Club - Dipesh    
   Paper: TBD    
 
 - November 1, 2024  
@@ -38,7 +38,7 @@ Journal Club rotation: Kriti, Aloka, Pradip, Shikshya, Jaya, Dipesh, Oriana, Log
   Research updates (everyone)  
 
 - October 18, 2024  
-  Journal Club - Jaya
+  Journal Club - Jaya    
   Paper: TBD    
 
 - October 11, 2024  
