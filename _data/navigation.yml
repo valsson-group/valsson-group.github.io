@@ -3,7 +3,7 @@ main:
     url: /members/
   - title: "Publications"
     url: /publications/
-  - title: "Software | Resources"
+  - title: "Resources | Software"
     url: /resources/
 
 members:
