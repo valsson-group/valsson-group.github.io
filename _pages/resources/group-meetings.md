@@ -22,7 +22,7 @@ Journal Club rotation: Kriti, Aloka, Pradip, Shikshya, Jaya, Dipesh, Oriana, Log
   Research updates (everyone)
   
 - September 20, 2024  
-  Seminar by [Helgi I. Ingólfsson]([https://physics.unt.edu/people/guru-khalsa-phd](https://bbs.llnl.gov/HelgiIngolfsson.html), Lawrence Livermore National Laboratory (Virtual)  
+  Seminar by [Helgi I. Ingólfsson](https://bbs.llnl.gov/HelgiIngolfsson.html), Lawrence Livermore National Laboratory (Virtual)  
   Title: *Machine Learning-Driven Multiscale Simulations for Mapping Protein Conformational Transitions, showcased for RAS-RAF Activation*  
 
 - September 13, 2024  
