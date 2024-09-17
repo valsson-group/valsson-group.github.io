@@ -45,12 +45,12 @@ Updated September 11, 2024
   Paper: TBD    
 
 - October 11, 2024  
-  General discussions  
+  Journal Club - Shikshya   
+  Paper: TBD
 
 - October 4, 2024  
-  Journal Club - Shikshya   
-  Paper: TBD    
-
+  No Group Meeting - UNT Research Day 
+  
 - September 27, 2024  
   Research updates (everyone)
   
