@@ -7,6 +7,7 @@ sidebar:
   nav: "resources"
 ---
 
+Updated September 20, 2024 
 
 ## Fall 2024 
 
@@ -15,7 +16,7 @@ The group meetings occur on Fridays from 1:00-2:30 pm in Chem 262.
 Journal Club rotation: Kriti, Aloka, Pradip, Shikshya, Jaya, Dipesh, Oriana, Logan, Omar 
 
 ### Schedule 
-Updated September 17, 2024 
+
 
 - December 6, 2024  
   Research updates (everyone)
@@ -38,12 +39,12 @@ Updated September 17, 2024
   No Group Meeting - OV away  
 
 - October 25, 2024  
-  Research updates (everyone)  
-
-- October 18, 2024  
   Journal Club - Jaya    
   Paper: TBD    
 
+- October 18, 2024   
+  Research updates (everyone)  
+  
 - October 11, 2024  
   Journal Club - Shikshya   
   Paper: TBD
@@ -52,7 +53,7 @@ Updated September 17, 2024
   No Group Meeting - UNT Research Day 
   
 - September 27, 2024  
-  Research updates (everyone)
+  No Group Meeting  
   
 - September 20, 2024  
   Seminar (virtual)   
