@@ -13,7 +13,7 @@ Updated September 20, 2024
 
 The group meetings occur on Fridays from 1:00-2:30 pm in Chem 262. 
 
-Journal Club rotation: Kriti, Aloka, Pradip, Shikshya, Jaya, Dipesh, Oriana, Logan, Omar 
+Journal Club rotation: Kriti, Aloka, Pradip, Shikshya, Jaya, Dipesh, Oriana, Logan, Sara, Omar 
 
 ### Schedule 
 
