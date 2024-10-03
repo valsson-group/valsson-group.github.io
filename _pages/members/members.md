@@ -45,6 +45,9 @@ The Valsson Research Group in July 2023: Grace, Shikshya, Jaya, Aloka, Omar, Pra
 - [Oriana Silva]({{site.url}}/members/oriana-silva)   
 ![Oriana Silva]({{site.url}}/assets/images/OrianaSilva.jpg){: width="200px"}
 
+- [Sara Alinejad]({{site.url}}/members/sara-alinejad)   
+![Sara Alinejad]({{site.url}}/assets/images/SaraAlinejad.jpg){: width="200px"}
+
 ## Graduated PhD Students 
 - Dr. Nanning Petersen, PhD Student at the MPI for Polymer Research, Graduated in April 2024.
 - Dr. Benjamin Pampel, PhD Student at the MPI for Polymer Research, Graduated in June 2022.
