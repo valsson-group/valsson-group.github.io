@@ -47,7 +47,7 @@ Journal Club rotation: Kriti, Aloka, Pradip, Shikshya, Jaya, Dipesh, Oriana, Log
   
 - October 11, 2024  
   Journal Club - Shikshya   
-  Paper: TBD
+  Paper: [Enhanced Sampling of Biomolecular Slow Conformational Transitions Using Adaptive Sampling and Machine Learning](doi.org/10.1021/acs.jctc.4c00764)  
 
 - October 4, 2024  
   No Group Meeting - UNT Research Day 
