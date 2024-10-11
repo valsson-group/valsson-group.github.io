@@ -47,7 +47,7 @@ Journal Club rotation: Kriti, Aloka, Pradip, Shikshya, Jaya, Dipesh, Oriana, Log
   
 - October 11, 2024  
   Journal Club - Shikshya   
-  Paper: [Enhanced Sampling of Biomolecular Slow Conformational Transitions Using Adaptive Sampling and Machine Learning](doi.org/10.1021/acs.jctc.4c00764)  
+  Paper: [Enhanced Sampling of Biomolecular Slow Conformational Transitions Using Adaptive Sampling and Machine Learning](https://doi.org/10.1021/acs.jctc.4c00764)  
 
 - October 4, 2024  
   No Group Meeting - UNT Research Day 
@@ -67,14 +67,14 @@ Journal Club rotation: Kriti, Aloka, Pradip, Shikshya, Jaya, Dipesh, Oriana, Log
 
 - September 6, 2024  
   Journal Club - Pradip  
-  Paper: [Machine Learning Nucleation Collective Variables with Graph Neural Networks](doi.org/10.1021/acs.jctc.3c00722)  
+  Paper: [Machine Learning Nucleation Collective Variables with Graph Neural Networks](https://doi.org/10.1021/acs.jctc.3c00722)  
 
 - August 30, 2024  
   General discussions  
 
 - August 23, 2024  
   Journal Club - Aloka   
-  Paper: [Calculating Protein–Ligand Residence Times through State Predictive Information Bottleneck Based Enhanced Sampling](doi.org/10.1021/acs.jctc.4c00503)  
+  Paper: [Calculating Protein–Ligand Residence Times through State Predictive Information Bottleneck Based Enhanced Sampling](https://doi.org/10.1021/acs.jctc.4c00503)  
 
 
   
