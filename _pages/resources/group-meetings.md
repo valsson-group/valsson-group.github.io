@@ -40,7 +40,7 @@ Journal Club rotation: Kriti, Aloka, Pradip, Shikshya, Jaya, Dipesh, Oriana, Log
 
 - October 25, 2024  
   Journal Club - Jaya    
-  Paper: TBD    
+  Paper: [Quantifying Protein-Protein Interactions in Molecular Simulations](https://doi.org/10.1021/acs.jpcb.9b11802)    
 
 - October 18, 2024   
   Research updates (everyone)  
