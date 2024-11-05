@@ -33,7 +33,7 @@ Journal Club rotation: Kriti, Aloka, Pradip, Shikshya, Jaya, Dipesh, Oriana, Log
 
 - November 8, 2024  
   Journal Club - Dipesh    
-  Paper: TBD    
+  Paper: [Computational screening of the effects of mutations on protein-protein off-rates and dissociation mechanisms by τRAMD](https://doi.org/10.1038/s42003-024-06880-5)    
 
 - November 1, 2024  
   No Group Meeting - OV away  
