@@ -26,7 +26,7 @@ Journal Club rotation: Kriti, Aloka, Pradip, Shikshya, Jaya, Dipesh, Oriana, Log
 
 - November 22, 2024  
   Journal Club - Oriana   
-  Paper: TBD
+  Paper: [Understanding Ring Puckering in Small Molecules and Cyclic Peptides](https://doi.org/10.1021/acs.jcim.0c01144)    
 
 - November 15, 2024  
   No Group Meeting - OV away  
