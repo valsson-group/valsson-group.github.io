@@ -20,7 +20,6 @@ The Valsson Research Group in July 2023: Grace, Shikshya, Jaya, Aloka, Omar, Pra
 {% endcomment %}
 
 ## Graduate Students
-
 - [Shikshya Bhusal]({{site.url}}/members/shikshya-bhusal)   
 ![Shikshya Bhusal]({{site.url}}/assets/images/ShikshyaBhusal.jpg){: width="200px"}
 
@@ -51,6 +50,14 @@ The Valsson Research Group in July 2023: Grace, Shikshya, Jaya, Aloka, Omar, Pra
 - [Kabita Sharma]({{site.url}}/members/kabita-sharma)   
 ![Kabita Sharma]({{site.url}}/assets/images/KabitaSharma.jpg){: width="200px"}
 
+## Undergraduate Students
+- Austin Thompson, Chemistry -- April 2024 to Present   
+- Keiran Nelson, Computer Science -- April 2024 to Present   
+- Danielle Walder, Chemistry -- April 2024 to Present      
+- Sachin Gordhan, Chemistry -- September 2024 to Present   
+- Devin Williams, Chemistry -- September 2024 to Present   
+- Ryan Lee, Texas Academy of Mathematics and Science (TAMS) -- September 2024 to Present   
+- Chloe Simpson, Biomedical Engineering -- November 2024 to Present      
 
 ## Graduated PhD Students 
 - Dr. Nanning Petersen, PhD Student at the MPI for Polymer Research, Graduated in April 2024.
