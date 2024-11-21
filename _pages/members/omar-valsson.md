@@ -28,13 +28,13 @@ Denton, Texas, USA
 ### Professional Experience
 * Assistant professor  
   Department of Chemistry, University of North Texas  
-  Jan 2022 to Present
+  January 2022 to Present
 * Group Leader, Theory Group (AK Kremer)  
   Max Planck Institute for Polymer Research, Mainz, Germany  
-  Apr 2017 to Jan 2022
+  April 2017 to January 2022
 * Postdoctoral researcher with [Prof. Michele Parrinello](http://www.rgp.ethz.ch/)  
   ETH Zurich and USI Lugano, Switzerland  
-  Oct 2012 to Mar 2017
+  October 2012 to March 2017
 
 ### Honours  
 
@@ -46,12 +46,12 @@ Denton, Texas, USA
 
 ### Education
 * PhD in Physics, University of Twente, Netherlands   
-  Sept 2008 to Sept 2012  
+  September 2008 to September 2012  
   Supervisor: [Prof. Claudia Filippi](https://www.utwente.nl/tnw/ccp/people/academic-staff/claudia-filippi.html)  
   Thesis: *Understanding visual absorption from first principles*  
   (DOI: [10.3990/1.9789036534116](http://doi.org/10.3990/1.9789036534116))
-* MSc in Physics, University of Iceland, Sept 2006 to June 2008
-* BSc in Physics, University of Iceland, Sept 2003 to June 2006
+* MSc in Physics, University of Iceland, September 2006 to June 2008
+* BSc in Physics, University of Iceland, September 2003 to June 2006
 
 ### Contact Information
 * Email: [omar.valsson@unt.edu](mailto:omar.valsson@unt.edu)  

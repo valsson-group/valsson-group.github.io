@@ -21,7 +21,7 @@ Denton, Texas, USA
 
 ### Education
 * PhD in Chemistry, University of North Texas  
-  Aug 2024 to Present  
+  August 2024 to Present  
   Supervisor: Dr. Omar Valsson  
 * MSc in Chemistry, Central Department of Chemistry, Tribhuvan University, Nepal, 2022   
 * BSc in Chemistry, Tri-Chandra Multiple Campus, Tribhuvan University, Nepal, 2018

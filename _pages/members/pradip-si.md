@@ -21,7 +21,7 @@ Denton, Texas, USA
 
 ### Education
 * PhD in Chemistry, University of North Texas  
-  Jan 2021 to Present  
+  January 2021 to Present  
   Supervisor: Dr. Omar Valsson  
 * MSc in Chemistry, IIT Kanpur, India, 2017
 * BSc in Chemistry, University of Calcutta, India, 2015

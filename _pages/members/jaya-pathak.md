@@ -20,7 +20,7 @@ Denton, Texas, USA
 
 ### Education
 * PhD in Chemistry, University of North Texas  
-  Jan 2023 to Present  
+  January 2023 to Present  
   Supervisor: Dr. Omar Valsson  
 * MSc in Chemistry, Tri-Chandra Multiple Campus, Tribhuvan University, Nepal, 2019   
   Supervisor: Dr. Meena Raj Bhandari    

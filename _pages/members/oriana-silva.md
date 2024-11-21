@@ -21,7 +21,7 @@ Denton, Texas, USA
 
 ### Education
 * PhD in Chemistry, University of North Texas  
-  Jan 2024 to Present  
+  January 2024 to Present  
   Supervisor: Dr. Omar Valsson  
 * BA in Chemistry, University of North Texas, 2023   
 * BA in French, University of North Texas, 2023   

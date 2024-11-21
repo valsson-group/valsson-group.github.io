@@ -20,7 +20,7 @@ Denton, Texas, USA
 
 ### Education
 * PhD in Chemistry, University of North Texas  
-  Jan 2023 to Present  
+  January 2023 to Present  
   Supervisor: Dr. Omar Valsson  
 * BSc in Chemistry, University of Kelaniya, Sri Lanka 2021
 
