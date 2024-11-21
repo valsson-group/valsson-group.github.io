@@ -70,7 +70,7 @@ Dataset: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5851772.svg)](https
 PLUMED-NEST: [![plumID:22.001](https://www.plumed-nest.org/eggs/22/001/badge.svg)](https://www.plumed-nest.org/eggs/22/001/)  
 {: reversed="reversed"}
 
-## Prior to joining University of North Texas
+## Prior to joining University of North Texas in January 2022 
 
 0. A. Iscen, N. Forero-Martinez, **O. Valsson**, and K. Kremer  
 *Acrylic Paints: An Atomistic View of Polymer Structure and Effects of Environmental Pollutants*  

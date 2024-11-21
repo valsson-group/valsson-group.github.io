@@ -66,7 +66,7 @@ The Valsson Research Group in July 2023: Grace, Shikshya, Jaya, Aloka, Omar, Pra
 ## Visitors -- University of North Texas 
 - Grace Sheridan, Undergraduate Student from the Rose-Hulman Institute of Technology, Indiana. Visited the Valsson Research Group in the Summer of 2023 under the UNT Chemistry NSF Research Experiences for Undergraduates (REU) Program (NSF Grant CHE-1757946).   
 
-## Visitors -- MPI for Polymer Research in Mainz 
+## Visitors -- MPI for Polymer Research in Mainz -- Prior to January 2022
 - Giacomo Buccella, PhD Student from Politecnico di Milano, Italy. Visited the MPI for Polymer Research from June 2021 to August 2021.  
 - Dr. Olga Rogacheva, Postdoctoral Researcher from Saint Petersburg State University, Russia. Visited the MPI for Polymer Research from November 2020 to March 2021 on a DAAD Grant.
 - Dr. Olga Rogacheva, Postdoctoral Researcher from Saint Petersburg State University, Russia. Visited the MPI for Polymer Research from October 2019 to December 2019 on a DAAD Grant.
