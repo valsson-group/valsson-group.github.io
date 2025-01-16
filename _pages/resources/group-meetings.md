@@ -9,9 +9,76 @@ sidebar:
 
 Updated September 20, 2024 
 
+## Spring 2025 
+
+The group meetings are on Fridays from 1:00 pm to 3:00 pm in Chem 262. 
+
+Journal Club rotation: Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
+
+### Schedule 
+
+- May 9, 2025  
+  No group meeting - Finals week 
+
+- May 2, 2025  
+  General discussions 
+
+- April 25, 2025 
+  Research updates (everyone)
+
+- April 18, 2025 
+  Journal Club - Shikshya 
+  Paper: TBD
+
+- April 11, 2025 
+  Journal Club - Pradip    
+  Paper: TBD
+
+- April 4, 2025 
+  Journal Club - Aloka 
+  Paper: TBD
+
+- March 28, 2025 
+  Journal Club - Kriti
+  Paper: TBD
+
+- March 21, 2025 
+  Research updates (everyone)
+
+- March 14, 2025 
+  No group meeting - Spring Break 
+
+- March 7, 2025 
+  Journal Club - Omar 
+  Paper: TBD
+
+- February 28, 2025 
+  No group meeting - Texas Computational Chemistry Symposium at TWU 
+
+- February 21, 2025 
+  Practice talks for the Texas Computational Chemistry Symposium 
+
+- February 14, 2025 
+  Practice talks for the Texas Computational Chemistry Symposium 
+
+- February 7, 2025 
+  Journal Club - Logan  
+  Paper: TBD
+  
+- January 31, 2025 
+  Research updates (everyone)
+
+- January 24, 2025 
+  No group meeting
+
+- January 17, 2025    
+  General discussions 
+
+
+
 ## Fall 2024 
 
-The group meetings occur on Fridays from 1:00-2:30 pm in Chem 262. 
+The group meetings were on Fridays from 1:00 pm to 2:30 pm in Chem 262. 
 
 Journal Club rotation: Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
@@ -74,7 +141,7 @@ Journal Club rotation: Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipes
 
 - August 23, 2024  
   Journal Club - Aloka   
-  Paper: [Calculating Protein–Ligand Residence Times through State Predictive Information Bottleneck Based Enhanced Sampling](https://doi.org/10.1021/acs.jctc.4c00503)  
+  Paper: [Calculating Protein-Ligand Residence Times through State Predictive Information Bottleneck Based Enhanced Sampling](https://doi.org/10.1021/acs.jctc.4c00503)  
 
 
   
