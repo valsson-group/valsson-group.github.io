@@ -49,7 +49,7 @@ Journal Club rotation: Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipes
   No group meeting - Spring Break 
 
 - March 7, 2025     
-  Journal Club - Omar 
+  Journal Club - Omar     
   Paper: TBD
 
 - February 28, 2025     
