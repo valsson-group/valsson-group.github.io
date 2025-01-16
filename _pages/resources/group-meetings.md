@@ -18,60 +18,60 @@ Journal Club rotation: Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipes
 ### Schedule 
 
 - May 9, 2025  
-  No group meeting - Finals week 
+  To be decided     
 
 - May 2, 2025  
   General discussions 
 
-- April 25, 2025 
+- April 25, 2025   
   Research updates (everyone)
 
-- April 18, 2025 
-  Journal Club - Shikshya 
+- April 18, 2025    
+  Journal Club - Shikshya    
   Paper: TBD
 
-- April 11, 2025 
+- April 11, 2025    
   Journal Club - Pradip    
   Paper: TBD
 
-- April 4, 2025 
-  Journal Club - Aloka 
+- April 4, 2025    
+  Journal Club - Aloka    
   Paper: TBD
 
-- March 28, 2025 
-  Journal Club - Kriti
+- March 28, 2025    
+  Journal Club - Kriti     
   Paper: TBD
 
-- March 21, 2025 
+- March 21, 2025    
   Research updates (everyone)
 
-- March 14, 2025 
+- March 14, 2025     
   No group meeting - Spring Break 
 
-- March 7, 2025 
+- March 7, 2025     
   Journal Club - Omar 
   Paper: TBD
 
-- February 28, 2025 
+- February 28, 2025     
   No group meeting - Texas Computational Chemistry Symposium at TWU 
 
-- February 21, 2025 
+- February 21, 2025      
   Practice talks for the Texas Computational Chemistry Symposium 
 
-- February 14, 2025 
+- February 14, 2025     
   Practice talks for the Texas Computational Chemistry Symposium 
 
-- February 7, 2025 
+- February 7, 2025      
   Journal Club - Logan  
   Paper: TBD
   
-- January 31, 2025 
+- January 31, 2025     
   Research updates (everyone)
 
-- January 24, 2025 
+- January 24, 2025     
   No group meeting
 
-- January 17, 2025    
+- January 17, 2025         
   General discussions 
 
 
