@@ -21,8 +21,8 @@ The subgroup meetings are on Wednesdays from 2:00 pm to 3:00 pm in Chem 262:
 
 The group meetings are on Fridays from 1:00 pm to 3:00 pm in Chem 262. 
 
-Journal Club Rotation: 
-- Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
+Journal Club Rotation:    
+Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - May 9, 2025  
   To be decided     
