@@ -13,9 +13,14 @@ Updated January 16, 2025
 
 The group meetings are on Fridays from 1:00 pm to 3:00 pm in Chem 262. 
 
-Journal Club rotation: Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
+Journal Club rotation: 
+- Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
-### Schedule 
+Subgroup Meeting are on Wednesdays from 2:00 pm to 3:00 pm:   
+- Molecular Crystals: February 5, February 19, March 19, April 9, April 23     
+- Biomolecules: February 12, March 5, April 2, April 16, April 30      
+
+### Group Meeting Schedule 
 
 - May 9, 2025  
   To be decided     
@@ -81,7 +86,7 @@ The group meetings were on Fridays from 1:00 pm to 2:30 pm in Chem 262.
 
 Journal Club rotation: Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
-### Schedule 
+### Group Meeting Schedule 
 
 - December 6, 2024  
   Research updates (everyone)
