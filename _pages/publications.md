@@ -16,13 +16,13 @@ See also [Google Scholar](https://scholar.google.com/citations?user=hd8q6KgAAAAJ
 
 0. S. Bhusal and **O. Valsson**  
 *Characterizing the conformational ensemble of PROTAC degraders in solutions via atomistic simulations*  
-ChemRxiv Preprint (2025)  
+ChemRxiv Preprint, submitted to Phys. Chem. Chem. Phys. (2025)   
 ChemRxiv: [10.26434/chemrxiv-2025-bxf47](https://doi.org/10.26434/chemrxiv-2025-bxf47)  
 
 
 0. G. A. Tribello, M, Bonomi, G. Bussi, C. Camilloni, ..., **O. Valsson**, ...  (see full author list in paper)  
 *PLUMED Tutorials: a collaborative, community-driven learning ecosystem*      
-arXiv Preprint (2024)   
+arXiv Preprint, submitted to J. Chem. Phys. (2024)   
 arXiv: [2412.03595](https://arxiv.org/abs/2412.03595)  
 Paper Introducing the [PLUMED-TUTORIALS](https://www.plumed-tutorials.org/)      
 
