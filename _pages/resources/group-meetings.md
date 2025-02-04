@@ -70,7 +70,7 @@ Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - February 7, 2025      
   Journal Club - Logan  
-  Paper: TBD
+  Paper: [How to train a neural network potential](https://doi.org/10.1063/5.0160326) 
   
 - January 31, 2025     
   Research updates (everyone)
