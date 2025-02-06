@@ -68,7 +68,7 @@ Denton, Texas, USA
   USA   
 
 * Mailing Address (USPS only):  
-  Dr. Omar valsson    
+  Dr. Omar Valsson    
   Department of Chemistry  
   University of North Texas  
   1155 Union Circle #305070  
