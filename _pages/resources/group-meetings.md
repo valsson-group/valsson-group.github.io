@@ -14,8 +14,8 @@ Updated January 16, 2025
 ### Subgroups Meeting Schedule 
 
 The subgroup meetings are on Wednesdays from 2:00 pm to 3:00 pm in Chem 262:
-- Molecular Crystals: February 5, February 19, March 19, April 9, April 23     
-- Biomolecules: February 12, March 5, April 2, April 16, April 30 (tentative)      
+- Molecular Crystals: February 5, March 5, April 2, April 16, April 30 (tentative)      
+- Biomolecules: February 19, March 19, April 9, April 23,      
 
 ### Group Meeting Schedule 
 
