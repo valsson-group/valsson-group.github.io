@@ -86,4 +86,4 @@ The Valsson Research Group in February 2025: Kriti, Jaya, Kabita, Aloka, Shikshy
 The Valsson Research Group in July 2023: Grace, Shikshya, Jaya, Aloka, Omar, Pradip, and Dipesh
 
 ![Valsson Research Group - Group Photo March 2018 - MPIP Mainz]({{site.url}}/assets/images/Valsson-Group-March2018.jpg)
-The Valsson Research Group at MPI for Polymer Research in Mainz in March 2018: Benjamin, Omar, Bin ([Photographer - Nikita Tretyakov](https://www.niktre-photography.de/))
+The Valsson Research Group at MPIP Mainz in March 2018: Benjamin, Omar, Bin ([Photographer - Nikita Tretyakov](https://www.niktre-photography.de/))
