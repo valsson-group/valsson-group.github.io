@@ -7,6 +7,8 @@ main:
     url: /resources/
 
 members:
+  - title: "Members"
+    url: /members/
   - title: "Prof. Dr. Omar Valsson"
     url: /members/omar-valsson
 #  - title: "Postdocs"
@@ -43,6 +45,7 @@ members:
 
 publications:
   - title: "Publications"
+    url: /publications/
     children:
     - title: Google Scholar
       url: https://scholar.google.com/citations?user=hd8q6KgAAAAJhl=en&user=hd8q6KgAAAAJ
