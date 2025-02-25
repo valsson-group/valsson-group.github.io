@@ -14,6 +14,7 @@ members:
 #      - title: "Dr. Benjamin Pampel"
 #        url: /members/benjamin-pampel
   - title: "Graduate Students"
+    url: /members/#graduate-students
     children:
       - title: "Shikshya Bhusal"
         url: /members/shikshya-bhusal
@@ -35,6 +36,8 @@ members:
         url: /members/sara-alinejad 
       - title: "Kabita Sharma"  
         url: /members/kabita-sharma         
+  - title: "Older Group Pictures #older-group-pictures
+    url: /members/#older-group-pictures
   - title: "Openings"
     url: /members/openings/
 

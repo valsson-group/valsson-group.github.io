@@ -8,8 +8,8 @@ sidebar:
 ---
 
 
-![Valsson Research Group - Group Photo July 2023]({{site.url}}/assets/images/ValssonResearchGroup-July2023_r50.jpg)
-The Valsson Research Group in July 2023: Grace, Shikshya, Jaya, Aloka, Omar, Pradip, and Dipesh
+![Valsson Research Group - Group Photo February 2025]({{site.url}}/assets/images/ValssonResearchGroup-February2025_r50.jpg)
+The Valsson Research Group in February 2025: Kriti, Jaya, Kabita, Aloka, Shikshya, Omar, Oriana, Logan, Sara, Pradip, and Dipesh 
 
 ## Principal Investigator
 [Prof. Dr. Omar Valsson]({{site.url}}/members/omar-valsson)    
@@ -78,3 +78,9 @@ The Valsson Research Group in July 2023: Grace, Shikshya, Jaya, Aloka, Omar, Pra
 - Dr. Olga Rogacheva, Postdoctoral Researcher from Saint Petersburg State University, Russia. Visited the MPI for Polymer Research from November 2020 to March 2021 on a DAAD Grant.
 - Dr. Olga Rogacheva, Postdoctoral Researcher from Saint Petersburg State University, Russia. Visited the MPI for Polymer Research from October 2019 to December 2019 on a DAAD Grant.
 - Mateusz Pokora, Master Student from Lodz University of Technology, Poland. Visited the MPI for Polymer Research from October 2019 to December 2019 on a Erasmus Grant.
+
+
+## Older Group Photos
+
+![Valsson Research Group - Group Photo July 2023]({{site.url}}/assets/images/ValssonResearchGroup-July2023_r50.jpg)
+The Valsson Research Group in July 2023: Grace, Shikshya, Jaya, Aloka, Omar, Pradip, and Dipesh
