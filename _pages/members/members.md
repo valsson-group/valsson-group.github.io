@@ -8,7 +8,7 @@ sidebar:
 ---
 
 
-![Valsson Research Group - Group Photo February 2025]({{site.url}}/assets/images/ValssonResearchGroup-February2025_r50.jpg)
+![Valsson Research Group - Group Photo February 2025]({{site.url}}/assets/images/ValssonResearchGroup-February2025_r50.jpg){: width="1000px" .align-center}
 The Valsson Research Group in February 2025: Kriti, Jaya, Kabita, Aloka, Shikshya, Omar, Oriana, Logan, Sara, Pradip, and Dipesh 
 
 ## Principal Investigator
@@ -82,8 +82,8 @@ The Valsson Research Group in February 2025: Kriti, Jaya, Kabita, Aloka, Shikshy
 
 ## Older Group Photos
 
-![Valsson Research Group - Group Photo July 2023]({{site.url}}/assets/images/ValssonResearchGroup-July2023_r50.jpg)
+![Valsson Research Group - Group Photo July 2023]({{site.url}}/assets/images/ValssonResearchGroup-July2023_r50.jpg){: width="1000px" .align-center}
 The Valsson Research Group in July 2023: Grace, Shikshya, Jaya, Aloka, Omar, Pradip, and Dipesh
 
-![Valsson Research Group - Group Photo March 2018 - MPIP Mainz]({{site.url}}/assets/images/Valsson-Group-March2018.jpg)
+![Valsson Research Group - Group Photo March 2018 - MPIP Mainz]({{site.url}}/assets/images/Valsson-Group-March2018.jpg){: width="1000px" .align-center}
 The Valsson Research Group at MPIP Mainz in March 2018: Benjamin, Omar, Bin ([Photographer - Nikita Tretyakov](https://www.niktre-photography.de/))
