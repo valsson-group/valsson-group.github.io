@@ -11,10 +11,12 @@ sidebar:
 
 See also [Google Scholar](https://scholar.google.com/citations?user=hd8q6KgAAAAJhl=en)  
 
+<sup>#</sup>UNT graduate students working in the Valsson Research Group      
+<sup>%</sup>MPIP Mainz graduate students working in the Valsson Research Group    
 
 ## With University of North Texas Affiliation
 
-0. S. Bhusal and **O. Valsson**  
+0. S. Bhusal<sup>#</sup> and **O. Valsson**  
 *Characterizing the conformational ensemble of PROTAC degraders in solutions via atomistic simulations*  
 ChemRxiv Preprint. Submitted to Phys. Chem. Chem. Phys. (2025)   
 ChemRxiv: [10.26434/chemrxiv-2025-bxf47](https://doi.org/10.26434/chemrxiv-2025-bxf47)  
@@ -43,7 +45,7 @@ arXiv: [2205.14774](https://arxiv.org/abs/2303.08486)
 Macromolecules 56, 3272-3285 (2023)     
 DOI: [10.1021/acs.macromol.2c02442](https://doi.org/10.1021/acs.macromol.2c02442)   
 
-0. B. Pampel, S. Holbach, L. Hartung, and **O. Valsson**  
+0. B. Pampel<sup>%</sup>, S. Holbach, L. Hartung, and **O. Valsson**  
 *Sampling Rare Event Energy Landscapes via Birth-Death Augmented Dynamics*  
 Phys. Rev. E 107, 024141 (2023) --  **Editor's Suggestion**    
 DOI: [10.1103/PhysRevE.107.024141](https://doi.org/10.1103/PhysRevE.107.024141)  
@@ -60,7 +62,7 @@ DOI: [10.33011/livecoms.4.1.1583](https://doi.org/10.33011/livecoms.4.1.1583)
 arXiv: [2205.14774](https://arxiv.org/abs/2202.04164)  
 Article Code Repository on Github: [jhenin/Methods-for-enhanced-sampling-and-free-energy-calculations](https://github.com/jhenin/Methods-for-enhanced-sampling-and-free-energy-calculations)
 
-0. N. Petersen, M. Girard, A. Riedinger, and **O. Valsson**  
+0. N. Petersen<sup>%</sup>, M. Girard, A. Riedinger, and **O. Valsson**  
 *The Crucial Role of Solvation Forces in the Steric Stabilization of Nanoplatelets*  
 Nano Lett. 22, 9847-9853 (2022)  
 DOI: [10.1021/acs.nanolett.2c02848](https://doi.org/10.1021/acs.nanolett.2c02848)  
@@ -73,7 +75,7 @@ J. Chem. Theory Comput. 18, 7179-7192 (2022)
 DOI: [10.1021/acs.jctc.2c00873](https://doi.org/10.1021/acs.jctc.2c00873)  
 arXiv: [2207.14554](https://arxiv.org/abs/2207.14554)  
 
-0. B. Pampel and **O. Valsson**  
+0. B. Pampel<sup>%</sup> and **O. Valsson**  
 *Improving the Efficiency of Variationally Enhanced Sampling with Wavelet-Based Bias Potentials*   
 J. Chem. Theory Comput. 18, 4127-4141 (2022)  
 DOI: [10.1021/acs.jctc.2c00197](https://doi.org/10.1021/acs.jctc.2c00197)  
