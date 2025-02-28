@@ -18,7 +18,7 @@ Members of the Valsson Research Group highlighted in boldface:
 
 ## With University of North Texas Affiliation
 
-0. **S. Bhusal<sup>#</sup>** and **O. Valsson**  
+0. **S. Bhusal**<sup>#</sup> and **O. Valsson**  
 *Characterizing the conformational ensemble of PROTAC degraders in solutions via atomistic simulations*  
 ChemRxiv Preprint. Submitted to Phys. Chem. Chem. Phys. (2025)   
 ChemRxiv: [10.26434/chemrxiv-2025-bxf47](https://doi.org/10.26434/chemrxiv-2025-bxf47)  
