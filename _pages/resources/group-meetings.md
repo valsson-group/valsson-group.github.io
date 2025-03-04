@@ -57,7 +57,7 @@ Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - March 7, 2025     
   Journal Club - Omar     
-  Paper: TBD
+  Paper: [Accurate Lattice Free Energies of Packing Polymorphs from Probabilistic Generative Models](https://doi.org/10.1021/acs.jctc.4c01612)     
 
 - February 28, 2025     
   No group meeting - Texas Computational Chemistry Symposium at TWU 
