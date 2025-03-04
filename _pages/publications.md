@@ -25,10 +25,14 @@ ChemRxiv: [10.26434/chemrxiv-2025-bxf47](https://doi.org/10.26434/chemrxiv-2025-
 
 
 0. G. A. Tribello, M, Bonomi, G. Bussi, C. Camilloni, ..., **O. Valsson**, ...  (see full author list in paper)  
-*PLUMED Tutorials: a collaborative, community-driven learning ecosystem*      
-arXiv Preprint. Accepted in J. Chem. Phys. (2025)   
+*PLUMED Tutorials: A collaborative, community-driven learning ecosystem*      
+Paper Introducing [PLUMED-TUTORIALS](https://www.plumed-tutorials.org/)      
+J. Chem. Phys. 162, 092501 (2025)      
+Part of [Michele Parrinello Festschrift](https://pubs.aip.org/jcp/collection/550849/Michele-Parrinello-Festschrift)  
+DOI: [10.1063/5.0251501](https://doi.org/10.1063/5.0251501)     
 arXiv: [2412.03595](https://arxiv.org/abs/2412.03595)  
-Paper Introducing the [PLUMED-TUTORIALS](https://www.plumed-tutorials.org/)      
+
+
 
 0. L. M. Ghiringhelli, C. Baldauf, ..., **O. Valsson**, C. Wöll, and M. Scheffler (see full author list in paper)  
 *Shared Metadata for Data-Centric Materials Science*  
