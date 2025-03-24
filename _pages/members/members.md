@@ -57,7 +57,8 @@ The Valsson Research Group in February 2025: Kriti, Jaya, Kabita, Aloka, Shikshy
 - Sachin Gordhan, Chemistry -- September 2024 to Present   
 - Devin Williams, Chemistry -- September 2024 to Present   
 - Ryan Lee, Texas Academy of Mathematics and Science (TAMS) -- September 2024 to Present   
-- Chloe Simpson, Biomedical Engineering -- November 2024 to Present      
+- Bea Venice Jane Buhawe, Biochemistry -- March 2025 to Present    
+- Daianna Vazquez, Chemistry -- March 2025 to Present    
 
 ## Graduated PhD Students 
 - Dr. Nanning Petersen, PhD Student at the MPI for Polymer Research, Graduated in April 2024.
@@ -78,7 +79,6 @@ The Valsson Research Group in February 2025: Kriti, Jaya, Kabita, Aloka, Shikshy
 - Dr. Olga Rogacheva, Postdoctoral Researcher from Saint Petersburg State University, Russia. Visited the MPI for Polymer Research from November 2020 to March 2021 on a DAAD Grant.
 - Dr. Olga Rogacheva, Postdoctoral Researcher from Saint Petersburg State University, Russia. Visited the MPI for Polymer Research from October 2019 to December 2019 on a DAAD Grant.
 - Mateusz Pokora, Master Student from Lodz University of Technology, Poland. Visited the MPI for Polymer Research from October 2019 to December 2019 on a Erasmus Grant.
-
 
 ## Older Group Photos
 
