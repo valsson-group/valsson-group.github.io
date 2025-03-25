@@ -34,7 +34,7 @@ Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
   Research updates (everyone)
 
 - April 18, 2025    
-  Journal Club - Shikshya    
+  Journal Club - Kriti        
   Paper: TBD
 
 - April 11, 2025    
@@ -46,8 +46,8 @@ Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
   Paper: TBD
 
 - March 28, 2025    
-  Journal Club - Kriti     
-  Paper: TBD
+  Journal Club - Shikshya           
+  Paper: [Linker-Determined Folding and Hydrophobic Interactions Explain a Major Difference in PROTAC Cell Permeability](https://doi.org/10.1021/acsmedchemlett.5c00068)            
 
 - March 21, 2025    
   Research updates (everyone)
