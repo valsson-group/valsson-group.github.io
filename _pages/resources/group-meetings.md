@@ -43,7 +43,7 @@ Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - April 4, 2025    
   Journal Club - Aloka    
-  Paper: TBD
+  Paper: [Comprehensive Evaluation of Fourteen Docking Programs on Protein-Peptide Complexes](https://doi.org/10.1021/acs.jctc.9b01208)          
 
 - March 28, 2025    
   Journal Club - Shikshya           
