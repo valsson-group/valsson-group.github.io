@@ -32,7 +32,7 @@ Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
   Paper: TBD
 
 - April 25, 2025   
-  Research updates (everyone)
+  Practice talks for the ACS DFW Meeting in Miniature (MiM)    
 
 - April 18, 2025
   No group meeting - Third-Year Talks     
