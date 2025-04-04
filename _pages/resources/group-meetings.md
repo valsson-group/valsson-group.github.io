@@ -28,14 +28,14 @@ Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
   To be decided     
 
 - May 2, 2025  
-  General discussions 
+  Journal Club - Kriti        
+  Paper: TBD
 
 - April 25, 2025   
   Research updates (everyone)
 
-- April 18, 2025    
-  Journal Club - Kriti        
-  Paper: TBD
+- April 18, 2025
+  No group meeting - Third-Year Talks     
 
 - April 11, 2025    
   Journal Club - Pradip    
