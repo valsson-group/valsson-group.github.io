@@ -7,7 +7,7 @@ sidebar:
   nav: "resources"
 ---
 
-Updated January 16, 2025 
+Updated April 5, 2025 
 
 ## Spring 2025 
 
@@ -25,11 +25,11 @@ Journal Club Rotation:
 Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - May 9, 2025  
-  To be decided     
-
-- May 2, 2025  
   Journal Club - Kriti        
   Paper: TBD
+
+- May 2, 2025  
+  No group meeting - Reading Day      
 
 - April 25, 2025   
   Practice talks for the ACS DFW Meeting in Miniature (MiM)    
