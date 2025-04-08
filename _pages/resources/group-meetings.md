@@ -39,7 +39,7 @@ Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - April 11, 2025    
   Journal Club - Pradip    
-  Paper: TBD
+  Paper: [Crystal Polymorph Search in the NPT Ensemble via a Deposition/Sublimation Alchemical Path](https://doi.org/10.1021/acs.cgd.3c01358)     
 
 - April 4, 2025    
   Journal Club - Aloka    
