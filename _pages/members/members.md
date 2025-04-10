@@ -59,6 +59,7 @@ The Valsson Research Group in February 2025: Kriti, Jaya, Kabita, Aloka, Shikshy
 - Ryan Lee, Texas Academy of Mathematics and Science (TAMS) -- September 2024 to Present   
 - Bea Venice Jane Buhawe, Biochemistry -- March 2025 to Present    
 - Daianna Vazquez, Chemistry -- March 2025 to Present    
+- Suhita Sainathuni, Texas Academy of Mathematics and Science (TAMS) -- April 2025 to Present   
 
 ## Graduated PhD Students 
 - Dr. Nanning Petersen, PhD Student at the MPI for Polymer Research, Graduated in April 2024.
