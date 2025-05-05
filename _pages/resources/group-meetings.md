@@ -7,7 +7,7 @@ sidebar:
   nav: "resources"
 ---
 
-Updated April 5, 2025 
+Updated May 5, 2025 
 
 ## Spring 2025 
 
@@ -26,7 +26,7 @@ Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - May 9, 2025  
   Journal Club - Kriti        
-  Paper: TBD
+  Paper: [Enhanced Sampling of Crystal Nucleation with Graph Representation Learnt Variables](https://doi.org/10.1021/acs.jpcb.4c00080)     
 
 - May 2, 2025  
   No group meeting - Reading Day      
