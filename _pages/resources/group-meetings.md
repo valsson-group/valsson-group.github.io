@@ -30,7 +30,7 @@ Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 - July 31, 2025     
   Run through of initial draft of presentations/posters for the ACS Fall Meeting in Washington DC     
 
-- June 26, 2025     
+- July 24, 2025     
   Research updates (everyone)
 
 - July 17, 2025     
