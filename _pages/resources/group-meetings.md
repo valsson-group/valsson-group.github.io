@@ -13,58 +13,58 @@ Updated May 15, 2025
 
 ### Group Meeting Schedule 
 
-The group meetings are on Thursdays from 1:00 pm to 3:00 pm in Chem 262. 
+The group meetings are on Wednesday from 1:00 pm to 3:00 pm in Chem 262. 
 
 Journal Club Rotation:    
 Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
-- August 21, 2025     
+- August 20, 2025     
   No group meeting -- ACS Fall Meeting in Washington DC 
 
-- August 14, 2025     
+- August 13, 2025     
   Practice talks for the ACS Fall Meeting in Washington DC 
 
-- August 7, 2025     
+- August 6, 2025     
   Practice talks for the ACS Fall Meeting in Washington DC 
 
-- July 31, 2025     
+- July 30, 2025     
   Run through of initial draft of presentations/posters for the ACS Fall Meeting in Washington DC     
 
-- July 24, 2025     
+- July 23, 2025     
   Research updates (everyone)
 
-- July 17, 2025     
+- July 16, 2025     
   Journal Club - Omar    
   Paper: TBD    
 
-- July 10, 2025     
+- July 9, 2025     
   Journal Club - Logan    
   Paper: TBD    
 
-- July 3, 2025     
+- July 2, 2025     
   Journal Club - Oriana      
   Paper: TBD    
 
-- June 26, 2025     
+- June 25, 2025     
   Research updates (everyone)
 
-- June 19, 2025     
+- June 18, 2025     
   Journal Club - Dipesh     
   Paper: TBD    
 
-- June 12, 2025     
+- June 11, 2025     
   Journal Club - Jaya        
   Paper: TBD    
 
-- June 5, 2025     
+- June 4, 2025     
   Journal Club - Kabita     
   Paper: TBD    
 
-- May 29, 2025     
+- May 28, 2025     
   Journal Club - Sara   
   Paper: TBD    
 
-- May 22, 2025     
+- May 21, 2025     
   Research updates (everyone)
 
 
