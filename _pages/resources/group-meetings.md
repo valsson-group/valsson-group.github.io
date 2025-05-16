@@ -65,7 +65,7 @@ Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
   Paper: TBD    
 
 - May 21, 2025     
-  Research updates (everyone)
+  Research updates (everyone) -- starts at 12 pm      
 
 
 ## Spring 2025 
