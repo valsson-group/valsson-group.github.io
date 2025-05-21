@@ -62,7 +62,7 @@ Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - May 28, 2025     
   Journal Club - Sara   
-  Paper: TBD    
+  Paper: [Locating Transition States for Biomolecular Dynamics via Invertible Dimensionality Reduction](https://doi.org/10.1021/acs.jctc.4c01624)    
 
 - May 21, 2025     
   Research updates (everyone) -- starts at 12 pm      
