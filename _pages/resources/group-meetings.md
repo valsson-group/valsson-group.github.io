@@ -11,6 +11,12 @@ Updated May 15, 2025
 
 ## Summer 2025 
 
+### Subgroups Meeting Schedule 
+
+The subgroup meetings are on Fridays from 9:00 am to 10:00 am in Chem 262:
+- Molecular Crystals: May 30, June 13, June 27, July 18, August 1, August 15
+- Biomolecules: June 6, June 20, July 11, July 25, August 8
+
 ### Group Meeting Schedule 
 
 The group meetings are on Wednesday from 1:00 pm to 3:00 pm in Chem 262. 
