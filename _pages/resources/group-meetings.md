@@ -64,7 +64,7 @@ Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - June 4, 2025     
   Journal Club - Kabita     
-  Paper: TBD    
+  Paper: [The importance of intramolecular hydrogen bonds on the translocation of the small drug piracetam through a lipid bilayer](https://doi.org/10.1039/D0RA09995C)    
 
 - May 28, 2025     
   Journal Club - Sara   
