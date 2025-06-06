@@ -73,7 +73,8 @@ The Valsson Research Group in February 2025: Kriti, Jaya, Kabita, Aloka, Shikshy
 - Dr. Nehzat Safaei, Postdoctoral Researcher at the MPI for Polymer Research from February 2018 to June 2021.
 
 ## Visitors -- University of North Texas 
-- Grace Sheridan, Undergraduate Student from the Rose-Hulman Institute of Technology, Indiana. Visited the Valsson Research Group in the Summer of 2023 under the UNT Chemistry NSF Research Experiences for Undergraduates (REU) Program (NSF Grant CHE-1757946).   
+- Lara Alswafta, Undergraduate Student from the Southwestern University, Texas. Visited the Valsson Research Group in the Summer of 2025 under the UNT Chemistry NSF Research Experiences for Undergraduates (REU) Program, _Chemistry Research Experiences for Early-Stage Undergraduates through Collaborative HSI Partnerships_ (NSF Grant [CHE-2447861](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2447861)).   
+- Grace Sheridan, Undergraduate Student from the Rose-Hulman Institute of Technology, Indiana. Visited the Valsson Research Group in the Summer of 2023 under the UNT Chemistry NSF Research Experiences for Undergraduates (REU) Program, _Team-Mentored Interdisciplinary Research Experiences in Chemistry for Early-Stage Undergraduates_ (NSF Grant [CHE-1757946](https://www.nsf.gov/awardsearch/showAward?AWD_ID=1757946)).   
 
 ## Visitors -- MPI for Polymer Research in Mainz -- Prior to January 2022
 - Giacomo Buccella, PhD Student from Politecnico di Milano, Italy. Visited the MPI for Polymer Research from June 2021 to August 2021.  
