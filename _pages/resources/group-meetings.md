@@ -60,7 +60,7 @@ Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - June 11, 2025     
   Journal Club - Jaya        
-  Paper: TBD    
+  Paper: [SHINE: Deterministic Many-to-Many Clustering of Molecular Pathways](https://doi.org/10.1021/acs.jcim.5c00240)          
 
 - June 4, 2025     
   Journal Club - Kabita     
