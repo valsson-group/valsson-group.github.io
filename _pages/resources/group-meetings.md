@@ -56,7 +56,7 @@ Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - June 18, 2025     
   Journal Club - Dipesh     
-  Paper: TBD    
+  Paper: [Prebound State Discovered in the Unbinding Pathway of Fluorinated Variants of the Trypsin-BPTI Complex Using Random Acceleration Molecular Dynamics Simulations](https://doi.org/10.1021/acs.jcim.4c00338)    
 
 - June 11, 2025     
   Journal Club - Jaya        
