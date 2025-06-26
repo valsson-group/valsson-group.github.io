@@ -40,7 +40,7 @@ Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
   Research updates (everyone)
 
 - July 16, 2025     
-  Journal Club - Omar    
+  Journal Club - Oriana           
   Paper: TBD    
 
 - July 9, 2025     
@@ -48,8 +48,8 @@ Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
   Paper: TBD    
 
 - July 2, 2025     
-  Journal Club - Oriana      
-  Paper: TBD    
+  Journal Club - Omar     
+  Paper: [Mind the Gap: An Embedding Guide to Safely Travel in Sequence Space](https://doi.org/10.1101/2025.06.19.660524)    
 
 - June 25, 2025     
   Research updates (everyone)
