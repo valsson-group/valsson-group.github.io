@@ -40,7 +40,7 @@ Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
   Research updates (everyone)
 
 - July 16, 2025     
-  Discussions about the theory of Metadynamics    
+  Discussions about Metadynamics, its theory and practical applications       
 
 - July 9, 2025     
   General discussions   
