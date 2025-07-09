@@ -40,12 +40,10 @@ Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
   Research updates (everyone)
 
 - July 16, 2025     
-  Journal Club - Oriana           
-  Paper: TBD    
+  Discussions about the theory of Metadynamics    
 
 - July 9, 2025     
-  Journal Club - Logan    
-  Paper: TBD    
+  General discussions   
 
 - July 2, 2025     
   Journal Club - Omar     
