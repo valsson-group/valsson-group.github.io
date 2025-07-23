@@ -7,15 +7,15 @@ sidebar:
   nav: "resources"
 ---
 
-Updated May 15, 2025 
+Updated July 23, 2025 
 
 ## Summer 2025 
 
 ### Subgroups Meeting Schedule 
 
 The subgroup meetings are on Fridays from 9:00 am to 10:00 am in Chem 262:
-- Molecular Crystals: May 30, June 13, June 27, July 18, August 1, August 15
-- Biomolecules: June 6, June 20, July 11, July 25, August 8
+- Molecular Crystals: May 30, June 13, June 27
+- Biomolecules: June 6, June 20
 
 ### Group Meeting Schedule 
 
@@ -28,16 +28,16 @@ Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
   No group meeting -- ACS Fall Meeting in Washington DC 
 
 - August 13, 2025     
-  Practice talks for the ACS Fall Meeting in Washington DC 
+  Practice talks for the ACS Fall Meeting in Washington DC -- Online via Zoom
 
 - August 6, 2025     
-  Practice talks for the ACS Fall Meeting in Washington DC 
+  Practice talks for the ACS Fall Meeting in Washington DC -- Online via Zoom
 
 - July 30, 2025     
-  Run through of initial draft of presentations/posters for the ACS Fall Meeting in Washington DC     
+  No group meeting -- OV away     
 
 - July 23, 2025     
-  Research updates (everyone)
+  General discussions and discussion about presentations/posters for the ACS Fall Meeting in Washington DC     
 
 - July 16, 2025     
   Discussions about Metadynamics, its theory and practical applications       
