@@ -9,7 +9,7 @@ sidebar:
 
 Updated August 28, 2025 
 
-## Summer 2025 
+## Fall 2025 
 
 ### Subgroups Meeting Schedule 
 
