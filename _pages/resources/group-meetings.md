@@ -7,7 +7,70 @@ sidebar:
   nav: "resources"
 ---
 
-Updated July 23, 2025 
+Updated August 28, 2025 
+
+## Summer 2025 
+
+### Subgroups Meeting Schedule 
+
+To be decided 
+
+### Group Meeting Schedule 
+
+The group meetings are on Fridays from 2:00 pm to 3:00 pm in Chem 262. 
+
+Journal Club Rotation:    
+Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
+
+- December 5, 2025     
+  No group meeting -- Reading day
+
+- November 28, 2025     
+  Journal Club -- Jaya                                
+
+- November 21, 2025     
+  Journal Club -- Kabita                            
+
+- November 14, 2025     
+  Research Updates (Jaya, Dipesh, Oriana, Logan)     
+
+- November 7, 2025     
+  Research Updates (Aloka, Pradip, Shikshya, Sara, Kabita)      
+
+- October 31, 2025     
+  Journal Club -- Sara                       
+
+- October 24, 2025     
+  Journal Club -- Shikshya                 
+
+- October 17, 2025     
+  Journal Club -- Pradip            
+  Paper: TBD   
+
+- October 10, 2025     
+  Journal Club -- Aloka          
+  Paper: TBD   
+
+- October 3, 2025     
+  Research Updates (Jaya, Dipesh, Oriana, Logan)     
+
+- September 26, 2025     
+  Research Updates (Aloka, Pradip, Shikshya, Sara, Kabita)      
+
+- September 19, 2025     
+  Journal Club -- Logan          
+  Paper: TBD   
+
+- September 12, 2025     
+  No group meeting    
+
+- September 5, 2025     
+  Journal Club -- Oriana    
+  Paper: TBD   
+
+- August 29, 2025     
+  General Discussions   
+
 
 ## Summer 2025 
 
@@ -46,26 +109,26 @@ Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
   General discussions   
 
 - July 2, 2025     
-  Journal Club - Omar     
+  Journal Club -- Omar     
   Paper: [Mind the Gap: An Embedding Guide to Safely Travel in Sequence Space](https://doi.org/10.1101/2025.06.19.660524)    
 
 - June 25, 2025     
   Research updates (everyone)
 
 - June 18, 2025     
-  Journal Club - Dipesh     
+  Journal Club -- Dipesh     
   Paper: [Prebound State Discovered in the Unbinding Pathway of Fluorinated Variants of the Trypsin-BPTI Complex Using Random Acceleration Molecular Dynamics Simulations](https://doi.org/10.1021/acs.jcim.4c00338)    
 
 - June 11, 2025     
-  Journal Club - Jaya        
+  Journal Club -- Jaya        
   Paper: [SHINE: Deterministic Many-to-Many Clustering of Molecular Pathways](https://doi.org/10.1021/acs.jcim.5c00240)          
 
 - June 4, 2025     
-  Journal Club - Kabita     
+  Journal Club -- Kabita     
   Paper: [The importance of intramolecular hydrogen bonds on the translocation of the small drug piracetam through a lipid bilayer](https://doi.org/10.1039/D0RA09995C)    
 
 - May 28, 2025     
-  Journal Club - Sara   
+  Journal Club -- Sara   
   Paper: [Locating Transition States for Biomolecular Dynamics via Invertible Dimensionality Reduction](https://doi.org/10.1021/acs.jctc.4c01624)    
 
 - May 21, 2025     
@@ -88,42 +151,42 @@ Journal Club Rotation:
 Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - May 9, 2025  
-  Journal Club - Kriti        
+  Journal Club -- Kriti        
   Paper: [Enhanced Sampling of Crystal Nucleation with Graph Representation Learnt Variables](https://doi.org/10.1021/acs.jpcb.4c00080)     
 
 - May 2, 2025  
-  No group meeting - Reading Day      
+  No group meeting -- Reading Day      
 
 - April 25, 2025   
   Practice talks for the ACS DFW Meeting in Miniature (MiM)    
 
 - April 18, 2025
-  No group meeting - Third-Year Talks     
+  No group meeting -- Third-Year Talks     
 
 - April 11, 2025    
-  Journal Club - Pradip    
+  Journal Club -- Pradip    
   Paper: [Crystal Polymorph Search in the NPT Ensemble via a Deposition/Sublimation Alchemical Path](https://doi.org/10.1021/acs.cgd.3c01358)     
 
 - April 4, 2025    
-  Journal Club - Aloka    
+  Journal Club -- Aloka    
   Paper: [Comprehensive Evaluation of Fourteen Docking Programs on Protein-Peptide Complexes](https://doi.org/10.1021/acs.jctc.9b01208)          
 
 - March 28, 2025    
-  Journal Club - Shikshya           
+  Journal Club -- Shikshya           
   Paper: [Linker-Determined Folding and Hydrophobic Interactions Explain a Major Difference in PROTAC Cell Permeability](https://doi.org/10.1021/acsmedchemlett.5c00068)            
 
 - March 21, 2025    
   Research updates (everyone)
 
 - March 14, 2025     
-  No group meeting - Spring Break 
+  No group meeting -- Spring Break 
 
 - March 7, 2025     
-  Journal Club - Omar     
+  Journal Club -- Omar     
   Paper: [Faster Sampling in Molecular Dynamics Simulations with TIP3P‐F Water](https://doi.org/10.1021/acs.jctc.4c00990)     
 
 - February 28, 2025     
-  No group meeting - Texas Computational Chemistry Symposium at TWU 
+  No group meeting -- Texas Computational Chemistry Symposium at TWU 
 
 - February 21, 2025      
   Practice talks for the Texas Computational Chemistry Symposium 
@@ -132,7 +195,7 @@ Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
   Practice talks for the Texas Computational Chemistry Symposium 
 
 - February 7, 2025      
-  Journal Club - Logan  
+  Journal Club -- Logan  
   Paper: [How to train a neural network potential](https://doi.org/10.1063/5.0160326) 
   
 - January 31, 2025     
@@ -157,35 +220,35 @@ Journal Club rotation: Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipes
   Research updates (everyone)
 
 - November 29, 2024  
-  No Group Meeting - Thanksgiving Week
+  No Group Meeting -- Thanksgiving Week
 
 - November 22, 2024  
-  Journal Club - Oriana   
+  Journal Club -- Oriana   
   Paper: [Understanding Ring Puckering in Small Molecules and Cyclic Peptides](https://doi.org/10.1021/acs.jcim.0c01144)    
 
 - November 15, 2024  
-  No Group Meeting - OV away  
+  No Group Meeting -- OV away  
 
 - November 8, 2024  
-  Journal Club - Dipesh    
+  Journal Club -- Dipesh    
   Paper: [Computational screening of the effects of mutations on protein-protein off-rates and dissociation mechanisms by τRAMD](https://doi.org/10.1038/s42003-024-06880-5)    
 
 - November 1, 2024  
-  No Group Meeting - OV away  
+  No Group Meeting -- OV away  
 
 - October 25, 2024  
-  Journal Club - Jaya    
+  Journal Club -- Jaya    
   Paper: [Quantifying Protein-Protein Interactions in Molecular Simulations](https://doi.org/10.1021/acs.jpcb.9b11802)    
 
 - October 18, 2024   
   Research updates (everyone)  
   
 - October 11, 2024  
-  Journal Club - Shikshya   
+  Journal Club -- Shikshya   
   Paper: [Enhanced Sampling of Biomolecular Slow Conformational Transitions Using Adaptive Sampling and Machine Learning](https://doi.org/10.1021/acs.jctc.4c00764)  
 
 - October 4, 2024  
-  No Group Meeting - UNT Research Day 
+  No Group Meeting -- UNT Research Day 
   
 - September 27, 2024  
   No Group Meeting  
@@ -201,14 +264,14 @@ Journal Club rotation: Kriti, Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipes
   *Ultrafast symmetry control in crystalline materials with light*  
 
 - September 6, 2024  
-  Journal Club - Pradip  
+  Journal Club -- Pradip  
   Paper: [Machine Learning Nucleation Collective Variables with Graph Neural Networks](https://doi.org/10.1021/acs.jctc.3c00722)  
 
 - August 30, 2024  
   General discussions  
 
 - August 23, 2024  
-  Journal Club - Aloka   
+  Journal Club -- Aloka   
   Paper: [Calculating Protein-Ligand Residence Times through State Predictive Information Bottleneck Based Enhanced Sampling](https://doi.org/10.1021/acs.jctc.4c00503)  
 
 
