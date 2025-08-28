@@ -23,7 +23,7 @@ Journal Club Rotation:
 Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - December 5, 2025     
-  No group meeting -- Reading day
+  No group meeting -- Reading day     
   Individual Meetings: Shikshya, Pradip, Jaya, Dipesh, Aloka  
 
 - November 28, 2025     
@@ -35,11 +35,11 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
   Individual Meetings: Shikshya, Pradip, Jaya, Dipesh, Aloka  
 
 - November 14, 2025     
-  Research Updates Shikshya, Pradip, Jaya, Dipesh, Aloka  
+  Research Updates: Shikshya, Pradip, Jaya, Dipesh, Aloka  
   Individual Meetings: Logan, Oriana, Sara, Kabita    
 
 - November 7, 2025     
-  Research Updates Logan, Oriana, Sara, Kabita    
+  Research Updates: Logan, Oriana, Sara, Kabita    
   Individual Meetings: Shikshya, Pradip, Jaya, Dipesh, Aloka  
 
 - October 31, 2025     
@@ -61,11 +61,11 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
   Individual Meetings: Shikshya, Pradip, Jaya, Dipesh, Aloka  
 
 - October 3, 2025     
-  Research Updates Shikshya, Pradip, Jaya, Dipesh, Aloka  
+  Research Updates: Shikshya, Pradip, Jaya, Dipesh, Aloka  
   Individual Meetings: Logan, Oriana, Sara, Kabita    
 
 - September 26, 2025     
-  Research Updates Logan, Oriana, Sara, Kabita    
+  Research Updates: Logan, Oriana, Sara, Kabita    
   Individual Meetings: Shikshya, Pradip, Jaya, Dipesh, Aloka  
 
 - September 19, 2025     
