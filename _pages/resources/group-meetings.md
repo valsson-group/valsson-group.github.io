@@ -28,10 +28,12 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - November 28, 2025     
   Journal Club -- Jaya                                
+  Paper: TBD   
   Individual Meetings: Logan, Oriana, Sara, Kabita    
 
 - November 21, 2025     
   Journal Club -- Kabita                            
+  Paper: TBD   
   Individual Meetings: Shikshya, Pradip, Jaya, Dipesh, Aloka  
 
 - November 14, 2025     
@@ -44,6 +46,7 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - October 31, 2025     
   Journal Club -- Sara                       
+  Paper: TBD   
   Individual Meetings: Logan, Oriana, Sara, Kabita    
 
 - October 24, 2025     
