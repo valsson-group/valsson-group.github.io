@@ -85,7 +85,7 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
   Individual Meetings: Shikshya, Pradip, Jaya, Dipesh, Aloka  
 
 - August 29, 2025     
-  General Discussions   
+  General Discussions and recap of ACS Fall Meeting     
   Individual Meetings: Logan, Oriana, Sara, Kabita    
 
 
