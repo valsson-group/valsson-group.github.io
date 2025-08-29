@@ -24,12 +24,11 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - December 5, 2025     
   No group meeting -- Reading day     
-  Individual Meetings: Shikshya, Pradip, Jaya, Dipesh, Aloka  
+  Individual Meetings: Logan, Oriana, Sara, Kabita    
 
 - November 28, 2025     
-  Journal Club -- Jaya                                
-  Paper: TBD   
-  Individual Meetings: Logan, Oriana, Sara, Kabita    
+  No group meeting -- Thanksgiving Break      
+  No individual meetings
 
 - November 21, 2025     
   Journal Club -- Kabita                            
@@ -78,7 +77,8 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - September 12, 2025     
   No group meeting    
-
+  No individual meetings
+  
 - September 5, 2025     
   Journal Club -- Oriana    
   Paper: TBD   
