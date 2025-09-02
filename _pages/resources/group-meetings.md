@@ -22,6 +22,11 @@ The group meetings are on Fridays from 2:00 pm to 3:00 pm in Chem 262.
 Journal Club Rotation:    
 Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
+- December 12, 2025     
+  No group meeting -- Finals week      
+  No individual meetings
+
+
 - December 5, 2025     
   No group meeting -- Reading day     
   Individual Meetings: Logan, Oriana, Sara, Kabita    
@@ -81,7 +86,7 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
   
 - September 5, 2025     
   Journal Club -- Oriana    
-  Paper: TBD   
+  Paper: [DSSP 4: FAIR annotation of protein secondary structure](https://doi.org/10.1002/pro.70208)    
   Individual Meetings: Shikshya, Pradip, Jaya, Dipesh, Aloka  
 
 - August 29, 2025     
