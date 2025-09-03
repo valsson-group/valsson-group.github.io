@@ -86,7 +86,7 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
   
 - September 5, 2025     
   Journal Club -- Oriana    
-  Paper: [DSSP 4: FAIR annotation of protein secondary structure](https://doi.org/10.1002/pro.70208)    
+  Paper: [DSSP in GROMACS: Tool for Defining Secondary Structures of Proteins in Trajectories](https://doi.org/10.1021/acs.jcim.3c01344)    
   Individual Meetings: Shikshya, Pradip, Jaya, Dipesh, Aloka  
 
 - August 29, 2025     
