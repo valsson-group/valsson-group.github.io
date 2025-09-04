@@ -51,7 +51,7 @@ The Valsson Research Group in February 2025: Kriti, Jaya, Kabita, Aloka, Shikshy
 ![Kabita Sharma]({{site.url}}/assets/images/KabitaSharma.jpg){: width="200px"}
 
 ## Undergraduate Students
-- Austin Thompson, Chemistry -- April 2024 to Present   
+- Austin Thompson, Chemistry -- April 2024 to May 2025     
 - Keiran Nelson, Computer Science -- April 2024 to Present   
 - Danielle Walder, Chemistry -- April 2024 to Present      
 - Sachin Gordhan, Chemistry -- September 2024 to Present   
@@ -60,6 +60,8 @@ The Valsson Research Group in February 2025: Kriti, Jaya, Kabita, Aloka, Shikshy
 - Bea Venice Jane Buhawe, Biochemistry -- March 2025 to Present    
 - Daianna Vazquez, Chemistry -- March 2025 to July 2025        
 - Suhita Sainathuni, Texas Academy of Mathematics and Science (TAMS) -- April 2025 to Present   
+- Mmesoma Atani, Biochemistry -- September 2025 to Present    
+- Viraj Shrivastava, Texas Academy of Mathematics and Science (TAMS) -- September 2025 to Present   
 
 ## Graduated PhD Students 
 - Dr. Nanning Petersen, PhD Student at the MPI for Polymer Research, Graduated in April 2024.
