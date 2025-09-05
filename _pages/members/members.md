@@ -35,9 +35,6 @@ The Valsson Research Group in February 2025: Kriti, Jaya, Kabita, Aloka, Shikshy
 - [Dipesh Shrestha]({{site.url}}/members/dipesh-shrestha)   
 ![Dipesh Shrestha]({{site.url}}/assets/images/DipeshShrestha.jpg){: width="200px"}
 
-- [Kriti Alam]({{site.url}}/members/kriti-alam)   
-![Kriti Alam]({{site.url}}/assets/images/KritiAlam.jpg){: width="200px"}
-
 - [Logan Estridge]({{site.url}}/members/logan-estridge)   
 ![Logan Estridge]({{site.url}}/assets/images/LoganEstridge.jpg){: width="200px"} 
 
@@ -69,9 +66,10 @@ The Valsson Research Group in February 2025: Kriti, Jaya, Kabita, Aloka, Shikshy
 - Dr. Bin Song, PhD Student at the MPI for Polymer Research, Graduated in May 2022.
 
 ## Alumni
+- Kriti Alam, Graduate Student at University of North Texas from August 2023 to August 2025.    
 - Dr. Nanning Petersen, PhD Student at the MPI for Polymer Research from October 2019 to April 2024. 
-- Dr. Benjamin Pampel, PhD Student at the MPI for Polymer Research from March 2018 to June 2022 and Postdoctoral Researcher at MPI for Polymer Research from July 2022 to October 2022.
-- Dr. Bin Song, PhD Student the MPI for Polymer Research from October 2017 to May 2022.
+- Dr. Benjamin Pampel, PhD Student at the MPI for Polymer Research from March 2018 to June 2022 and postdoctoral Researcher at MPI for Polymer Research from July 2022 to October 2022.
+- Dr. Bin Song, PhD Student the MPI for Polymer Research from October 2017 to May 2022.    
 - Dr. Nehzat Safaei, Postdoctoral Researcher at the MPI for Polymer Research from February 2018 to June 2021.
 
 ## Visitors -- University of North Texas 
