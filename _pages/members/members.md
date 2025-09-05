@@ -60,7 +60,7 @@ The Valsson Research Group in February 2025: Kriti, Jaya, Kabita, Aloka, Shikshy
 - Bea Venice Jane Buhawe, Biochemistry -- March 2025 to Present    
 - Daianna Vazquez, Chemistry -- March 2025 to July 2025        
 - Suhita Sainathuni, Texas Academy of Mathematics and Science (TAMS) -- April 2025 to Present   
-- Mmesoma Atani, Biochemistry -- September 2025 to Present    
+- Mmesoma Atani, Pre-Medical -- September 2025 to Present    
 - Viraj Shrivastava, Texas Academy of Mathematics and Science (TAMS) -- September 2025 to Present   
 
 ## Graduated PhD Students 
