@@ -22,6 +22,12 @@ Members of the Valsson Research Group highlighted in boldface:
 *Understanding and Controlling Colloidal Stability of CdSe Nanoplatelets by Solvation Force Engineering*  
 J. Am. Chem. Soc. (2025), Accepted      
 
+0. **S. Bhusal**<sup>#</sup> and **O. Valsson**  
+*Characterizing the conformational ensemble of PROTAC degraders in solutions via atomistic simulations*  
+ChemRxiv Preprint. Submitted to Phys. Chem. Chem. Phys. (2025)   
+ChemRxiv: [10.26434/chemrxiv-2025-bxf47-v2](https://doi.org/10.26434/chemrxiv-2025-bxf47-v2)  
+PLUMED-NEST: [![plumID:25.006](https://www.plumed-nest.org/eggs/25/006/badge.svg)](https://www.plumed-nest.org/eggs/25/006/)  
+
 0. G. A. Tribello, M, Bonomi, G. Bussi, C. Camilloni, ..., **O. Valsson**, ...  (see full author list in paper)  
 *PLUMED Tutorials: A collaborative, community-driven learning ecosystem*      
 Paper Introducing [PLUMED-TUTORIALS](https://www.plumed-tutorials.org/)      
