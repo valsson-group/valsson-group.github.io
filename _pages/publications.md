@@ -18,11 +18,9 @@ Members of the Valsson Research Group highlighted in boldface:
 
 ## With University of North Texas Affiliation
 
-0. **S. Bhusal**<sup>#</sup> and **O. Valsson**  
-*Characterizing the conformational ensemble of PROTAC degraders in solutions via atomistic simulations*  
-ChemRxiv Preprint. Submitted to Phys. Chem. Chem. Phys. (2025)   
-ChemRxiv: [10.26434/chemrxiv-2025-bxf47-v2](https://doi.org/10.26434/chemrxiv-2025-bxf47-v2)  
-PLUMED-NEST: [![plumID:25.006](https://www.plumed-nest.org/eggs/25/006/badge.svg)](https://www.plumed-nest.org/eggs/25/006/)  
+0. S. Chen, **N. Petersen**<sup>%</sup>, **O. Valsson**, M. Girard, and H. Wang
+*Understanding and Controlling Colloidal Stability of CdSe Nanoplatelets by Solvation Force Engineering*  
+J. Am. Chem. Soc. (2025), Accepted      
 
 0. G. A. Tribello, M, Bonomi, G. Bussi, C. Camilloni, ..., **O. Valsson**, ...  (see full author list in paper)  
 *PLUMED Tutorials: A collaborative, community-driven learning ecosystem*      
@@ -31,8 +29,6 @@ J. Chem. Phys. 162, 092501 (2025)
 Part of [Michele Parrinello Festschrift](https://pubs.aip.org/jcp/collection/550849/Michele-Parrinello-Festschrift)  
 DOI: [10.1063/5.0251501](https://doi.org/10.1063/5.0251501)     
 arXiv: [2412.03595](https://arxiv.org/abs/2412.03595)  
-
-
 
 0. L. M. Ghiringhelli, C. Baldauf, ..., **O. Valsson**, C. Wöll, and M. Scheffler (see full author list in paper)  
 *Shared Metadata for Data-Centric Materials Science*  
