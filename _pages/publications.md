@@ -19,8 +19,9 @@ Members of the Valsson Research Group highlighted in boldface:
 ## With University of North Texas Affiliation
 
 0. S. Chen, **N. Petersen**<sup>%</sup>, **O. Valsson**, M. Girard, and H. Wang
-*Understanding and Controlling Colloidal Stability of CdSe Nanoplatelets by Solvation Force Engineering*  
-J. Am. Chem. Soc. (2025), Accepted      
+*Understanding and Controlling the Colloidal Stability of CdSe Nanoplatelets by Solvation Force Engineering*  
+J. Am. Chem. Soc. (2025)   
+DOI: [10.1021/jacs.5c08392](https://doi.org/10.1021/jacs.5c08392)     
 
 0. **S. Bhusal**<sup>#</sup> and **O. Valsson**  
 *Characterizing the conformational ensemble of PROTAC degraders in solutions via atomistic simulations*  
