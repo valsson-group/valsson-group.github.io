@@ -77,8 +77,7 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - September 19, 2025     
   Journal Club -- Logan          
-  Paper: [Transferability of datasets between Machine-Learning Interaction Potentials
-](https://doi.org/10.48550/arXiv.2409.05590)     
+  Paper: [Transferability of Data Sets between Machine-Learned Interatomic Potential Algorithms](https://doi.org/10.1021/acs.jctc.5c00272)     
   Individual Meetings: Logan, Oriana, Sara, Kabita    
 
 - September 12, 2025     
