@@ -29,7 +29,7 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - December 5, 2025     
   No group meeting -- Reading day     
-  Individual Meetings: Logan, Oriana, Sara, Kabita    
+  No individual meetings   
 
 - November 28, 2025     
   No group meeting -- Thanksgiving Break      
