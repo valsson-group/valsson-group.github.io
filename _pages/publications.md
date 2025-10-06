@@ -20,7 +20,7 @@ Members of the Valsson Research Group highlighted in boldface:
 
 0. S. Chen, **N. Petersen**<sup>%</sup>, **O. Valsson**, M. Girard, and H. Wang      
 *Understanding and Controlling the Colloidal Stability of CdSe Nanoplatelets by Solvation Force Engineering*  
-J. Am. Chem. Soc. (2025)   
+J. Am. Chem. Soc. 147, 35347−35354 (2025)   
 DOI: [10.1021/jacs.5c08392](https://doi.org/10.1021/jacs.5c08392)     
 
 0. **S. Bhusal**<sup>#</sup> and **O. Valsson**  
