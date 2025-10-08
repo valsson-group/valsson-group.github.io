@@ -64,7 +64,7 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - October 10, 2025     
   Journal Club -- Aloka          
-  Paper: TBD   
+  Paper: [Investigation of the MDM2-binding potential of de novo designed peptides using enhanced sampling simulations](https://doi.org/10.1016/j.ijbiomac.2024.131840)        
   Individual Meetings: Shikshya, Pradip, Jaya, Dipesh, Aloka  
 
 - October 3, 2025     
