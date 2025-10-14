@@ -25,7 +25,7 @@ DOI: [10.1021/jacs.5c08392](https://doi.org/10.1021/jacs.5c08392)
 
 0. **S. Bhusal**<sup>#</sup> and **O. Valsson**  
 *Characterizing the conformational ensemble of PROTAC degraders in solutions via atomistic simulations*  
-ChemRxiv Preprint. Submitted to Phys. Chem. Chem. Phys. (2025)   
+Phys. Chem. Chem. Phys. (2025) Accepted      
 ChemRxiv: [10.26434/chemrxiv-2025-bxf47-v2](https://doi.org/10.26434/chemrxiv-2025-bxf47-v2)  
 PLUMED-NEST: [![plumID:25.006](https://www.plumed-nest.org/eggs/25/006/badge.svg)](https://www.plumed-nest.org/eggs/25/006/)  
 
