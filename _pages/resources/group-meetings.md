@@ -59,7 +59,7 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - October 17, 2025     
   Journal Club -- Shikshya                  
-  Paper: TBD   
+  Paper: [Probing Passive Permeation of Tetracycline: Are Simulations Ready for beyond-Rule-of-Five Drug Permeability Calculation?](https://doi.org/10.1021/acs.jpcb.5c05445)   
   Individual Meetings: Logan, Oriana, Sara, Kabita    
 
 - October 10, 2025     
