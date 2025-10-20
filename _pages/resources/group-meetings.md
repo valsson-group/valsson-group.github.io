@@ -55,6 +55,7 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - October 24, 2025     
   Journal Club -- Sara                 
+  Paper: [Enhancing Diffusion-Based Sampling with Molecular Collective Variables](https://doi.org/10.48550/arXiv.2510.11923)     
   Individual Meetings: Shikshya, Pradip, Jaya, Dipesh, Aloka  
 
 - October 17, 2025     
