@@ -50,7 +50,7 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - October 31, 2025     
   Journal Club -- Pradip                       
-  Paper: TBD   
+  Paper: [Bias Deletion Metadynamics Revealing Volume-Rotation Coupling Mechanisms in Metal-Organic Frameworks](https://doi.org/10.26434/chemrxiv-2025-nzfrb)        
   Individual Meetings: Logan, Oriana, Sara, Kabita    
 
 - October 24, 2025     
