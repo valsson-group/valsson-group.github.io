@@ -20,7 +20,8 @@ Members of the Valsson Research Group highlighted in boldface:
 
 0. **S. Bhusal**<sup>#</sup> and **O. Valsson**  
 *Characterizing the conformational ensemble of PROTAC degraders in solutions via atomistic simulations*  
-Phys. Chem. Chem. Phys. (2025) Accepted      
+Phys. Chem. Chem. Phys. Advance Article (2025)      
+DOI: [10.1039/D5CP02530C](https://doi.org/10.1039/D5CP02530C)        
 ChemRxiv: [10.26434/chemrxiv-2025-bxf47-v2](https://doi.org/10.26434/chemrxiv-2025-bxf47-v2)  
 PLUMED-NEST: [![plumID:25.006](https://www.plumed-nest.org/eggs/25/006/badge.svg)](https://www.plumed-nest.org/eggs/25/006/)  
 
