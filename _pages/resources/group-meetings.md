@@ -37,7 +37,7 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - November 21, 2025     
   Journal Club -- Kabita                            
-  Paper: TBD   
+  Paper: [Enhancing Permeability Prediction of Heterobifunctional Degraders Using Machine Learning and Metadynamics-Informed 3D Molecular Descriptors](https://doi.org/10.1021/acs.jcim.5c01600)     
   Individual Meetings: Shikshya, Pradip, Jaya, Dipesh, Aloka  
 
 - November 14, 2025     
