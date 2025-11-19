@@ -20,14 +20,14 @@ Members of the Valsson Research Group highlighted in boldface:
 
 0. **S. Bhusal**<sup>#</sup> and **O. Valsson**  
 *Characterizing the conformational ensemble of PROTAC degraders in solutions via atomistic simulations*  
-Phys. Chem. Chem. Phys., 27, 24211-24224 (2025)         
+Phys. Chem. Chem. Phys. 27, 24211-24224 (2025)         
 DOI: [10.1039/D5CP02530C](https://doi.org/10.1039/D5CP02530C)        
 ChemRxiv: [10.26434/chemrxiv-2025-bxf47-v2](https://doi.org/10.26434/chemrxiv-2025-bxf47-v2)  
 PLUMED-NEST: [![plumID:25.006](https://www.plumed-nest.org/eggs/25/006/badge.svg)](https://www.plumed-nest.org/eggs/25/006/)  
 
 0. S. Chen, **N. Petersen**<sup>%</sup>, **O. Valsson**, M. Girard, and H. Wang      
 *Understanding and Controlling the Colloidal Stability of CdSe Nanoplatelets by Solvation Force Engineering*  
-J. Am. Chem. Soc. 147, 35347−35354 (2025)   
+J. Am. Chem. Soc. 147, 35347-35354 (2025)   
 DOI: [10.1021/jacs.5c08392](https://doi.org/10.1021/jacs.5c08392)     
 
 0. G. A. Tribello, M, Bonomi, G. Bussi, C. Camilloni, ..., **O. Valsson**, ...  (see full author list in paper)  
