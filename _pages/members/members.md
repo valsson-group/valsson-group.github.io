@@ -23,9 +23,6 @@ The Valsson Research Group in February 2025: Kriti, Jaya, Kabita, Aloka, Shikshy
 - [Shikshya Bhusal]({{site.url}}/members/shikshya-bhusal)   
 ![Shikshya Bhusal]({{site.url}}/assets/images/ShikshyaBhusal.jpg){: width="200px"}
 
-- [Pradip Si]({{site.url}}/members/pradip-si)   
-![Pradip Si]({{site.url}}/assets/images/PradipSi.jpg){: width="200px"}
-
 - [Aloka Senanayaka]({{site.url}}/members/aloka-senanayaka)   
 ![Aloka Senanayaka]({{site.url}}/assets/images/AlokaSenanayaka.jpg){: width="200px"}
 
@@ -62,12 +59,14 @@ The Valsson Research Group in February 2025: Kriti, Jaya, Kabita, Aloka, Shikshy
 - Jacquilyn Ly, Biochemistry -- November 2025 to Present   
 
 ## Graduated PhD Students 
+- Dr. Pradip Si, PhD Student at the University of North Texas, Graduated in December 2025.
 - Dr. Nanning Petersen, PhD Student at the MPI for Polymer Research, Graduated in April 2024.
 - Dr. Benjamin Pampel, PhD Student at the MPI for Polymer Research, Graduated in June 2022.
 - Dr. Bin Song, PhD Student at the MPI for Polymer Research, Graduated in May 2022.
 
 ## Alumni
-- Kriti Alam, Graduate Student at University of North Texas from August 2023 to August 2025.    
+- Dr. Pradip Si, Graduate Student at the University of North Texas from January 2021 to December 2025.    
+- Kriti Alam, Graduate Student at the University of North Texas from August 2023 to August 2025.    
 - Dr. Nanning Petersen, PhD Student at the MPI for Polymer Research from October 2019 to April 2024. 
 - Dr. Benjamin Pampel, PhD Student at the MPI for Polymer Research from March 2018 to June 2022 and postdoctoral Researcher at MPI for Polymer Research from July 2022 to October 2022.
 - Dr. Bin Song, PhD Student the MPI for Polymer Research from October 2017 to May 2022.    
