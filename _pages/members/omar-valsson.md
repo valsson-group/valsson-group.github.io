@@ -46,8 +46,8 @@ Denton, Texas, USA
 
 ### Funding 
 
-* Department of Energy (DOE) Office of Science (SC) Early Career Award 
-  BES Condensed Phase and Interfacial Molecular Science (CPIMS) / DE-SC0024283   
+* Department of Energy (DOE) Office of Science (SC) Early Career Award       
+  BES Condensed Phase and Interfacial Molecular Science (CPIMS) / DE-SC0024283      
   $875,000 -- July 2023 to June 2028
 
 
