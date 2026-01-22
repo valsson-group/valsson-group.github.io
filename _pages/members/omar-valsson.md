@@ -40,11 +40,16 @@ Denton, Texas, USA
 
 ### Honours  
 
-* August 2023 -- Department of Energy (DOE) Early Career Award (Includes grant funded for 5 years, 7/2023-6/2028)
+* *[PCCP 2025 Emerging Investigator](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cp&themeid=de79e0d7-e02f-45b5-be4e-c6c43026bdb5)*, Royal Society of Chemistry (RSC) Journal Physical Chemistry Chemical Physics —- June 2025
+* Department of Energy (DOE) Office of Science (SC) Early Career Award -- August 2023 (Includes grant funded for 5 years, 7/2023-6/2028)
+
 
 ### Funding 
 
-* Department of Energy (DOE) Early Career Award -- $875,000 -- 7/2023-6/2028
+* Department of Energy (DOE) Office of Science (SC) Early Career Award 
+  BES Condensed Phase and Interfacial Molecular Science (CPIMS) / DE-SC0024283   
+  $875,000 — July 2023 to June 2028
+
 
 ### Education
 * PhD in Physics, University of Twente, Netherlands   
