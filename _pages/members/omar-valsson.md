@@ -15,7 +15,7 @@ Department of Chemistry
 University of North Texas  
 Denton, Texas, USA  
 
-* [Full Curriculum Vitae]({{site.url}}assets/documents/OmarValsson_CurriculumVitae.pdf)
+* [Full Curriculum Vitae]({{site.url}}/assets/documents/OmarValsson_CurriculumVitae.pdf)
 
 * Twitter: [@OmarValsson](https://twitter.com/OmarValsson)  
 * GitHub (Personal): [valsson](https://github.com/valsson)  
