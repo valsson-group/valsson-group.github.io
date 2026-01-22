@@ -21,8 +21,8 @@ Members of the Valsson Research Group highlighted in boldface:
 0. **S. Bhusal**<sup>#</sup> and **O. Valsson**  
 *Characterizing the conformational ensemble of PROTAC degraders in solutions via atomistic simulations*  
 Phys. Chem. Chem. Phys. 27, 24211-24224 (2025)         
-Part of the themed collection: [PCCP 2025 Emerging Investigators](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cp&themeid=de79e0d7-e02f-45b5-be4e-c6c43026bdb5)       
 DOI: [10.1039/D5CP02530C](https://doi.org/10.1039/D5CP02530C)        
+**Invited submission to the [PCCP 2025 Emerging Investigators Themed Collection](https://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=cp&themeid=de79e0d7-e02f-45b5-be4e-c6c43026bdb5)**       
 ChemRxiv: [10.26434/chemrxiv-2025-bxf47-v2](https://doi.org/10.26434/chemrxiv-2025-bxf47-v2)  
 PLUMED-NEST: [![plumID:25.006](https://www.plumed-nest.org/eggs/25/006/badge.svg)](https://www.plumed-nest.org/eggs/25/006/)  
 
@@ -35,8 +35,8 @@ DOI: [10.1021/jacs.5c08392](https://doi.org/10.1021/jacs.5c08392)
 *PLUMED Tutorials: A collaborative, community-driven learning ecosystem*      
 Paper Introducing [PLUMED-TUTORIALS](https://www.plumed-tutorials.org/)      
 J. Chem. Phys. 162, 092501 (2025)      
-Part of [Michele Parrinello Festschrift](https://pubs.aip.org/jcp/collection/550849/Michele-Parrinello-Festschrift)  
 DOI: [10.1063/5.0251501](https://doi.org/10.1063/5.0251501)     
+Part of [Michele Parrinello Festschrift](https://pubs.aip.org/jcp/collection/550849/Michele-Parrinello-Festschrift)  
 arXiv: [2412.03595](https://arxiv.org/abs/2412.03595)  
 
 0. L. M. Ghiringhelli, C. Baldauf, ..., **O. Valsson**, C. Wöll, and M. Scheffler (see full author list in paper)  
@@ -58,8 +58,9 @@ DOI: [10.1021/acs.macromol.2c02442](https://doi.org/10.1021/acs.macromol.2c02442
 
 0. **B. Pampel**<sup>%</sup>, S. Holbach, L. Hartung, and **O. Valsson**  
 *Sampling Rare Event Energy Landscapes via Birth-Death Augmented Dynamics*  
-Phys. Rev. E 107, 024141 (2023) --  **Editor's Suggestion**    
-DOI: [10.1103/PhysRevE.107.024141](https://doi.org/10.1103/PhysRevE.107.024141)  
+Phys. Rev. E 107, 024141 (2023)
+DOI: [10.1103/PhysRevE.107.024141](https://doi.org/10.1103/PhysRevE.107.024141)     
+**Selected as Editor’s Suggestion**    
 arXiv: [2209.00607](https://arxiv.org/abs/2209.00607)  
 Dataset: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7019132.svg)](https://doi.org/10.5281/zenodo.7019132)  
 Simulation Code (v0.3.1): [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5874773.svg)](https://doi.org/10.5281/zenodo.5874773)  
