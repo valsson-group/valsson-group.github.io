@@ -36,7 +36,7 @@ DOI: [10.1021/jacs.5c08392](https://doi.org/10.1021/jacs.5c08392)
 Paper Introducing [PLUMED-TUTORIALS](https://www.plumed-tutorials.org/)      
 J. Chem. Phys. 162, 092501 (2025)      
 DOI: [10.1063/5.0251501](https://doi.org/10.1063/5.0251501)     
-Part of [Michele Parrinello Festschrift](https://pubs.aip.org/jcp/collection/550849/Michele-Parrinello-Festschrift)  
+Part of the [Michele Parrinello Festschrift](https://pubs.aip.org/jcp/collection/550849/Michele-Parrinello-Festschrift)  
 arXiv: [2412.03595](https://arxiv.org/abs/2412.03595)  
 
 0. L. M. Ghiringhelli, C. Baldauf, ..., **O. Valsson**, C. Wöll, and M. Scheffler (see full author list in paper)  
