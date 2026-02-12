@@ -7,7 +7,30 @@ sidebar:
   nav: "resources"
 ---
 
-Updated August 28, 2025 
+Updated February 12, 2026 
+
+## Spring 2026
+
+### Group Meeting Schedule 
+
+The group meetings are on Fridays from 10:00 am to 12:00 pm in Chem 262. 
+
+Journal Club Rotation:    
+Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
+
+- February 20, 2026     
+  Discussions about PhD studies and expectations    
+  Individual Meetings: Jaya, Sara, Kabita, Dipesh        
+
+- February 13, 2026     
+  Journal Club -- Kabita                            
+  Paper: [Enhancing Permeability Prediction of Heterobifunctional Degraders Using Machine Learning and Metadynamics-Informed 3D Molecular Descriptors](https://doi.org/10.1021/acs.jcim.5c01600)     
+  Individual Meetings: Oriana, Logan, Aloka, Shikshya
+
+- February 4, 2026     
+  General Discussions
+  Individual Meetings: Jaya, Sara, Kabita, Dipesh.   
+
 
 ## Fall 2025 
 
@@ -37,7 +60,7 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - November 21, 2025     
   Journal Club -- Kabita                            
-  Paper: [Enhancing Permeability Prediction of Heterobifunctional Degraders Using Machine Learning and Metadynamics-Informed 3D Molecular Descriptors](https://doi.org/10.1021/acs.jcim.5c01600)     
+  Presentation by Dr. Ricky Sexton from UNT Biology     
   Individual Meetings: Shikshya, Pradip, Jaya, Dipesh, Aloka  
 
 - November 14, 2025     
