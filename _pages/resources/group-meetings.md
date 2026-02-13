@@ -18,6 +18,54 @@ The group meetings are on Fridays from 10:00 am to 12:00 pm in Chem 262.
 Journal Club Rotation:    
 Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
+- May 15, 2026     
+  To be decided    
+  Individual Meetings: Oriana, Logan, Aloka, Shikshya   
+
+- May 8, 2026     
+  To be decided    
+  Individual Meetings: Jaya, Sara, Kabita, Dipesh  
+
+- May 1, 2026     
+  To be decided    
+  Individual Meetings: Oriana, Logan, Aloka, Shikshya   
+
+- April 24, 2026     
+  To be decided    
+  Individual Meetings: Jaya, Sara, Kabita, Dipesh  
+
+- April 17, 2026     
+  To be decided    
+  Individual Meetings: Oriana, Logan, Aloka, Shikshya   
+
+- April 8, 2026 (on Wednesday at 11 am to 1 pm)    
+  To be decided    
+  Individual Meetings: Jaya, Sara, Kabita, Dipesh (Thursday meetings moved to other days)
+
+- April 3, 2026     
+  To be decided    
+  Individual Meetings: Oriana, Logan, Aloka, Shikshya   
+
+- March 27, 2026     
+  To be decided    
+  Individual Meetings: Jaya, Sara, Kabita, Dipesh  (All meeting moved to Friday, March 27 or other days)
+
+- March 20, 2026     
+  To be decided    
+  Individual Meetings: Oriana, Logan, Aloka, Shikshya   
+
+- March 13, 2026     
+  No group meeting -- UNT Spring break
+  No individual meetings
+
+- March 6, 2026     
+  To be decided    
+  Individual Meetings: Jaya, Sara, Kabita, Dipesh        
+
+- February 27, 2026     
+  To be decided    
+  Individual Meetings: Oriana, Logan, Aloka, Shikshya   
+
 - February 20, 2026     
   Discussions about PhD studies and expectations    
   Individual Meetings: Jaya, Sara, Kabita, Dipesh        
@@ -29,7 +77,7 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - February 4, 2026     
   General Discussions
-  Individual Meetings: Jaya, Sara, Kabita, Dipesh.   
+  Individual Meetings: Jaya, Sara, Kabita, Dipesh   
 
 
 ## Fall 2025 
