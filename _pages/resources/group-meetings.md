@@ -48,10 +48,11 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - March 27, 2026     
   To be decided    
-  Individual Meetings: Jaya, Sara, Kabita, Dipesh  (All meeting moved to Friday, March 27 or other days)
+  Individual Meetings: Jaya, Sara, Kabita, Dipesh  (All moved to Friday, March 27 or other days)
 
-- March 20, 2026     
-  To be decided    
+- March 20, 2026  
+  Journal Club -- Jaya      
+  Paper: To be decided    
   Individual Meetings: Oriana, Logan, Aloka, Shikshya   
 
 - March 13, 2026     
@@ -59,11 +60,12 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
   No individual meetings
 
 - March 6, 2026     
-  To be decided    
+  Discussions about PLUMED, programing in PLUMED, and Git        
   Individual Meetings: Jaya, Sara, Kabita, Dipesh        
 
 - February 27, 2026     
-  To be decided    
+  Journal Club -- Dipesh                           
+  Paper: [How to efficiently characterize the interaction pathways of protein–ligand recognition? A comparative analysis on enhanced sampling approaches](https://doi.org/10.1063/5.0311694)     
   Individual Meetings: Oriana, Logan, Aloka, Shikshya   
 
 - February 20, 2026     
@@ -76,7 +78,7 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
   Individual Meetings: Oriana, Logan, Aloka, Shikshya
 
 - February 4, 2026     
-  General Discussions
+  General Discussions    
   Individual Meetings: Jaya, Sara, Kabita, Dipesh   
 
 
