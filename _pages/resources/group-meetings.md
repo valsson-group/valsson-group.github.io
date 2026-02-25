@@ -56,7 +56,7 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
   Individual Meetings: Oriana, Logan, Aloka, Shikshya   
 
 - March 13, 2026     
-  No group meeting -- UNT Spring break
+  No group meeting -- UNT Spring break     
   No individual meetings
 
 - March 6, 2026     
