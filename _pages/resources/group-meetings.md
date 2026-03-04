@@ -39,7 +39,7 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
   Individual Meetings: Oriana, Logan, Aloka, Shikshya   
 
 - April 8, 2026 (on Wednesday at 11 am to 1 pm)    
-  Practice presentations for 3rd Year Talks 
+  Practice presentations for 3rd Year Talks       
   Individual Meetings: Jaya, Sara, Kabita, Dipesh (Thursday meetings moved to other days)
 
 - April 3, 2026     
