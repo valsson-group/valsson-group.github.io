@@ -43,16 +43,17 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
   Individual Meetings: Jaya, Sara, Kabita, Dipesh (Thursday meetings moved to other days)
 
 - April 3, 2026     
-  To be decided    
+  Journal Club -- Oriana         
+  Paper: [CREST—A program for the exploration of low-energy molecular chemical space](https://doi.org/10.1063/5.0197592)   
   Individual Meetings: Oriana, Logan, Aloka, Shikshya   
 
 - March 27, 2026     
-  To be decided    
+  Research Update (everyone)         
   Individual Meetings: Jaya, Sara, Kabita, Dipesh  (All moved to Friday, March 27 or other days)
 
 - March 20, 2026  
   Journal Club -- Jaya      
-  Paper: To be decided    
+  Paper: [How Robust Is the Ligand Binding Transition State?](https://10.1021/jacs.3c08940)   
   Individual Meetings: Oriana, Logan, Aloka, Shikshya   
 
 - March 13, 2026     
