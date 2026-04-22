@@ -33,7 +33,7 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - April 24, 2026     
   Journal Club -- Logon    
-  Paper: [IceCoder: Identification of Ice Phases in Molecular Simulation Using Variational Autoencoder](https://doi.org/10.1021/acs.jctc.4c01298)
+  Paper: [IceCoder: Identification of Ice Phases in Molecular Simulation Using Variational Autoencoder](https://doi.org/10.1021/acs.jctc.4c01298)    
   Individual Meetings: Jaya, Sara, Kabita, Dipesh  
 
 - April 17, 2026     
