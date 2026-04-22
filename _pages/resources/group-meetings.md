@@ -23,15 +23,17 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
   Individual Meetings: Oriana, Logan, Aloka, Shikshya   
 
 - May 8, 2026     
-  To be decided    
+  Journal Club -- Omar     
+  Paper: TBD        
   Individual Meetings: Jaya, Sara, Kabita, Dipesh  
 
 - May 1, 2026     
-  To be decided    
+  Research Update (everyone)         
   Individual Meetings: Oriana, Logan, Aloka, Shikshya   
 
 - April 24, 2026     
-  To be decided    
+  Journal Club -- Logon    
+  Paper: TBD        
   Individual Meetings: Jaya, Sara, Kabita, Dipesh  
 
 - April 17, 2026     
