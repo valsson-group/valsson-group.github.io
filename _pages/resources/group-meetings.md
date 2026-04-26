@@ -7,7 +7,7 @@ sidebar:
   nav: "resources"
 ---
 
-Updated April 21, 2026 
+Updated April 25, 2026 
 
 ## Spring 2026
 
@@ -19,21 +19,21 @@ Journal Club Rotation:
 Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - May 15, 2026     
-  To be decided    
+  Journal Club -- Omar     
+  Paper: TBD        
   Individual Meetings: Oriana, Logan, Aloka, Shikshya   
 
 - May 8, 2026     
-  Journal Club -- Omar     
-  Paper: TBD        
+  Research Updates (everyone)
   Individual Meetings: Jaya, Sara, Kabita, Dipesh  
 
 - May 1, 2026     
-  Research Update (everyone)         
-  Individual Meetings: Oriana, Logan, Aloka, Shikshya   
-
-- April 24, 2026     
   Journal Club -- Logon    
   Paper: [IceCoder: Identification of Ice Phases in Molecular Simulation Using Variational Autoencoder](https://doi.org/10.1021/acs.jctc.4c01298)    
+  Individual Meetings: Oriana, Logan, Aloka, Shikshya   
+
+- April 24, 2026 
+  No group meeting       
   Individual Meetings: Jaya, Sara, Kabita, Dipesh  
 
 - April 17, 2026     
