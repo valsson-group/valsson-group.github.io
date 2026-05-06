@@ -7,7 +7,7 @@ sidebar:
   nav: "resources"
 ---
 
-Updated April 25, 2026 
+Updated May 6, 2026 
 
 ## Spring 2026
 
@@ -28,7 +28,7 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
   Individual Meetings: Jaya, Sara, Kabita, Dipesh  
 
 - May 1, 2026     
-  Journal Club -- Logon    
+  Journal Club -- Logan    
   Paper: [IceCoder: Identification of Ice Phases in Molecular Simulation Using Variational Autoencoder](https://doi.org/10.1021/acs.jctc.4c01298)    
   Individual Meetings: Oriana, Logan, Aloka, Shikshya   
 
