@@ -24,7 +24,7 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
   Individual Meetings: Oriana, Logan, Aloka, Shikshya   
 
 - May 8, 2026     
-  Research Updates (everyone)
+  Research Updates (everyone)      
   Individual Meetings: Jaya, Sara, Kabita, Dipesh  
 
 - May 1, 2026     
