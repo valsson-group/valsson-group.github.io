@@ -7,7 +7,7 @@ sidebar:
   nav: "resources"
 ---
 
-Updated May 6, 2026 
+Updated May 11, 2026 
 
 ## Spring 2026
 
@@ -86,10 +86,6 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 
 ## Fall 2025 
-
-### Subgroups Meeting Schedule 
-
-To be decided 
 
 ### Group Meeting Schedule 
 
