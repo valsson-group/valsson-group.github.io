@@ -20,7 +20,7 @@ Aloka, Pradip, Shikshya, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Omar
 
 - May 15, 2026     
   Journal Club -- Omar     
-  Paper: TBD        
+  Paper: [Protein–Protein Interaction Stabilizers from MD Simulation-Derived Pharmacophores](https://doi.org/10.1021/acs.jcim.6c00290)         
   Individual Meetings: Oriana, Logan, Aloka, Shikshya   
 
 - May 8, 2026     
