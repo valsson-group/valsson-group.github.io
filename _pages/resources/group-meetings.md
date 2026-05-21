@@ -11,16 +11,14 @@ Updated May 20, 2026
 
 ## Summer 2026 
 
-### Group Meeting Schedule 
-
 The group meetings are on Fridays from 10:00 am to 12:00 pm in Chem 262. 
 
-The subgroup meetings are on Fridays from 9:00 am to 10:00 am in Chem 262:
-- Molecular Crystals: May 22, June 5, July 1 (Wednesday), July 17, July 31, August 14   
-- Biomolecules: May 29, June 26, July 10, July 24, August 7   
+The subgroup meetings are on Fridays from 9:00 am to 10:00 am in Chem 262. 
 
 Journal Club Rotation:    
-Aloka, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Austin, Omar 
+- Aloka, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Austin, Omar 
+
+### Group Meeting Schedule 
 
 - August 14, 2026    
   Journal Club -- Omar              
