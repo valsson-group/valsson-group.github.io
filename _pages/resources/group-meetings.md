@@ -16,7 +16,7 @@ The group meetings are on Fridays from 10:00 am to 12:00 pm in Chem 262.
 The subgroup meetings are on Fridays from 9:00 am to 10:00 am in Chem 262. 
 
 Journal Club Rotation:    
-- Aloka, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Austin, Omar 
+Aloka, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Austin, Omar 
 
 ### Group Meeting Schedule 
 
