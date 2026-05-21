@@ -11,57 +11,63 @@ Updated May 20, 2026
 
 ## Summer 2026 
 
-### Subgroups Meeting Schedule 
+### Group Meeting Schedule 
+
+The group meetings are on Fridays from 10:00 am to 12:00 pm in Chem 262. 
 
 The subgroup meetings are on Fridays from 9:00 am to 10:00 am in Chem 262:
 - Molecular Crystals: May 22, June 5, July 1 (Wednesday), July 17, July 31, August 14   
 - Biomolecules: May 29, June 26, July 10, July 24, August 7   
 
-### Group Meeting Schedule 
-
-The group meetings are on Fridays from 10:00 am to 12:00 pm in Chem 262. 
-
 Journal Club Rotation:    
 Aloka, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Austin, Omar 
 
-- August 14, 2026
+- August 14, 2026    
   Journal Club -- Omar              
   Paper: TBD   
   Individual Meetings: Oriana, Logan, Aloka, Austin    
+  Subgroup Meeting: Molecular Crystals    
 
-- August 7, 2026
+- August 7, 2026     
   Journal Club -- Austin             
   Paper: TBD   
   Individual Meetings: Kabita, Jaya, Dipesh, Sara    
+  Subgroup Meeting: Biomolecules    
 
-- July 31, 2026
+- July 31, 2026    
   Journal Club -- Logan           
   Paper: TBD   
   Individual Meetings: Oriana, Logan, Aloka, Austin    
+  Subgroup Meeting: Molecular Crystals    
 
-- July 24, 2026
+- July 24, 2026     
   Journal Club -- Oriana       
   Paper: TBD   
   Individual Meetings: Kabita, Jaya, Dipesh, Sara    
+  Subgroup Meeting: Biomolecules    
 
-- July 17, 2026
+- July 17, 2026    
   Journal Club -- Dipesh        
   Paper: TBD   
   Individual Meetings: Oriana, Logan, Aloka, Austin    
+  Subgroup Meeting: Molecular Crystals    
 
-- July 10, 2026
+- July 10, 2026    
   Journal Club -- Jaya    
   Paper: TBD   
   Individual Meetings: Kabita, Jaya, Dipesh, Sara    
+  Subgroup Meeting: Biomolecules    
 
 - July 1, 2026 (Wednesday)    
   Journal Club -- Kabita   
   Paper: TBD   
   Individual Meetings: Oriana, Logan, Aloka, Austin    
+  Subgroup Meeting: Molecular Crystals (on Wednesday)
 
 - June 26, 2026     
   Research Updates (everyone)      
   Individual Meetings: Kabita, Jaya, Dipesh, Sara    
+  Subgroup Meeting: Biomolecules    
 
 - June 19, 2026     
   No Group Meeting    
@@ -75,15 +81,18 @@ Aloka, Sara, Kabita, Jaya, Dipesh, Oriana, Logan, Austin, Omar
   Journal Club -- Sara 
   Paper: TBD   
   Individual Meetings: Kabita, Jaya, Dipesh, Sara     
+  Subgroup Meeting: Molecular Crystals    
 
 - May 29, 2026     
   Journal Club -- Aloka
   Paper: TBD   
   Individual Meetings: Oriana, Logan, Aloka, Austin    
+  Subgroup Meeting: Biomolecules    
 
 - May 22, 2026     
   General Discussions and Introductions   
   Individual Meetings: Kabita, Jaya, Dipesh, Sara    
+  Subgroup Meeting: Molecular Crystals    
 
 
 ## Spring 2026
