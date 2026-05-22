@@ -7,7 +7,7 @@ sidebar:
   nav: "resources"
 ---
 
-Updated May 20, 2026 
+Updated May 21, 2026 
 
 ## Summer 2026 
 
@@ -18,28 +18,26 @@ Updated May 20, 2026
 ### Group Meeting Schedule 
 
 - August 14, 2026    
-  Journal Club -- Omar              
+  Journal Club -- Oriana                   
   Paper: TBD   
-  Individual Meetings: Oriana, Logan, Aloka, Austin    
+  Individual Meetings: Kabita, Jaya, Dipesh, Sara     
   Subgroup Meeting: Molecular Crystals    
 
 - August 7, 2026     
-  Journal Club -- Austin             
-  Paper: TBD   
-  Individual Meetings: Kabita, Jaya, Dipesh, Sara    
+  Research Updates (everyone)      
+  Individual Meetings: Oriana, Logan, Aloka, Austin    
   Subgroup Meeting: Biomolecules    
 
 - July 31, 2026    
-  Journal Club -- Logan           
-  Paper: TBD   
-  Individual Meetings: Oriana, Logan, Aloka, Austin    
-  Subgroup Meeting: Molecular Crystals    
+  No Group Meeting    
+  No Individual Meetings   
+  No Subgroup Meeting
 
 - July 24, 2026     
-  Journal Club -- Oriana       
+  No Group Meeting    
   Paper: TBD   
-  Individual Meetings: Kabita, Jaya, Dipesh, Sara    
-  Subgroup Meeting: Biomolecules    
+  Individual Meetings: Kabita, Jaya, Dipesh, Sara (All meetings moved to Tuesday)
+  No Subgroup Meeting
 
 - July 17, 2026    
   Journal Club -- Dipesh        
@@ -53,7 +51,7 @@ Updated May 20, 2026
   Individual Meetings: Kabita, Jaya, Dipesh, Sara    
   Subgroup Meeting: Biomolecules    
 
-- July 1, 2026 (Wednesday)    
+- July 1, 2026 (on Wednesday)    
   Journal Club -- Kabita   
   Paper: TBD   
   Individual Meetings: Oriana, Logan, Aloka, Austin    
