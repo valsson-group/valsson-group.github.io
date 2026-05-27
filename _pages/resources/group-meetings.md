@@ -7,7 +7,7 @@ sidebar:
   nav: "resources"
 ---
 
-Updated May 21, 2026 
+Updated May 27, 2026 
 
 ## Summer 2026 
 
@@ -71,13 +71,13 @@ Updated May 21, 2026
   No Individual Meetings 
 
 - June 5, 2026     
-  Journal Club -- Sara 
-  Paper: TBD   
+  Journal Club -- Sara     
+  Paper: TBD     
   Individual Meetings: Kabita, Jaya, Dipesh, Sara     
   Subgroup Meeting: Molecular Crystals    
 
 - May 29, 2026     
-  Journal Club -- Aloka
+  Journal Club -- Aloka   
   Paper: TBD   
   Individual Meetings: Oriana, Logan, Aloka, Austin    
   Subgroup Meeting: Biomolecules    
