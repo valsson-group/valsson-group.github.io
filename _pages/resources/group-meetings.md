@@ -78,7 +78,7 @@ Updated May 27, 2026
 
 - May 29, 2026     
   Journal Club -- Aloka   
-  Paper: TBD   
+  Paper: [Revealing Imatinib-Kinase Specificity via Analyzing Changes in Protein Dynamics and Computing Molecular Binding Affinity](https://doi.org/10.1021/acs.jpcb.6c01412)         
   Individual Meetings: Oriana, Logan, Aloka, Austin    
   Subgroup Meeting: Biomolecules    
 
