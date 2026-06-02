@@ -7,7 +7,7 @@ sidebar:
   nav: "resources"
 ---
 
-Updated May 27, 2026 
+Updated June 1, 2026 
 
 ## Summer 2026 
 
@@ -72,7 +72,7 @@ Updated May 27, 2026
 
 - June 5, 2026     
   Journal Club -- Sara     
-  Paper: TBD     
+  Paper: [Generative Autoencoders Coupled to Monte Carlo Simulation Allow Efficient Protein Conformation Sampling](https://doi.org/10.1021/acs.jctc.5c01813)       
   Individual Meetings: Kabita, Jaya, Dipesh, Sara     
   Subgroup Meeting: Molecular Crystals    
 
