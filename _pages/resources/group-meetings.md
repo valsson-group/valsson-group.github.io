@@ -7,7 +7,7 @@ sidebar:
   nav: "resources"
 ---
 
-Updated June 1, 2026 
+Updated June 21, 2026 
 
 ## Summer 2026 
 
@@ -64,7 +64,7 @@ Updated June 1, 2026
 
 - June 19, 2026     
   No Group Meeting    
-  Individual Meetings: Oriana, Logan, Aloka, Austin     
+  Individual Meetings: Oriana, Logan, Aloka, Austin (All meetings moved to Monday, June 22)           
 
 - June 12, 2026     
   No Group Meeting    
