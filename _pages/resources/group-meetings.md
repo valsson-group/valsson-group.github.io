@@ -7,7 +7,7 @@ sidebar:
   nav: "resources"
 ---
 
-Updated June 21, 2026 
+Updated June 22, 2026 
 
 ## Summer 2026 
 
@@ -35,8 +35,7 @@ Updated June 21, 2026
 
 - July 24, 2026     
   No Group Meeting    
-  Paper: TBD   
-  Individual Meetings: Kabita, Jaya, Dipesh, Sara (All meetings moved to Tuesday)
+  Individual Meetings: Kabita, Jaya, Dipesh, Sara (All meetings moved to Tuesday)     
   No Subgroup Meeting
 
 - July 17, 2026    
@@ -65,10 +64,12 @@ Updated June 21, 2026
 - June 19, 2026     
   No Group Meeting    
   Individual Meetings: Oriana, Logan, Aloka, Austin (All meetings moved to Monday, June 22)           
+  No Subgroup Meeting
 
 - June 12, 2026     
   No Group Meeting    
   No Individual Meetings 
+  No Subgroup Meeting
 
 - June 5, 2026     
   Journal Club -- Sara     
