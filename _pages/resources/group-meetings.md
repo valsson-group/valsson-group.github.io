@@ -7,7 +7,7 @@ sidebar:
   nav: "resources"
 ---
 
-Updated June 22, 2026 
+Updated June 29, 2026 
 
 ## Summer 2026 
 
@@ -18,15 +18,15 @@ Updated June 22, 2026
 ### Group Meeting Schedule 
 
 - August 14, 2026    
-  Journal Club -- Oriana                   
+  Journal Club -- Dipesh
   Paper: TBD   
   Individual Meetings: Kabita, Jaya, Dipesh, Sara     
-  Subgroup Meeting: Molecular Crystals    
+  Subgroup Meeting: Biomolecules    
 
 - August 7, 2026     
-  Research Updates (everyone)      
+  Journal Club -- Jaya    
   Individual Meetings: Oriana, Logan, Aloka, Austin    
-  Subgroup Meeting: Biomolecules    
+  Subgroup Meeting: Molecular Crystals    
 
 - July 31, 2026    
   No Group Meeting    
@@ -39,22 +39,21 @@ Updated June 22, 2026
   No Subgroup Meeting
 
 - July 17, 2026    
-  Journal Club -- Dipesh        
+  Research Updates (everyone)      
   Paper: TBD   
   Individual Meetings: Oriana, Logan, Aloka, Austin    
-  Subgroup Meeting: Molecular Crystals    
-
-- July 10, 2026    
-  Journal Club -- Jaya    
-  Paper: TBD   
-  Individual Meetings: Kabita, Jaya, Dipesh, Sara    
   Subgroup Meeting: Biomolecules    
 
-- July 1, 2026 (on Wednesday)    
+- July 10, 2026    
   Journal Club -- Kabita   
-  Paper: TBD   
+  Paper: [Data-Driven Generation of Conformational Ensembles and Ternary Complexes for PROTAC and Other Chimera Systems](https://doi.org/10.1021/acs.jcim.5c00880)    
+  Individual Meetings: Kabita, Jaya, Dipesh, Sara    
+  Subgroup Meeting: Molecular Crystals    
+
+- July 3, 2026
+  No Group Meeting    
   Individual Meetings: Oriana, Logan, Aloka, Austin    
-  Subgroup Meeting: Molecular Crystals (on Wednesday)
+  No Subgroup Meeting
 
 - June 26, 2026     
   Research Updates (everyone)      
