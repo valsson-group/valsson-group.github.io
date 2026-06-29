@@ -18,7 +18,7 @@ Updated June 29, 2026
 ### Group Meeting Schedule 
 
 - August 14, 2026    
-  Journal Club -- Dipesh
+  Journal Club -- Dipesh     
   Paper: TBD   
   Individual Meetings: Kabita, Jaya, Dipesh, Sara     
   Subgroup Meeting: Biomolecules    
@@ -50,7 +50,7 @@ Updated June 29, 2026
   Individual Meetings: Kabita, Jaya, Dipesh, Sara    
   Subgroup Meeting: Molecular Crystals    
 
-- July 3, 2026
+- July 3, 2026       
   No Group Meeting    
   Individual Meetings: Oriana, Logan, Aloka, Austin    
   No Subgroup Meeting
