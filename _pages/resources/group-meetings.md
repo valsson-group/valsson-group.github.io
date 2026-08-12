@@ -7,7 +7,7 @@ sidebar:
   nav: "resources"
 ---
 
-Updated July 4, 2026 
+Updated August 12, 2026 
 
 ## Summer 2026 
 
@@ -18,10 +18,9 @@ Updated July 4, 2026
 ### Group Meeting Schedule 
 
 - August 14, 2026    
-  Journal Club -- Jaya    
-  Paper: TBD     
+  No Group Meeting    
   Individual Meetings: Oriana, Logan, Aloka, Austin    
-  Subgroup Meeting: Molecular Crystals    
+  No Subgroup Meeting    
 
 - August 7, 2026     
   No Group Meeting    
