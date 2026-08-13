@@ -44,6 +44,10 @@ The Valsson Research Group in February 2025: Kriti, Jaya, Kabita, Aloka, Shikshy
 - [Kabita Sharma]({{site.url}}/members/kabita-sharma)   
 ![Kabita Sharma]({{site.url}}/assets/images/KabitaSharma.jpg){: width="200px"}
 
+- [Austin Thompson]({{site.url}}/members/austin-thompson)   
+![Austin Thompson]({{site.url}}/assets/images/AustinThompson.jpg){: width="200px"}
+
+
 ## Undergraduate Students
 - Austin Thompson, Chemistry -- April 2024 to May 2025     
 - Keiran Nelson, Computer Science -- April 2024 to Present   
