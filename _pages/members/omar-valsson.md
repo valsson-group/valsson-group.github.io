@@ -25,7 +25,7 @@ Denton, Texas, USA
 * Web of Science ResearcherID: [D-2438-2010](https://www.webofscience.com/wos/author/record/D-2438-2010)  
 * ORCID: [0000-0001-7971-4767](http://orcid.org/0000-0001-7971-4767)  
 * [UNT Faculty Profile](https://facultyinfo.unt.edu/faculty-profile?query=Omar+Valsson&type=name&profile=ov0060#fndtn-general-information)  
-* [UNT Chemistry Profile](https://chemistry.unt.edu/people/omar-valsson)  
+* [UNT Chemistry Profile](https://cos.unt.edu/chemistry/people/omar-valsson.html)  
 
 ### Professional Experience
 * Assistant professor  
