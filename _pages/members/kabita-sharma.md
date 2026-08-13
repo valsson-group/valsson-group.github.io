@@ -17,7 +17,6 @@ Denton, Texas, USA
 
 * GitHub: [kabitasharma5](https://github.com/kabitasharma5) 
 * ORCID: [0000-0002-7154-4334](http://orcid.org/0000-0002-7154-4334)  
-* [UNT Chemistry Profile](https://chemistry.unt.edu/people/kabita_sharma.html)  
 
 ### Education
 * PhD in Chemistry, University of North Texas  

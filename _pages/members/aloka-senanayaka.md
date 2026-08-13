@@ -16,7 +16,6 @@ Denton, Texas, USA
 
 * GitHub: [AlokaSenanayaka](https://github.com/AlokaSenanayaka)  
 * ORCID: [0009-0003-4880-1798](https://orcid.org/0009-0003-4880-1798)  
-* [UNT Chemistry Profile](https://chemistry.unt.edu/people/aloka-senanayaka)  
 
 ### Education
 * PhD in Chemistry, University of North Texas  

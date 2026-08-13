@@ -16,7 +16,6 @@ Denton, Texas, USA
 
 * GitHub: [Logan-Estridge](https://github.com/Logan-Estridge)  
 * ORCID: [0009-0006-0349-3914](http://orcid.org/0009-0006-0349-3914)  
-* [UNT Chemistry Profile](https://chemistry.unt.edu/people/logan-estridge)  
 
 ### Education
 * PhD in Chemistry, University of North Texas  

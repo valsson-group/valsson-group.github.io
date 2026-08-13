@@ -16,7 +16,6 @@ Denton, Texas, USA
 
 * GitHub: [Axt0002](https://github.com/Axt0002)  
 * ORCID: [0009-0008-4498-0668](http://orcid.org/0009-0008-4498-0668)  
-* [UNT Chemistry Profile](https://chemistry.unt.edu/people/austin-thompson)  
 
 ### Education
 * PhD in Chemistry, University of North Texas  

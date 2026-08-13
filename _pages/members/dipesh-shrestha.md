@@ -16,7 +16,6 @@ Denton, Texas, USA
 
 * GitHub: [dpesstha](https://github.com/dpesstha)  
 * ORCID: [0000-0003-4613-199X](https://orcid.org/0000-0003-4613-199X)  
-* [UNT Chemistry Profile](https://chemistry.unt.edu/people/dipesh-shrestha)  
 
 ### Education
 * PhD in Chemistry, University of North Texas  

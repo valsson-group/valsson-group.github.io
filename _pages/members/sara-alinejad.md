@@ -18,7 +18,6 @@ Denton, Texas, USA
 * Twitter: [@Sarawonder61632](https://twitter.com/Sarawonder61632)  
 * GitHub: [SaraAlinejad](https://github.com/SaraAlinejad) 
 * ORCID: [0000-0003-2856-7394](http://orcid.org/0000-0003-2856-7394)  
-* [UNT Chemistry Profile](https://chemistry.unt.edu/people/sara-alinejad.html)  
 
 ### Education
 * PhD in Chemistry, University of North Texas  

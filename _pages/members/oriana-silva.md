@@ -17,7 +17,6 @@ Denton, Texas, USA
 * Twitter: [@orianasilvab](https://twitter.com/orianasilvab)  
 * GitHub: [OrianaSilvab](https://github.com/OrianaSilvab)  
 * ORCID: [0009-0004-0375-4243](http://orcid.org/0009-0004-0375-4243)  
-* [UNT Chemistry Profile](https://chemistry.unt.edu/people/oriana-silva-belisario)  
 
 ### Education
 * PhD in Chemistry, University of North Texas  
