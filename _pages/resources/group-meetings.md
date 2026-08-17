@@ -19,19 +19,19 @@ Updated August 17, 2026
 
 - December 18, 2026     
   Journal Club -- Sara: TBD   
-  Whiteboard Discussions: TBD 
+  Whiteboard Discussions: TBD     
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Molecular Crystals 
 
 - December 11, 2026     
   Journal Club -- Aloka: TBD   
-  Whiteboard Discussions: TBD 
+  Whiteboard Discussions: TBD     
   Individual Meetings:  Kabita, Logan, Shikshya, Dipesh   
   Subgroup Meeting: Biomolecules 
 
 - December 4, 2026     
   Journal Club -- Omar: TBD    
-  Whiteboard Discussions: TBD 
+  Whiteboard Discussions: TBD      
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Molecular Crystals  
 
@@ -41,38 +41,38 @@ Updated August 17, 2026
   No Subgroup Meeting
 
 - November 20, 2026     
-  Journal Club -- Shikshya: TBD   
-  Whiteboard Discussions: TBD 
+  Journal Club -- Shikshya: TBD     
+  Whiteboard Discussions: TBD       
   Individual Meetings:  Kabita, Logan, Shikshya, Dipesh   
   Subgroup Meeting: Biomolecules 
 
 - November 13, 2026     
   Research Updates   
-  Whiteboard Discussions: TBD 
+  Whiteboard Discussions: TBD      
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Molecular Crystals   
 
 - November 6, 2026     
-  Journal Club -- Austin: TBD   
-  Whiteboard Discussions: TBD 
+  Journal Club -- Austin: TBD      
+  Whiteboard Discussions: TBD       
   Individual Meetings:  Kabita, Logan, Shikshya, Dipesh   
   Subgroup Meeting: Biomolecules 
 
 - October 30, 2026     
-  Journal Club -- Logan: TBD   
-  Whiteboard Discussions: TBD 
+  Journal Club -- Logan: TBD      
+  Whiteboard Discussions: TBD       
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Molecular Crystals   
 
 - October 23, 2026     
-  Journal Club -- Oriana: TBD   
-  Whiteboard Discussions: TBD 
+  Journal Club -- Oriana: TBD       
+  Whiteboard Discussions: TBD       
   Individual Meetings:  Kabita, Logan, Shikshya, Dipesh   
   Subgroup Meeting: Biomolecules 
 
 - October 16, 2026     
   Research Updates     
-  Whiteboard Discussions: TBD 
+  Whiteboard Discussions: TBD       
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Molecular Crystals   
 
@@ -82,30 +82,30 @@ Updated August 17, 2026
   No Subgroup Meeting
 
 - October 2, 2026     
-  Group Theory and Whiteboard Discussion (OV away)   
-  No Individual Meetings   
+  Group Theory and Whiteboard Discussion (OV away)      
+  No Individual Meetings     
   No Subgroup Meeting   
 
 - September 25, 2026     
-  Journal Club -- Dipesh: TBD    
-  Whiteboard Discussions: TBD 
+  Journal Club -- Dipesh: TBD        
+  Whiteboard Discussions: TBD        
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Biomolecules
 
 - September 18, 2026     
-  Journal Club -- Jaya: TBD    
-  Whiteboard Discussions: TBD    
+  Journal Club -- Jaya: TBD       
+  Whiteboard Discussions: TBD        
   Individual Meetings: Kabita, Logan, Shikshya, Dipesh     
   Subgroup Meeting: Molecular Crystals        
 
 - September 11, 2026     
   Research Updates   
-  Whiteboard Discussions: TBD   
+  Whiteboard Discussions: TBD        
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Biomolecules        
 
 - September 4, 2026     
-  Group Theory and Whiteboard Discussion (OV away)     
+  Group Theory and Whiteboard Discussion (OV away)        
   Individual Meetings: Kabita, Logan, Shikshya, Dipesh (all meetings moved to Monday or Tuesday)    
   No Subgroup Meeting     
 
