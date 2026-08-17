@@ -13,25 +13,25 @@ Updated August 17, 2026
 
 - The group meetings are on Fridays from 2:00 pm to 4:00 pm in Chem 262. 
 - The subgroup meetings are on Fridays from 9:00 am to 10:00 am in Chem 262.
-- Journal Club Rotation: Jaya, Dipesh, Oriana, Logan, Austin, Shikshya, Omar, Aloka, Sara, Kabita 
+- Journal Club Rotation: Jaya, Dipesh, Oriana, Logan, Austin, Shikshya, Omar, Aloka, Sara, Kabita      
 
-### Group Meeting Schedule 
+### Group Meeting Schedule      
 
 - December 18, 2026     
   Journal Club -- Sara: TBD   
-  Whiteboard Theory Discussions -- TBD: TBD              
+  Whiteboard Theory Discussions -- Person TBD: Topic TBD              
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
-  Subgroup Meeting: Molecular Crystals 
+  Subgroup Meeting: Molecular Crystals      
 
 - December 11, 2026     
   Journal Club -- Aloka: TBD   
-  Whiteboard Theory Discussions -- TBD: TBD              
+  Whiteboard Theory Discussions -- Person TBD: Topic TBD              
   Individual Meetings:  Kabita, Logan, Shikshya, Dipesh   
   Subgroup Meeting: Biomolecules 
 
 - December 4, 2026     
   Journal Club -- Omar: TBD    
-  Whiteboard Theory Discussions -- TBD: TBD               
+  Whiteboard Theory Discussions -- Person TBD: Topic TBD               
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Molecular Crystals  
 
@@ -42,37 +42,37 @@ Updated August 17, 2026
 
 - November 20, 2026     
   Journal Club -- Shikshya: TBD     
-  Whiteboard Theory Discussions -- TBD: TBD                
+  Whiteboard Theory Discussions -- Person TBD: Topic TBD                
   Individual Meetings:  Kabita, Logan, Shikshya, Dipesh   
   Subgroup Meeting: Biomolecules 
 
 - November 13, 2026     
   Research Updates   
-  Whiteboard Theory Discussions -- TBD: TBD               
+  Whiteboard Theory Discussions -- Person TBD: Topic TBD               
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Molecular Crystals   
 
 - November 6, 2026     
   Journal Club -- Austin: TBD      
-  Whiteboard Theory Discussions -- TBD: TBD                
+  Whiteboard Theory Discussions -- Person TBD: Topic TBD                
   Individual Meetings:  Kabita, Logan, Shikshya, Dipesh   
   Subgroup Meeting: Biomolecules 
 
 - October 30, 2026     
   Journal Club -- Logan: TBD      
-  Whiteboard Theory Discussions -- TBD: TBD                
+  Whiteboard Theory Discussions -- Person TBD: Topic TBD                
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Molecular Crystals   
 
 - October 23, 2026     
   Journal Club -- Oriana: TBD       
-  Whiteboard Theory Discussions -- TBD: TBD                
+  Whiteboard Theory Discussions -- Person TBD: Topic TBD                
   Individual Meetings:  Kabita, Logan, Shikshya, Dipesh   
   Subgroup Meeting: Biomolecules 
 
 - October 16, 2026     
   Research Updates     
-  Whiteboard Theory Discussions -- TBD: TBD                
+  Whiteboard Theory Discussions -- Person TBD: Topic TBD                
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Molecular Crystals   
 
