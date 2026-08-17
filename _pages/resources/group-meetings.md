@@ -88,19 +88,19 @@ Updated August 17, 2026
 
 - September 25, 2026     
   Journal Club -- Dipesh: TBD        
-  Whiteboard Theory Discussions -- TBD: TBD                 
+  Whiteboard Theory Discussions -- Person TBD: Topic TBD                 
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Biomolecules
 
 - September 18, 2026     
   Journal Club -- Jaya: TBD       
-  Whiteboard Theory Discussions -- TBD: TBD                 
+  Whiteboard Theory Discussions -- Person TBD: Topic TBD                 
   Individual Meetings: Kabita, Logan, Shikshya, Dipesh     
   Subgroup Meeting: Molecular Crystals        
 
 - September 11, 2026     
   Research Updates   
-  Whiteboard Theory Discussions -- TBD: TBD                 
+  Whiteboard Theory Discussions -- Person TBD: Topic TBD                 
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Biomolecules        
 
