@@ -7,7 +7,7 @@ sidebar:
   nav: "resources"
 ---
 
-Updated August 17, 2026 
+Updated August 23, 2026 
 
 ## Fall 2026 
 
@@ -18,19 +18,19 @@ Updated August 17, 2026
 ### Group Meeting Schedule      
 
 - December 18, 2026     
-  Journal Club -- Sara: TBD   
+  Journal Club -- Aloka: TBD   
   Whiteboard Theory Discussions -- Person TBD: Topic TBD              
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Molecular Crystals      
 
 - December 11, 2026     
-  Journal Club -- Aloka: TBD   
+  Journal Club -- Omar: TBD   
   Whiteboard Theory Discussions -- Person TBD: Topic TBD              
   Individual Meetings:  Kabita, Logan, Shikshya, Dipesh   
   Subgroup Meeting: Biomolecules 
 
 - December 4, 2026     
-  Journal Club -- Omar: TBD    
+  Journal Club -- Shikshya: TBD    
   Whiteboard Theory Discussions -- Person TBD: Topic TBD               
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Molecular Crystals  
@@ -41,19 +41,19 @@ Updated August 17, 2026
   No Subgroup Meeting
 
 - November 20, 2026     
-  Journal Club -- Shikshya: TBD     
+  Research Updates   
   Whiteboard Theory Discussions -- Person TBD: Topic TBD                
   Individual Meetings:  Kabita, Logan, Shikshya, Dipesh   
   Subgroup Meeting: Biomolecules 
 
 - November 13, 2026     
-  Research Updates   
+  Journal Club -- Austin: TBD    
   Whiteboard Theory Discussions -- Person TBD: Topic TBD               
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Molecular Crystals   
 
 - November 6, 2026     
-  Journal Club -- Austin: TBD      
+  ACS SWRM Practice Presentations  
   Whiteboard Theory Discussions -- Person TBD: Topic TBD                
   Individual Meetings:  Kabita, Logan, Shikshya, Dipesh   
   Subgroup Meeting: Biomolecules 
@@ -94,13 +94,13 @@ Updated August 17, 2026
 
 - September 18, 2026     
   Journal Club -- Jaya: TBD       
-  Whiteboard Theory Discussions -- Person TBD: Topic TBD                 
+  Whiteboard Theory Discussions -- Person TBD: Biased sampling; well-tempered distribution; static reweighting;       
   Individual Meetings: Kabita, Logan, Shikshya, Dipesh     
   Subgroup Meeting: Molecular Crystals        
 
 - September 11, 2026     
   Research Updates   
-  Whiteboard Theory Discussions -- Person TBD: Topic TBD                 
+  Whiteboard Theory Discussions -- Person TBD: Basics of free energy landscapes; free energy differences;      
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Biomolecules        
 
