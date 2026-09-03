@@ -7,7 +7,7 @@ sidebar:
   nav: "resources"
 ---
 
-Updated August 23, 2026 
+Updated September 3, 2026 
 
 ## Fall 2026 
 
@@ -100,7 +100,7 @@ Updated August 23, 2026
 
 - September 11, 2026     
   Research Updates   
-  Whiteboard Theory Discussions -- Person TBD: Basics of free energy landscapes; free energy differences;      
+  Whiteboard Theory Discussions -- Austin: Basics of free energy landscapes; free energy differences;      
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Biomolecules        
 
