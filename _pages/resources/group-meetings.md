@@ -7,7 +7,7 @@ sidebar:
   nav: "resources"
 ---
 
-Updated September 3, 2026 
+Updated September 13, 2026 
 
 ## Fall 2026 
 
@@ -88,13 +88,13 @@ Updated September 3, 2026
 
 - September 25, 2026     
   Journal Club -- Dipesh: TBD        
-  Whiteboard Theory Discussions -- Person TBD: Topic TBD                 
+  Whiteboard Theory Discussions -- Person TBD: Biased sampling; well-tempered distribution; static reweighting;       
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Biomolecules
 
 - September 18, 2026     
   Journal Club -- Jaya: TBD       
-  Whiteboard Theory Discussions -- Person TBD: Biased sampling; well-tempered distribution; static reweighting;       
+  Whiteboard Theory Discussions -- Austin: Basics of free energy landscapes; free energy differences;      
   Individual Meetings: Kabita, Logan, Shikshya, Dipesh     
   Subgroup Meeting: Molecular Crystals        
 
