@@ -31,4 +31,3 @@ Denton, Texas, USA
 
 ### Contact Information
 * Email: [JayaPathak@my.unt.edu](mailto:JayaPathak@my.unt.edu)  
-  Office: Chem 262 (UNT Chemistry)

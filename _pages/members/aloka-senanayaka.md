@@ -29,4 +29,3 @@ Denton, Texas, USA
 
 ### Contact Information
 * Email: [AlokaPatabendiMudiyanselage@my.unt.edu](mailto:AlokaPatabendiMudiyanselage@my.unt.edu)  
-  Office: Chem 262 (UNT Chemistry)

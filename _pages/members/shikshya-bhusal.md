@@ -29,4 +29,3 @@ Denton, Texas, USA
 
 ### Contact Information
 * Email: [ShikshyaBhusal@my.unt.edu](mailto:ShikshyaBhusal@my.unt.edu)  
-  Office: Chem 262 (UNT Chemistry)

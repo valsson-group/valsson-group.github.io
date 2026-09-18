@@ -31,4 +31,3 @@ Denton, Texas, USA
 
 ### Contact Information
 * Email: [kabitasharma@my.unt.edu](mailto:kabitasharma@my.unt.edu)  
-  Office: Chem 262 (UNT Chemistry)

@@ -30,4 +30,3 @@ Denton, Texas, USA
 
 ### Contact Information
 * Email: [LoganEstridge@my.unt.edu](mailto:LoganEstridge@my.unt.edu)  
-  Office: Chem 262 (UNT Chemistry)

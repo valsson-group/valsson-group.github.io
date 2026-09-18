@@ -32,4 +32,3 @@ Denton, Texas, USA
 
 ### Contact Information
 * Email: [OrianaSilvaBelisario@my.unt.edu](mailto:OrianaSilvaBelisario@my.unt.edu)  
-  Office: Chem 262 (UNT Chemistry)

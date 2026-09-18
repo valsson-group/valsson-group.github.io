@@ -30,4 +30,3 @@ Denton, Texas, USA
 
 ### Contact Information
 * Email: [DipeshShrestha@my.unt.edu](mailto:DipeshShrestha@my.unt.edu)  
-  Office: Chem 262 (UNT Chemistry)

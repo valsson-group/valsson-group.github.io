@@ -50,17 +50,17 @@ The Valsson Research Group in February 2025: Kriti, Jaya, Kabita, Aloka, Shikshy
 
 ## Undergraduate Students
 - Austin Thompson, Chemistry -- April 2024 to May 2025     
-- Keiran Nelson, Computer Science -- April 2024 to Present   
+- Keiran Nelson, Computer Science -- April 2024 to August 2025   
 - Danielle Walder, Chemistry -- April 2024 to Present      
 - Sachin Gordhan, Chemistry -- September 2024 to May 2025        
 - Devin Williams, Chemistry -- September 2024 to Present   
-- Ryan Lee, Texas Academy of Mathematics and Science (TAMS) -- September 2024 to Present   
+- Ryan Lee, Texas Academy of Mathematics and Science (TAMS) -- September 2024 to May 2026   
 - Bea Venice Jane Buhawe, Biochemistry -- March 2025 to Present    
 - Daianna Vazquez, Chemistry -- March 2025 to July 2025        
-- Suhita Sainathuni, Texas Academy of Mathematics and Science (TAMS) -- April 2025 to Present   
 - Mmesoma Atani, Pre-Medical -- September 2025 to Present    
 - Viraj Shrivastava, Texas Academy of Mathematics and Science (TAMS) -- September 2025 to Present   
 - Jacquilyn Ly, Biochemistry -- November 2025 to Present   
+- Samanvita Meka, Texas Academy of Mathematics and Science (TAMS) -- May 2026 to Present   
 
 ## Graduated PhD Students 
 - Dr. Pradip Si, PhD Student at the University of North Texas, Graduated in December 2025.

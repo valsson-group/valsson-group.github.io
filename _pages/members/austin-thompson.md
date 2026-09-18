@@ -30,4 +30,3 @@ Denton, Texas, USA
 
 ### Contact Information
 * Email: [AustinThompson@my.unt.edu](mailto:AustinThompson@my.unt.edu)  
-  Office: Chem 262 (UNT Chemistry)

@@ -32,4 +32,3 @@ Denton, Texas, USA
 
 ### Contact Information
 * Email: [SaraAlinejad@my.unt.edu](mailto:SaraAlinejad@my.unt.edu)  
-  Office: Chem 262 (UNT Chemistry)
