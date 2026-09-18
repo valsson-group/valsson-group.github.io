@@ -7,7 +7,7 @@ sidebar:
   nav: "resources"
 ---
 
-Updated September 16, 2026 
+Updated September 17, 2026 
 
 ## Fall 2026 
 
@@ -93,7 +93,7 @@ Updated September 16, 2026
   Subgroup Meeting: Molecular Crystals        
 
 - September 18, 2026     
-  Journal Club -- Jaya: TBD       
+  Journal Club -- Jaya: [Structural Ensembles of Intrinsically Disordered Proteins Depend Strongly on Force Field: A Comparison to Experiment](https://doi.org/10.1021/acs.jctc.5b00736)             
   Whiteboard Theory Discussions -- Austin: Basics of free energy landscapes; free energy differences;      
   Individual Meetings: Kabita, Logan, Shikshya, Dipesh     
   Subgroup Meeting: Biomolecules       
