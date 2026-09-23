@@ -7,7 +7,7 @@ sidebar:
   nav: "resources"
 ---
 
-Updated September 17, 2026 
+Updated September 23, 2026 
 
 ## Fall 2026 
 
@@ -88,7 +88,7 @@ Updated September 17, 2026
 
 - September 25, 2026     
   Journal Club -- Dipesh: TBD        
-  Whiteboard Theory Discussions -- Person TBD: Biased sampling; well-tempered distribution; static reweighting;       
+  Whiteboard Theory Discussions -- Aloka: Biased sampling; well-tempered distribution; static reweighting;       
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Molecular Crystals        
 
