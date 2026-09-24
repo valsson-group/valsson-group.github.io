@@ -7,7 +7,7 @@ sidebar:
   nav: "resources"
 ---
 
-Updated September 23, 2026 
+Updated September 24, 2026 
 
 ## Fall 2026 
 
@@ -87,7 +87,7 @@ Updated September 23, 2026
   No Subgroup Meeting   
 
 - September 25, 2026     
-  Journal Club -- Dipesh: TBD        
+  Journal Club -- Dipesh: [Molecular Mechanism of Chiral Recognition of R- and S-Methamphetamine by the Human Dopamine Transporter: Insights from Thermodynamic and Kinetic Analyses](https://doi.org/10.1021/acs.jcim.6c01830)     
   Whiteboard Theory Discussions -- Aloka: Biased sampling; well-tempered distribution; static reweighting;       
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Molecular Crystals        
