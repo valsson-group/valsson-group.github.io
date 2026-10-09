@@ -47,7 +47,7 @@ Updated October 9, 2026
   Subgroup Meeting: Molecular Crystals 
 
 - November 13, 2026     
-  Journal Club -- Logan: TBD   
+  Journal Club -- Oriana: TBD   
   Whiteboard Theory Discussions -- Person TBD: Topic TBD               
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Biomolecules         
@@ -59,7 +59,7 @@ Updated October 9, 2026
   Subgroup Meeting: Molecular Crystals 
 
 - October 30, 2026     
-  Journal Club -- Oriana: TBD      
+  Journal Club -- Logan: TBD      
   Whiteboard Theory Discussions -- Aloka: Second session of biased sampling; well-tempered distribution; static reweighting;       
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Biomolecules         
