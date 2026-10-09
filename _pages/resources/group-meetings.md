@@ -37,7 +37,7 @@ Updated October 9, 2026
 
 - November 27, 2026     
   No Group Meeting -- Thanksgiving Break    
-  No Individual Meetings
+  No Individual Meetings     
   No Subgroup Meeting
 
 - November 20, 2026     
