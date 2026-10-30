@@ -7,7 +7,7 @@ sidebar:
   nav: "resources"
 ---
 
-Updated October 9, 2026 
+Updated October 30, 2026 
 
 ## Fall 2026 
 
@@ -59,7 +59,7 @@ Updated October 9, 2026
   Subgroup Meeting: Molecular Crystals 
 
 - October 30, 2026     
-  Journal Club -- Logan: TBD      
+  Journal Club -- Logan: [Mixture of experts architectures for machine learning interatomic potentials](https://doi.org/10.1038/s44387-026-00144-9)     
   Whiteboard Theory Discussions -- Aloka: Second session of biased sampling; well-tempered distribution; static reweighting;       
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Biomolecules         
