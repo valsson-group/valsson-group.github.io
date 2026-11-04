@@ -7,7 +7,7 @@ sidebar:
   nav: "resources"
 ---
 
-Updated October 30, 2026 
+Updated November 4, 2026 
 
 ## Fall 2026 
 
@@ -21,19 +21,19 @@ Updated October 30, 2026
   Journal Club -- Omar: TBD   
   Whiteboard Theory Discussions -- Person TBD: Topic TBD              
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
-  Subgroup Meeting: Biomolecules         
+  Subgroup Meeting: Molecular Crystals 
 
 - December 11, 2026     
   Journal Club -- Shikshya: TBD   
   Whiteboard Theory Discussions -- Person TBD: Topic TBD              
   Individual Meetings:  Kabita, Logan, Shikshya, Dipesh   
-  Subgroup Meeting: Molecular Crystals 
+  Subgroup Meeting: Biomolecules 
 
 - December 4, 2026     
   Journal Club -- Austin: TBD    
   Whiteboard Theory Discussions -- Person TBD: Topic TBD               
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
-  Subgroup Meeting: Biomolecules         
+  Subgroup Meeting: Molecular Crystals 
 
 - November 27, 2026     
   No Group Meeting -- Thanksgiving Break    
@@ -44,25 +44,24 @@ Updated October 30, 2026
   Research Updates   
   Whiteboard Theory Discussions -- Person TBD: Topic TBD                
   Individual Meetings:  Kabita, Logan, Shikshya, Dipesh   
-  Subgroup Meeting: Molecular Crystals 
+  Subgroup Meeting: Biomolecules 
 
 - November 13, 2026     
   Journal Club -- Oriana: TBD   
-  Whiteboard Theory Discussions -- Person TBD: Topic TBD               
+  Whiteboard Theory Discussions -- Person TBD: Lennard-Jones potential     
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
-  Subgroup Meeting: Biomolecules         
+  Subgroup Meeting: Molecular Crystals 
 
 - November 6, 2026     
   ACS SWRM Practice Presentations  
-  Whiteboard Theory Discussions -- Person TBD: Lennard-Jones potential     
   Individual Meetings:  Kabita, Logan, Shikshya, Dipesh   
-  Subgroup Meeting: Molecular Crystals 
+  Subgroup Meeting: Biomolecules 
 
 - October 30, 2026     
   Journal Club -- Logan: [Mixture of experts architectures for machine learning interatomic potentials](https://doi.org/10.1038/s44387-026-00144-9)     
   Whiteboard Theory Discussions -- Aloka: Second session of biased sampling; well-tempered distribution; static reweighting;       
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
-  Subgroup Meeting: Biomolecules         
+  No Subgroup Meeting    
 
 - October 23, 2026     
   Research Updates    
