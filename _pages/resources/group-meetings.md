@@ -7,7 +7,7 @@ sidebar:
   nav: "resources"
 ---
 
-Updated November 4, 2026 
+Updated November 9, 2026 
 
 ## Fall 2026 
 
@@ -18,22 +18,22 @@ Updated November 4, 2026
 ### Group Meeting Schedule      
 
 - December 18, 2026     
-  Journal Club -- Omar: TBD   
-  Whiteboard Theory Discussions -- Person TBD: Topic TBD              
-  Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
-  Subgroup Meeting: Molecular Crystals 
-
-- December 11, 2026     
   Journal Club -- Shikshya: TBD   
   Whiteboard Theory Discussions -- Person TBD: Topic TBD              
-  Individual Meetings:  Kabita, Logan, Shikshya, Dipesh   
-  Subgroup Meeting: Biomolecules 
+  Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
+  Subgroup Meeting: PROTACs   
+
+- December 11, 2026     
+  Journal Club -- Austin: TBD   
+  Whiteboard Theory Discussions -- Person TBD: Topic TBD              
+  Individual Meetings: Kabita, Logan, Shikshya, Dipesh   
+  Subgroup Meeting: Molecular Crystals   
 
 - December 4, 2026     
-  Journal Club -- Austin: TBD    
-  Whiteboard Theory Discussions -- Person TBD: Topic TBD               
+  Journal Club -- Oriana: TBD   
+  Whiteboard Theory Discussions -- Person TBD: Lennard-Jones potential     
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
-  Subgroup Meeting: Molecular Crystals 
+  Subgroup Meeting: Biomolecules    
 
 - November 27, 2026     
   No Group Meeting -- Thanksgiving Break    
@@ -42,19 +42,18 @@ Updated November 4, 2026
 
 - November 20, 2026     
   Research Updates   
-  Whiteboard Theory Discussions -- Person TBD: Topic TBD                
-  Individual Meetings:  Kabita, Logan, Shikshya, Dipesh   
-  Subgroup Meeting: Biomolecules 
+  Individual Meetings: Kabita, Logan, Shikshya, Dipesh   
+  Subgroup Meeting: PROTACs 
 
 - November 13, 2026     
-  Journal Club -- Oriana: TBD   
-  Whiteboard Theory Discussions -- Person TBD: Lennard-Jones potential     
+  ACS SWRM Practice Presentations  
+  Theory Discussions about LJ-7 project    
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Molecular Crystals 
 
 - November 6, 2026     
   ACS SWRM Practice Presentations  
-  Individual Meetings:  Kabita, Logan, Shikshya, Dipesh   
+  Individual Meetings: Kabita, Logan, Shikshya, Dipesh   
   Subgroup Meeting: Biomolecules 
 
 - October 30, 2026     
@@ -65,7 +64,7 @@ Updated November 4, 2026
 
 - October 23, 2026     
   Research Updates    
-  Individual Meetings:  Kabita, Logan, Shikshya, Dipesh   
+  Individual Meetings: Kabita, Logan, Shikshya, Dipesh   
   Subgroup Meeting: Molecular Crystals 
 
 - October 16, 2026     
