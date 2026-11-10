@@ -7,7 +7,7 @@ sidebar:
   nav: "resources"
 ---
 
-Updated November 9, 2026 
+Updated November 10, 2026 
 
 ## Fall 2026 
 
@@ -21,13 +21,13 @@ Updated November 9, 2026
   Journal Club -- Shikshya: TBD   
   Whiteboard Theory Discussions -- Person TBD: Topic TBD              
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
-  Subgroup Meeting: PROTACs   
+  Subgroup Meeting: Molecular Crystals  
 
 - December 11, 2026     
   Journal Club -- Austin: TBD   
   Whiteboard Theory Discussions -- Person TBD: Topic TBD              
   Individual Meetings: Kabita, Logan, Shikshya, Dipesh   
-  Subgroup Meeting: Molecular Crystals   
+  Subgroup Meeting: PROTACs    
 
 - December 4, 2026     
   Journal Club -- Oriana: TBD   
@@ -43,13 +43,13 @@ Updated November 9, 2026
 - November 20, 2026     
   Research Updates   
   Individual Meetings: Kabita, Logan, Shikshya, Dipesh   
-  Subgroup Meeting: PROTACs 
+  Subgroup Meeting: Molecular Crystals 
 
 - November 13, 2026     
   ACS SWRM Practice Presentations  
-  Theory Discussions about LJ-7 project    
+  Theory Discussions about the LJ-7 project    
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
-  Subgroup Meeting: Molecular Crystals 
+  Subgroup Meeting: PROTACs
 
 - November 6, 2026     
   ACS SWRM Practice Presentations  
