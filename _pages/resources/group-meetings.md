@@ -18,19 +18,19 @@ Updated November 10, 2026
 ### Group Meeting Schedule      
 
 - December 18, 2026     
-  Journal Club -- Shikshya: TBD   
+  Journal Club -- Austin: TBD   
   Whiteboard Theory Discussions -- Person TBD: Topic TBD              
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Molecular Crystals  
 
 - December 11, 2026     
-  Journal Club -- Austin: TBD   
+  Journal Club -- Oriana: TBD   
   Whiteboard Theory Discussions -- Person TBD: Topic TBD              
   Individual Meetings: Kabita, Logan, Shikshya, Dipesh   
   Subgroup Meeting: PROTACs    
 
 - December 4, 2026     
-  Journal Club -- Oriana: TBD   
+  Journal Club -- Omar: TBD   
   Whiteboard Theory Discussions -- Person TBD: Lennard-Jones potential     
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: Biomolecules    
