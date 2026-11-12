@@ -7,7 +7,7 @@ sidebar:
   nav: "resources"
 ---
 
-Updated November 10, 2026 
+Updated November 12, 2026 
 
 ## Fall 2026 
 
