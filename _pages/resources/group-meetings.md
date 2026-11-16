@@ -7,7 +7,7 @@ sidebar:
   nav: "resources"
 ---
 
-Updated November 12, 2026 
+Updated November 16, 2026 
 
 ## Fall 2026 
 
@@ -40,14 +40,13 @@ Updated November 12, 2026
   No Individual Meetings     
   No Subgroup Meeting
 
-- November 20, 2026     
+- November 20, 2026 -- Starts at 1:00 pm     
   Research Updates   
   Individual Meetings: Kabita, Logan, Shikshya, Dipesh   
   Subgroup Meeting: Molecular Crystals 
 
 - November 13, 2026     
   ACS SWRM Practice Presentations  
-  Theory Discussions about the LJ-7 project    
   Individual Meetings: Aloka, Oriana, Austin, Sara, Jaya    
   Subgroup Meeting: PROTACs
 
